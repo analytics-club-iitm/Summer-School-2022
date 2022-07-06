@@ -3,7 +3,7 @@
 This repository contains all the slides/notes used during the Summer School conducted at IIT Madras.
 The sessions were jointly conducted by Analytics Club and Computer Vision and Intelligence Club.
 
-To join the Team, use the [Invite Link](https://teams.microsoft.com/l/team/19%3aW0nEI8aek4V3o43c4qY-tD6xyJo5sXYsMdn_FdIe5Wo1%40thread.tacv2/conversations?groupId=180eb08e-92c8-4350-a20d-733c861559b3&tenantId=187ca15f-54e0-4673-86f6-b6d7f4c75eef) or use code `63fh2y3`.
+To join the Miscrosoft Teams, use the [Invite Link](https://teams.microsoft.com/l/team/19%3aW0nEI8aek4V3o43c4qY-tD6xyJo5sXYsMdn_FdIe5Wo1%40thread.tacv2/conversations?groupId=180eb08e-92c8-4350-a20d-733c861559b3&tenantId=187ca15f-54e0-4673-86f6-b6d7f4c75eef) or use code `63fh2y3`.
 
 
 | Session | Date           | Topic                                               | Contents          | Session Notes/Slides | Recording     |
