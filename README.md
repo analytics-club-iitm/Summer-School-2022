@@ -8,7 +8,7 @@ To join the Miscrosoft Teams, use the [Invite Link](https://teams.microsoft.com/
 
 | Session | Date           | Topic                                               | Contents          | Session Notes/Slides | Recording     |
 | :-----: | :------------  | :-------------------------------------------------- | :---------------- | :------------------- | :------------- |
-| 1       | July 6th 2022  | Introduction to Python, Numpy and Pandas            | Python, GiT, Numpy, Pandas     | [Session 1](/Session_1/) | [Recording](https://smailiitmacin.sharepoint.com/:v:/r/sites/AnalyticsCVISummerSchool2022-group/Shared%20Documents/Session%201%20(6th%20July)/Recordings/Session%201%20(6th%20July)-20220706_140424-Meeting%20Recording.mp4?csf=1&web=1&e=3hszeK) |
+| 1       | July 6th 2022  | Introduction to Python, Numpy and Pandas            | Python, GiT, Numpy, Pandas     | [Session 1](/Session_1/) | [Recording](https://youtu.be/gj-4Ak04cN8) |
 | 2       | July 8th 2022  | Visualization using Matplotlib, Introduction to Machine Learning | Matplotlib, Linear/Logistic/Polynomial Regression | To be updated        | To be updated |
 | 3       | July 11th 2022 | Understanding Machine Learning Models (Part 1)      | Simple Vector Machines, Naive Bayes, Performance Metrics | To be updated        | To be updated |
 | 4       | July 13th 2022 | Understanding Machine Learning Models (Part 2)      | Tree-based Models, Ensemble Methods, Recommendation Systems | To be updated        | To be updated |
