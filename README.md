@@ -11,7 +11,7 @@ To join the Miscrosoft Teams, use the [Invite Link](https://teams.microsoft.com/
 
 | Task | Description | Link | Deadline |
 | :--- | :---------- | :--- | :------- |
-| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 8th 2022, 12 Noon |
+| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 11th 2022, 12 Noon |
 
 ## Sessions
 
