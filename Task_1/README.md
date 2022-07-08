@@ -1,7 +1,7 @@
 # Task 1
 # Data Visualization Challenge
 
-A [dataset](/data/data.csv) contains employee data who left the company between 4/2012 and 3/2015. The meaning of each of the column names in mentioned in the figure below.
+A [dataset](/Task_1/data/data.csv) contains employee data who left the company between 4/2012 and 3/2015. The meaning of each of the column names in mentioned in the figure below.
 
 | Column Name | Description |
 | :---------- | :---------- |
@@ -22,7 +22,7 @@ A [dataset](/data/data.csv) contains employee data who left the company between 
 | Zone | State Region |
 | Remarks | Remarks upon resignation |
 
-The aim of this challenge is to visualize and get the essence of that the [dataset](/data/data.csv) represents.
+The aim of this challenge is to visualize and get the essence of that the [dataset](/Task_1/data/data.csv) represents.
 
 ## Instructions
 
