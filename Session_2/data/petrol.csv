@@ -1,0 +1,5049 @@
+city,date,rate,state
+Hyderabad,2011-12-01,73.07,Telangana
+Hyderabad,2012-04-01,73.08,Telangana
+Hyderabad,2012-05-24,81.44,Telangana
+Hyderabad,2012-06-03,78.11,Telangana
+Hyderabad,2012-06-29,74.89,Telangana
+Hyderabad,2012-07-24,75.8,Telangana
+Hyderabad,2012-07-25,75.42,Telangana
+Hyderabad,2012-10-09,74.68,Telangana
+Hyderabad,2012-10-27,74.98,Telangana
+Hyderabad,2012-11-16,73.73,Telangana
+Hyderabad,2013-01-18,73.41,Telangana
+Hyderabad,2013-02-16,75.37,Telangana
+Hyderabad,2013-03-02,77.21,Telangana
+Hyderabad,2013-03-16,74.59,Telangana
+Hyderabad,2013-04-02,73.44,Telangana
+Hyderabad,2013-04-16,72.14,Telangana
+Hyderabad,2013-05-01,68.86,Telangana
+Hyderabad,2013-06-01,69.84,Telangana
+Hyderabad,2013-06-16,72.46,Telangana
+Hyderabad,2013-06-29,74.9,Telangana
+Hyderabad,2013-07-15,76.94,Telangana
+Hyderabad,2013-08-01,77.85,Telangana
+Hyderabad,2013-09-01,80.93,Telangana
+Hyderabad,2013-09-14,83.07,Telangana
+Hyderabad,2013-10-01,79.08,Telangana
+Hyderabad,2013-11-01,77.57,Telangana
+Hyderabad,2013-12-21,78.1,Telangana
+Hyderabad,2014-01-04,79.11,Telangana
+Hyderabad,2014-03-01,79.9,Telangana
+Hyderabad,2014-04-01,78.92,Telangana
+Hyderabad,2014-04-16,78.0,Telangana
+Hyderabad,2014-06-07,78.11,Telangana
+Hyderabad,2014-06-25,78.17,Telangana
+Hyderabad,2014-07-01,80.41,Telangana
+Hyderabad,2014-08-01,79.22,Telangana
+Hyderabad,2014-08-15,76.84,Telangana
+Hyderabad,2014-08-31,74.86,Telangana
+Hyderabad,2014-10-01,74.15,Telangana
+Hyderabad,2014-10-15,72.83,Telangana
+Hyderabad,2014-11-01,70.19,Telangana
+Hyderabad,2014-12-01,69.19,Telangana
+Hyderabad,2014-12-16,67.02,Telangana
+Hyderabad,2015-01-17,64.37,Telangana
+Hyderabad,2015-02-01,66.38,Telangana
+Hyderabad,2015-02-04,63.81,Telangana
+Hyderabad,2015-02-06,63.73,Telangana
+Hyderabad,2015-02-16,64.65,Telangana
+Hyderabad,2015-03-01,68.23,Telangana
+Hyderabad,2015-04-02,67.69,Telangana
+Hyderabad,2015-04-15,66.79,Telangana
+Hyderabad,2015-05-01,71.21,Telangana
+Hyderabad,2015-05-16,74.73,Telangana
+Hyderabad,2015-06-16,75.45,Telangana
+Hyderabad,2015-07-01,75.11,Telangana
+Hyderabad,2015-07-15,72.52,Telangana
+Hyderabad,2015-08-01,69.82,Telangana
+Hyderabad,2015-08-15,68.45,Telangana
+Hyderabad,2015-09-01,66.29,Telangana
+Hyderabad,2015-11-01,65.76,Telangana
+Hyderabad,2015-11-16,66.07,Telangana
+Hyderabad,2015-12-01,65.47,Telangana
+Hyderabad,2015-12-16,64.92,Telangana
+Hyderabad,2016-01-01,64.24,Telangana
+Hyderabad,2016-01-16,63.9,Telangana
+Hyderabad,2016-02-01,63.85,Telangana
+Hyderabad,2016-02-17,63.84,Telangana
+Hyderabad,2016-03-09,60.63,Telangana
+Hyderabad,2016-03-17,63.9,Telangana
+Hyderabad,2016-04-05,66.22,Telangana
+Hyderabad,2016-04-16,65.18,Telangana
+Hyderabad,2016-05-01,66.29,Telangana
+Hyderabad,2016-05-17,67.17,Telangana
+Hyderabad,2016-06-01,69.91,Telangana
+Hyderabad,2016-06-16,69.96,Telangana
+Hyderabad,2016-07-01,69.06,Telangana
+Hyderabad,2016-07-15,66.67,Telangana
+Hyderabad,2016-08-01,65.22,Telangana
+Hyderabad,2016-08-15,64.16,Telangana
+Hyderabad,2016-09-01,67.75,Telangana
+Hyderabad,2016-09-15,68.56,Telangana
+Hyderabad,2016-10-01,68.95,Telangana
+Hyderabad,2016-10-05,69.07,Telangana
+Hyderabad,2016-10-15,70.91,Telangana
+Hyderabad,2016-11-06,72.25,Telangana
+Hyderabad,2016-11-16,70.4,Telangana
+Hyderabad,2016-12-01,70.58,Telangana
+Hyderabad,2016-12-17,73.61,Telangana
+Hyderabad,2017-01-01,75.37,Telangana
+Hyderabad,2017-01-16,75.94,Telangana
+Hyderabad,2017-04-01,70.81,Telangana
+Hyderabad,2017-04-16,72.7,Telangana
+Hyderabad,2017-05-01,72.72,Telangana
+Hyderabad,2017-05-16,69.8,Telangana
+Hyderabad,2017-06-01,71.49,Telangana
+Hyderabad,2017-06-16,69.61,Telangana
+Hyderabad,2017-06-19,68.73,Telangana
+Hyderabad,2017-06-20,68.57,Telangana
+Hyderabad,2017-06-21,68.62,Telangana
+Hyderabad,2017-06-22,68.46,Telangana
+Hyderabad,2017-06-23,68.23,Telangana
+Hyderabad,2017-06-26,67.56,Telangana
+Hyderabad,2017-06-27,67.42,Telangana
+Hyderabad,2017-06-28,67.46,Telangana
+Hyderabad,2017-06-29,67.42,Telangana
+Hyderabad,2017-06-30,67.3,Telangana
+Hyderabad,2017-07-03,67.11,Telangana
+Hyderabad,2017-07-04,67.01,Telangana
+Hyderabad,2017-07-05,67.06,Telangana
+Hyderabad,2017-07-06,67.13,Telangana
+Hyderabad,2017-07-07,67.27,Telangana
+Hyderabad,2017-07-10,67.85,Telangana
+Hyderabad,2017-07-11,67.91,Telangana
+Hyderabad,2017-07-12,67.96,Telangana
+Hyderabad,2017-07-13,67.89,Telangana
+Hyderabad,2017-07-14,67.87,Telangana
+Hyderabad,2017-07-17,68.22,Telangana
+Hyderabad,2017-07-18,68.2,Telangana
+Hyderabad,2017-07-19,68.28,Telangana
+Hyderabad,2017-07-20,68.33,Telangana
+Hyderabad,2017-07-21,68.28,Telangana
+Hyderabad,2017-07-24,68.62,Telangana
+Hyderabad,2017-07-25,68.67,Telangana
+Hyderabad,2017-07-26,68.59,Telangana
+Hyderabad,2017-07-27,68.61,Telangana
+Hyderabad,2017-07-28,68.72,Telangana
+Hyderabad,2017-07-31,69.32,Telangana
+Hyderabad,2017-08-01,69.31,Telangana
+Hyderabad,2017-08-04,69.87,Telangana
+Hyderabad,2017-08-07,70.65,Telangana
+Hyderabad,2017-08-08,70.66,Telangana
+Hyderabad,2017-08-09,70.73,Telangana
+Hyderabad,2017-08-10,70.89,Telangana
+Hyderabad,2017-08-11,71.22,Telangana
+Hyderabad,2017-08-14,72.02,Telangana
+Hyderabad,2017-08-16,72.14,Telangana
+Hyderabad,2017-08-17,72.25,Telangana
+Hyderabad,2017-08-18,72.31,Telangana
+Hyderabad,2017-08-21,72.64,Telangana
+Hyderabad,2017-08-22,72.7,Telangana
+Hyderabad,2017-08-23,72.85,Telangana
+Hyderabad,2017-08-24,72.93,Telangana
+Hyderabad,2017-08-28,73.23,Telangana
+Hyderabad,2017-08-29,73.18,Telangana
+Hyderabad,2017-08-30,73.26,Telangana
+Hyderabad,2017-08-31,73.29,Telangana
+Hyderabad,2017-09-01,73.34,Telangana
+Hyderabad,2017-09-04,73.73,Telangana
+Hyderabad,2017-09-05,73.81,Telangana
+Hyderabad,2017-09-07,73.91,Telangana
+Hyderabad,2017-09-08,74.0,Telangana
+Hyderabad,2017-09-11,74.41,Telangana
+Hyderabad,2017-09-12,74.52,Telangana
+Hyderabad,2017-09-13,74.49,Telangana
+Hyderabad,2017-09-14,74.54,Telangana
+Hyderabad,2017-09-15,74.58,Telangana
+Hyderabad,2017-09-19,74.64,Telangana
+Hyderabad,2017-09-20,74.68,Telangana
+Hyderabad,2017-09-21,74.64,Telangana
+Hyderabad,2017-09-22,74.62,Telangana
+Hyderabad,2017-09-25,74.53,Telangana
+Hyderabad,2017-09-26,74.56,Telangana
+Hyderabad,2017-09-27,74.53,Telangana
+Hyderabad,2017-09-28,74.61,Telangana
+Hyderabad,2017-09-29,74.72,Telangana
+Hyderabad,2017-10-03,75.01,Telangana
+Hyderabad,2017-10-04,72.4,Telangana
+Hyderabad,2017-10-05,72.36,Telangana
+Hyderabad,2017-10-06,72.38,Telangana
+Hyderabad,2017-10-09,72.44,Telangana
+Hyderabad,2017-10-10,72.48,Telangana
+Hyderabad,2017-10-11,72.51,Telangana
+Hyderabad,2017-10-12,72.44,Telangana
+Hyderabad,2017-10-13,72.46,Telangana
+Hyderabad,2017-10-16,72.27,Telangana
+Hyderabad,2017-10-17,72.24,Telangana
+Hyderabad,2017-10-18,72.28,Telangana
+Hyderabad,2017-10-24,72.6,Telangana
+Hyderabad,2017-10-25,72.66,Telangana
+Hyderabad,2017-10-26,72.69,Telangana
+Hyderabad,2017-10-30,73.1,Telangana
+Hyderabad,2017-10-31,73.2,Telangana
+Hyderabad,2017-11-02,73.32,Telangana
+Hyderabad,2017-11-03,73.42,Telangana
+Hyderabad,2017-11-06,73.87,Telangana
+Hyderabad,2017-11-07,73.91,Telangana
+Hyderabad,2017-11-09,73.96,Telangana
+Hyderabad,2017-11-10,74.04,Telangana
+Hyderabad,2017-11-13,73.97,Telangana
+Hyderabad,2017-11-14,73.83,Telangana
+Hyderabad,2017-11-15,73.78,Telangana
+Hyderabad,2017-11-16,73.75,Telangana
+Hyderabad,2017-11-17,73.7,Telangana
+Hyderabad,2017-11-20,73.68,Telangana
+Hyderabad,2017-11-21,73.62,Telangana
+Hyderabad,2017-11-22,73.57,Telangana
+Hyderabad,2017-11-23,73.51,Telangana
+Hyderabad,2017-11-24,73.49,Telangana
+Hyderabad,2017-11-27,73.44,Telangana
+Hyderabad,2017-11-28,73.33,Telangana
+Hyderabad,2017-11-29,73.41,Telangana
+Hyderabad,2017-11-30,73.31,Telangana
+Hyderabad,2017-12-01,73.29,Telangana
+Hyderabad,2017-12-05,73.4,Telangana
+Hyderabad,2017-12-06,73.31,Telangana
+Hyderabad,2017-12-07,73.3,Telangana
+Hyderabad,2017-12-08,73.26,Telangana
+Hyderabad,2017-12-11,73.27,Telangana
+Hyderabad,2017-12-12,73.15,Telangana
+Hyderabad,2017-12-13,73.13,Telangana
+Hyderabad,2017-12-15,73.16,Telangana
+Hyderabad,2017-12-18,73.34,Telangana
+Hyderabad,2017-12-19,73.42,Telangana
+Hyderabad,2017-12-20,73.51,Telangana
+Hyderabad,2017-12-21,73.5,Telangana
+Hyderabad,2017-12-22,73.59,Telangana
+Hyderabad,2017-12-26,73.81,Telangana
+Hyderabad,2017-12-27,73.82,Telangana
+Hyderabad,2017-12-28,73.92,Telangana
+Hyderabad,2017-12-29,74.01,Telangana
+Hyderabad,2018-01-01,74.17,Telangana
+Hyderabad,2018-01-02,74.09,Telangana
+Hyderabad,2018-01-03,74.17,Telangana
+Hyderabad,2018-01-05,74.19,Telangana
+Hyderabad,2018-01-08,74.65,Telangana
+Hyderabad,2018-01-09,74.7,Telangana
+Hyderabad,2018-01-10,74.78,Telangana
+Hyderabad,2018-01-11,74.82,Telangana
+Hyderabad,2018-01-12,74.88,Telangana
+Hyderabad,2018-01-15,75.35,Telangana
+Hyderabad,2018-01-16,75.45,Telangana
+Hyderabad,2018-01-17,75.57,Telangana
+Hyderabad,2018-01-18,75.75,Telangana
+Hyderabad,2018-01-19,75.9,Telangana
+Hyderabad,2018-01-22,76.47,Telangana
+Hyderabad,2018-01-23,76.63,Telangana
+Hyderabad,2018-01-24,76.68,Telangana
+Hyderabad,2018-01-25,76.74,Telangana
+Hyderabad,2018-01-29,77.11,Telangana
+Hyderabad,2018-01-30,77.2,Telangana
+Hyderabad,2018-02-01,77.34,Telangana
+Hyderabad,2018-02-02,77.39,Telangana
+Hyderabad,2018-02-05,77.61,Telangana
+Hyderabad,2018-02-06,77.69,Telangana
+Hyderabad,2018-02-08,77.68,Telangana
+Hyderabad,2018-02-09,77.66,Telangana
+Hyderabad,2018-02-12,77.29,Telangana
+Hyderabad,2018-02-13,77.22,Telangana
+Hyderabad,2018-02-15,77.06,Telangana
+Hyderabad,2018-02-16,76.77,Telangana
+Hyderabad,2018-02-19,76.14,Telangana
+Hyderabad,2018-02-20,75.93,Telangana
+Hyderabad,2018-02-21,75.92,Telangana
+Hyderabad,2018-02-22,75.9,Telangana
+Hyderabad,2018-02-23,75.81,Telangana
+Hyderabad,2018-02-26,75.72,Telangana
+Hyderabad,2018-02-27,75.7,Telangana
+Hyderabad,2018-03-01,75.84,Telangana
+Hyderabad,2018-03-02,76.03,Telangana
+Hyderabad,2018-03-05,76.64,Telangana
+Hyderabad,2018-03-06,76.71,Telangana
+Hyderabad,2018-03-09,76.75,Telangana
+Hyderabad,2018-03-12,76.78,Telangana
+Hyderabad,2018-03-13,76.8,Telangana
+Hyderabad,2018-03-15,76.78,Telangana
+Hyderabad,2018-03-16,76.69,Telangana
+Hyderabad,2018-03-19,76.5,Telangana
+Hyderabad,2018-03-20,76.51,Telangana
+Hyderabad,2018-03-22,76.57,Telangana
+Hyderabad,2018-03-23,76.62,Telangana
+Hyderabad,2018-03-26,77.14,Telangana
+Hyderabad,2018-03-27,77.25,Telangana
+Hyderabad,2018-03-29,77.44,Telangana
+Hyderabad,2018-03-30,77.69,Telangana
+Hyderabad,2018-04-02,78.21,Telangana
+Hyderabad,2018-04-03,78.35,Telangana
+Hyderabad,2018-04-05,78.39,Telangana
+Hyderabad,2018-04-09,78.4,Telangana
+Hyderabad,2018-04-10,78.39,Telangana
+Hyderabad,2018-04-12,78.34,Telangana
+Hyderabad,2018-04-13,78.31,Telangana
+Hyderabad,2018-04-16,78.43,Telangana
+Hyderabad,2018-04-19,78.48,Telangana
+Hyderabad,2018-04-20,78.49,Telangana
+Hyderabad,2018-04-23,78.94,Telangana
+Hyderabad,2018-04-24,79.08,Telangana
+Hyderabad,2018-05-14,79.27,Telangana
+Hyderabad,2018-05-15,79.43,Telangana
+Hyderabad,2018-05-16,79.59,Telangana
+Hyderabad,2018-05-17,79.82,Telangana
+Hyderabad,2018-05-18,79.27,Telangana
+Hyderabad,2018-05-21,81.15,Telangana
+Hyderabad,2018-05-22,81.47,Telangana
+Hyderabad,2018-05-23,81.79,Telangana
+Hyderabad,2018-05-24,82.11,Telangana
+Hyderabad,2018-05-25,82.49,Telangana
+Hyderabad,2018-05-26,82.64,Telangana
+Hyderabad,2018-05-27,82.8,Telangana
+Hyderabad,2018-05-28,82.96,Telangana
+Hyderabad,2018-05-29,83.13,Telangana
+Hyderabad,2018-05-31,83.04,Telangana
+Hyderabad,2018-06-01,82.98,Telangana
+Hyderabad,2018-06-02,82.88,Telangana
+Hyderabad,2018-06-03,82.79,Telangana
+Hyderabad,2018-06-04,82.63,Telangana
+Hyderabad,2018-06-05,82.49,Telangana
+Hyderabad,2018-06-06,82.37,Telangana
+Hyderabad,2018-06-07,82.28,Telangana
+Hyderabad,2018-06-08,82.05,Telangana
+Hyderabad,2018-06-09,81.63,Telangana
+Hyderabad,2018-06-10,81.37,Telangana
+Hyderabad,2018-06-11,81.16,Telangana
+Hyderabad,2018-06-12,81.0,Telangana
+Hyderabad,2018-06-15,80.92,Telangana
+Hyderabad,2018-06-19,80.83,Telangana
+Hyderabad,2018-06-21,80.71,Telangana
+Hyderabad,2018-06-22,80.57,Telangana
+Hyderabad,2018-06-23,80.47,Telangana
+Hyderabad,2018-06-24,80.32,Telangana
+Hyderabad,2018-06-25,80.22,Telangana
+Hyderabad,2018-06-26,80.07,Telangana
+Hyderabad,2018-07-05,80.24,Telangana
+Hyderabad,2018-07-06,80.39,Telangana
+Hyderabad,2018-07-09,80.93,Telangana
+Hyderabad,2018-07-10,81.11,Telangana
+Hyderabad,2018-07-12,81.17,Telangana
+Hyderabad,2018-07-13,81.35,Telangana
+Hyderabad,2018-07-16,81.44,Telangana
+Hyderabad,2018-07-20,81.27,Telangana
+Hyderabad,2018-07-23,80.93,Telangana
+Hyderabad,2018-07-24,80.86,Telangana
+Hyderabad,2018-07-30,80.88,Telangana
+Hyderabad,2018-07-31,80.94,Telangana
+Hyderabad,2018-08-02,81.08,Telangana
+Hyderabad,2018-08-03,81.16,Telangana
+Hyderabad,2018-08-06,81.66,Telangana
+Hyderabad,2018-08-07,81.75,Telangana
+Hyderabad,2018-08-13,81.84,Telangana
+Hyderabad,2018-08-16,81.89,Telangana
+Hyderabad,2018-08-20,82.21,Telangana
+Hyderabad,2018-08-21,82.3,Telangana
+Hyderabad,2018-08-24,82.4,Telangana
+Hyderabad,2018-08-25,76.47,Telangana
+Hyderabad,2018-08-26,76.55,Telangana
+Hyderabad,2018-08-27,82.66,Telangana
+Hyderabad,2018-08-28,82.8,Telangana
+Hyderabad,2018-08-29,82.94,Telangana
+Hyderabad,2018-08-30,83.07,Telangana
+Hyderabad,2018-08-31,83.3,Telangana
+Hyderabad,2018-09-03,84.01,Telangana
+Hyderabad,2018-09-04,84.18,Telangana
+Hyderabad,2018-09-06,84.4,Telangana
+Hyderabad,2018-09-07,84.91,Telangana
+Hyderabad,2018-09-10,85.69,Telangana
+Hyderabad,2018-09-11,85.84,Telangana
+Hyderabad,2018-09-13,85.98,Telangana
+Hyderabad,2018-09-14,86.28,Telangana
+Hyderabad,2018-09-15,86.65,Telangana
+Hyderabad,2018-09-16,86.95,Telangana
+Hyderabad,2018-09-17,87.11,Telangana
+Hyderabad,2018-09-18,87.21,Telangana
+Hyderabad,2018-09-20,87.28,Telangana
+Hyderabad,2018-09-21,87.38,Telangana
+Hyderabad,2018-09-23,87.67,Telangana
+Hyderabad,2018-09-24,87.79,Telangana
+Hyderabad,2018-09-25,87.94,Telangana
+Hyderabad,2018-09-27,88.09,Telangana
+Hyderabad,2018-09-28,88.32,Telangana
+Hyderabad,2018-09-30,88.61,Telangana
+Hyderabad,2018-10-01,88.85,Telangana
+Hyderabad,2018-10-02,88.96,Telangana
+Hyderabad,2018-10-04,89.11,Telangana
+Hyderabad,2018-10-05,86.45,Telangana
+Hyderabad,2018-10-06,86.65,Telangana
+Hyderabad,2018-10-07,86.79,Telangana
+Hyderabad,2018-10-08,87.02,Telangana
+Hyderabad,2018-10-09,87.26,Telangana
+Hyderabad,2018-10-11,87.37,Telangana
+Hyderabad,2018-10-12,87.5,Telangana
+Hyderabad,2018-10-13,87.69,Telangana
+Hyderabad,2018-10-14,87.75,Telangana
+Hyderabad,2018-10-16,87.87,Telangana
+Hyderabad,2018-10-18,87.64,Telangana
+Hyderabad,2018-10-19,87.39,Telangana
+Hyderabad,2018-10-20,86.98,Telangana
+Hyderabad,2018-10-22,86.39,Telangana
+Hyderabad,2018-10-23,86.28,Telangana
+Hyderabad,2018-10-24,86.19,Telangana
+Hyderabad,2018-10-25,86.03,Telangana
+Hyderabad,2018-10-26,85.76,Telangana
+Hyderabad,2018-10-29,84.6,Telangana
+Hyderabad,2018-10-30,84.38,Telangana
+Hyderabad,2018-11-01,84.19,Telangana
+Hyderabad,2018-11-02,84.02,Telangana
+Hyderabad,2018-11-05,83.39,Telangana
+Hyderabad,2018-11-06,83.24,Telangana
+Hyderabad,2018-11-12,82.33,Telangana
+Hyderabad,2018-11-13,82.19,Telangana
+Hyderabad,2018-11-15,82.03,Telangana
+Hyderabad,2018-11-16,81.84,Telangana
+Hyderabad,2018-11-19,81.23,Telangana
+Hyderabad,2018-11-20,81.08,Telangana
+Hyderabad,2018-11-22,80.64,Telangana
+Hyderabad,2018-11-23,80.22,Telangana
+Hyderabad,2018-11-26,79.07,Telangana
+Hyderabad,2018-11-27,78.62,Telangana
+Hyderabad,2018-11-28,78.09,Telangana
+Hyderabad,2018-11-29,77.74,Telangana
+Hyderabad,2018-11-30,77.35,Telangana
+Hyderabad,2018-12-01,76.98,Telangana
+Hyderabad,2018-12-02,76.64,Telangana
+Hyderabad,2018-12-03,76.31,Telangana
+Hyderabad,2018-12-04,76.09,Telangana
+Hyderabad,2018-12-06,75.66,Telangana
+Hyderabad,2018-12-07,75.24,Telangana
+Hyderabad,2018-12-10,74.59,Telangana
+Hyderabad,2018-12-11,74.42,Telangana
+Hyderabad,2018-12-13,74.51,Telangana
+Hyderabad,2018-12-17,74.77,Telangana
+Hyderabad,2018-12-18,74.88,Telangana
+Hyderabad,2018-12-21,74.69,Telangana
+Hyderabad,2018-12-24,74.06,Telangana
+Hyderabad,2018-12-25,73.98,Telangana
+Hyderabad,2018-12-27,73.93,Telangana
+Hyderabad,2018-12-28,73.73,Telangana
+Hyderabad,2018-12-31,72.97,Telangana
+Hyderabad,2019-01-02,72.87,Telangana
+Hyderabad,2019-01-04,72.64,Telangana
+Hyderabad,2019-01-07,72.71,Telangana
+Hyderabad,2019-01-10,73.11,Telangana
+Hyderabad,2019-01-11,73.31,Telangana
+Hyderabad,2019-01-14,74.44,Telangana
+Hyderabad,2019-01-16,74.65,Telangana
+Hyderabad,2019-01-17,74.8,Telangana
+Hyderabad,2019-01-18,74.89,Telangana
+Hyderabad,2019-01-21,75.51,Telangana
+Hyderabad,2019-01-22,75.65,Telangana
+Hyderabad,2019-01-29,75.57,Telangana
+Hyderabad,2019-01-31,75.46,Telangana
+Hyderabad,2019-02-01,75.21,Telangana
+Hyderabad,2019-02-05,74.68,Telangana
+Hyderabad,2019-02-08,74.62,Telangana
+Hyderabad,2019-02-11,74.56,Telangana
+Hyderabad,2019-02-14,74.63,Telangana
+Hyderabad,2019-02-15,74.7,Telangana
+Hyderabad,2019-02-18,75.18,Telangana
+Hyderabad,2019-02-19,75.29,Telangana
+Hyderabad,2019-02-22,75.59,Telangana
+Hyderabad,2019-02-25,75.89,Telangana
+Hyderabad,2019-02-26,75.99,Telangana
+Hyderabad,2019-02-28,76.06,Telangana
+Hyderabad,2019-03-01,76.17,Telangana
+Hyderabad,2019-03-04,76.56,Telangana
+Hyderabad,2019-03-05,76.63,Telangana
+Hyderabad,2019-03-11,76.86,Telangana
+Hyderabad,2019-03-12,76.81,Telangana
+Hyderabad,2019-03-14,76.89,Telangana
+Hyderabad,2019-03-15,76.96,Telangana
+Hyderabad,2019-03-18,77.2,Telangana
+Hyderabad,2019-03-21,77.13,Telangana
+Hyderabad,2019-03-22,77.18,Telangana
+Hyderabad,2019-03-23,77.24,Telangana
+Hyderabad,2019-03-24,77.29,Telangana
+Hyderabad,2019-03-28,77.24,Telangana
+Hyderabad,2019-04-01,77.32,Telangana
+Hyderabad,2019-04-05,77.37,Telangana
+Hyderabad,2019-04-08,77.31,Telangana
+Hyderabad,2019-04-09,77.25,Telangana
+Hyderabad,2019-04-12,77.32,Telangana
+Hyderabad,2019-04-15,77.44,Telangana
+Hyderabad,2019-04-16,77.39,Telangana
+Hyderabad,2019-04-20,77.47,Telangana
+Hyderabad,2019-04-22,77.41,Telangana
+Hyderabad,2019-04-25,77.49,Telangana
+Hyderabad,2019-04-27,77.55,Telangana
+Hyderabad,2019-04-30,77.6,Telangana
+Hyderabad,2019-05-02,77.53,Telangana
+Hyderabad,2019-05-04,77.54,Telangana
+Hyderabad,2019-05-05,77.47,Telangana
+Hyderabad,2019-05-06,77.4,Telangana
+Hyderabad,2019-05-09,77.23,Telangana
+Hyderabad,2019-05-10,77.01,Telangana
+Hyderabad,2019-05-11,76.5,Telangana
+Hyderabad,2019-05-12,76.05,Telangana
+Hyderabad,2019-05-13,75.73,Telangana
+Hyderabad,2019-05-14,75.47,Telangana
+Hyderabad,2019-05-17,75.38,Telangana
+Hyderabad,2019-05-18,75.31,Telangana
+Hyderabad,2019-05-20,75.4,Telangana
+Hyderabad,2019-05-21,75.45,Telangana
+Hyderabad,2019-05-23,75.54,Telangana
+Hyderabad,2019-05-24,75.69,Telangana
+Hyderabad,2019-05-25,75.84,Telangana
+Hyderabad,2019-05-26,75.99,Telangana
+Hyderabad,2019-05-27,76.09,Telangana
+Hyderabad,2019-05-28,76.19,Telangana
+Hyderabad,2019-05-30,76.12,Telangana
+Hyderabad,2019-05-31,76.05,Telangana
+Hyderabad,2019-06-02,75.96,Telangana
+Hyderabad,2019-06-03,75.75,Telangana
+Hyderabad,2019-06-04,75.67,Telangana
+Hyderabad,2019-06-06,75.5,Telangana
+Hyderabad,2019-06-07,75.37,Telangana
+Hyderabad,2019-06-10,74.82,Telangana
+Hyderabad,2019-06-13,74.74,Telangana
+Hyderabad,2019-06-14,74.56,Telangana
+Hyderabad,2019-06-15,74.36,Telangana
+Hyderabad,2019-06-16,74.29,Telangana
+Hyderabad,2019-06-24,74.42,Telangana
+Hyderabad,2019-06-27,74.5,Telangana
+Hyderabad,2019-06-28,74.55,Telangana
+Hyderabad,2019-06-29,74.66,Telangana
+Hyderabad,2019-06-30,74.76,Telangana
+Hyderabad,2019-07-01,74.86,Telangana
+Hyderabad,2019-07-02,74.94,Telangana
+Hyderabad,2019-07-06,77.53,Telangana
+Hyderabad,2019-07-09,77.48,Telangana
+Hyderabad,2019-07-13,77.57,Telangana
+Hyderabad,2019-07-14,77.67,Telangana
+Hyderabad,2019-07-15,77.8,Telangana
+Hyderabad,2019-07-16,77.87,Telangana
+Hyderabad,2019-07-18,77.95,Telangana
+Hyderabad,2019-07-23,78.02,Telangana
+Hyderabad,2019-07-25,77.95,Telangana
+Hyderabad,2019-07-26,77.89,Telangana
+Hyderabad,2019-07-27,77.84,Telangana
+Hyderabad,2019-07-28,77.73,Telangana
+Hyderabad,2019-07-29,77.57,Telangana
+Hyderabad,2019-07-30,77.43,Telangana
+Hyderabad,2019-08-01,77.37,Telangana
+Hyderabad,2019-08-02,77.2,Telangana
+Hyderabad,2019-08-03,77.12,Telangana
+Hyderabad,2019-08-04,77.03,Telangana
+Hyderabad,2019-08-05,76.87,Telangana
+Hyderabad,2019-08-06,76.78,Telangana
+Hyderabad,2019-08-08,76.72,Telangana
+Hyderabad,2019-08-09,76.56,Telangana
+Hyderabad,2019-08-11,76.47,Telangana
+Hyderabad,2019-08-18,76.38,Telangana
+Hyderabad,2019-08-19,76.31,Telangana
+Hyderabad,2019-08-24,76.39,Telangana
+Hyderabad,2019-08-25,76.47,Telangana
+Hyderabad,2019-08-26,76.55,Telangana
+Hyderabad,2019-08-27,76.55,Telangana
+Hyderabad,2019-08-29,76.49,Telangana
+Hyderabad,2019-09-05,76.46,Telangana
+Hyderabad,2019-09-06,76.36,Telangana
+Hyderabad,2019-09-07,76.27,Telangana
+Hyderabad,2019-09-08,76.2,Telangana
+Hyderabad,2019-09-10,76.26,Telangana
+Hyderabad,2019-09-12,76.32,Telangana
+Hyderabad,2019-09-13,76.4,Telangana
+Hyderabad,2019-09-14,76.48,Telangana
+Hyderabad,2019-09-15,76.54,Telangana
+Hyderabad,2019-09-17,76.69,Telangana
+Hyderabad,2019-09-18,76.96,Telangana
+Hyderabad,2019-09-19,77.27,Telangana
+Hyderabad,2019-09-20,77.64,Telangana
+Hyderabad,2019-09-21,77.95,Telangana
+Hyderabad,2019-09-22,78.23,Telangana
+Hyderabad,2019-09-23,78.54,Telangana
+Hyderabad,2019-09-24,78.77,Telangana
+Hyderabad,2019-09-26,78.84,Telangana
+Hyderabad,2019-09-27,79.0,Telangana
+Hyderabad,2019-09-30,79.08,Telangana
+Hyderabad,2019-10-01,79.31,Telangana
+Hyderabad,2019-10-03,79.21,Telangana
+Hyderabad,2019-10-04,79.01,Telangana
+Hyderabad,2019-10-05,78.71,Telangana
+Hyderabad,2019-10-07,78.41,Telangana
+Hyderabad,2019-10-08,78.23,Telangana
+Hyderabad,2019-10-10,78.18,Telangana
+Hyderabad,2019-10-11,78.05,Telangana
+Hyderabad,2019-10-12,77.94,Telangana
+Hyderabad,2019-10-15,77.89,Telangana
+Hyderabad,2019-10-22,77.84,Telangana
+Hyderabad,2019-10-24,77.78,Telangana
+Hyderabad,2019-10-25,77.67,Telangana
+Hyderabad,2019-10-26,77.58,Telangana
+Hyderabad,2019-10-29,77.52,Telangana
+Hyderabad,2019-11-01,77.39,Telangana
+Hyderabad,2019-11-02,77.31,Telangana
+Hyderabad,2019-11-03,77.26,Telangana
+Hyderabad,2019-11-04,77.17,Telangana
+Hyderabad,2019-11-05,77.11,Telangana
+Hyderabad,2019-11-08,77.22,Telangana
+Hyderabad,2019-11-09,77.38,Telangana
+Hyderabad,2019-11-10,77.59,Telangana
+Hyderabad,2019-11-11,77.75,Telangana
+Hyderabad,2019-11-13,77.86,Telangana
+Hyderabad,2019-11-14,78.02,Telangana
+Hyderabad,2019-11-15,78.21,Telangana
+Hyderabad,2019-11-16,78.36,Telangana
+Hyderabad,2019-11-17,78.48,Telangana
+Hyderabad,2019-11-18,78.65,Telangana
+Hyderabad,2019-11-19,78.81,Telangana
+Hyderabad,2019-11-22,78.97,Telangana
+Hyderabad,2019-11-23,79.07,Telangana
+Hyderabad,2019-11-24,79.17,Telangana
+Hyderabad,2019-11-25,79.3,Telangana
+Hyderabad,2019-11-26,79.41,Telangana
+Hyderabad,2019-11-29,79.46,Telangana
+Hyderabad,2019-11-30,79.513,Telangana
+Hyderabad,2019-12-01,79.64,Telangana
+Hyderabad,2019-12-07,79.55,Telangana
+Hyderabad,2019-12-08,79.64,Telangana
+Hyderabad,2019-12-09,79.69,Telangana
+Hyderabad,2019-12-10,79.7,Telangana
+Hyderabad,2019-12-12,79.65,Telangana
+Hyderabad,2019-12-13,79.59,Telangana
+Hyderabad,2019-12-14,79.53,Telangana
+Hyderabad,2019-12-15,79.43,Telangana
+Hyderabad,2019-12-16,79.38,Telangana
+Hyderabad,2019-12-17,79.33,Telangana
+Hyderabad,2019-12-19,79.31,Telangana
+Hyderabad,2019-12-26,79.36,Telangana
+Hyderabad,2019-12-27,79.43,Telangana
+Hyderabad,2019-12-29,79.58,Telangana
+Hyderabad,2019-12-30,79.75,Telangana
+Hyderabad,2019-12-31,79.85,Telangana
+Hyderabad,2020-01-02,79.99,Telangana
+Hyderabad,2020-01-03,80.1,Telangana
+Hyderabad,2020-01-04,80.2,Telangana
+Hyderabad,2020-01-05,80.3,Telangana
+Hyderabad,2020-01-06,80.46,Telangana
+Hyderabad,2020-01-07,80.61,Telangana
+Hyderabad,2020-01-08,80.51,Telangana
+Hyderabad,2020-01-09,80.59,Telangana
+Hyderabad,2020-01-10,80.74,Telangana
+Hyderabad,2020-01-11,80.8,Telangana
+Hyderabad,2020-01-12,80.7,Telangana
+Hyderabad,2020-01-13,80.57,Telangana
+Hyderabad,2020-01-14,80.47,Telangana
+Hyderabad,2020-01-16,80.31,Telangana
+Hyderabad,2020-01-17,80.16,Telangana
+Hyderabad,2020-01-18,80.0,Telangana
+Hyderabad,2020-01-19,79.82,Telangana
+Hyderabad,2020-01-20,79.7,Telangana
+Hyderabad,2020-01-21,79.54,Telangana
+Hyderabad,2020-01-22,79.54,Telangana
+Hyderabad,2020-01-23,79.36,Telangana
+Hyderabad,2020-01-24,79.14,Telangana
+Hyderabad,2020-01-25,78.89,Telangana
+Hyderabad,2020-01-26,78.59,Telangana
+Hyderabad,2020-01-27,78.35,Telangana
+Hyderabad,2020-01-28,78.24,Telangana
+Hyderabad,2020-01-29,78.24,Telangana
+Hyderabad,2020-01-30,78.0,Telangana
+Hyderabad,2020-01-31,77.89,Telangana
+Hyderabad,2020-02-01,77.74,Telangana
+Hyderabad,2020-02-02,77.64,Telangana
+Hyderabad,2020-02-03,77.58,Telangana
+Hyderabad,2020-02-04,77.53,Telangana
+Hyderabad,2020-02-05,77.53,Telangana
+Hyderabad,2020-02-06,77.42,Telangana
+Hyderabad,2020-02-07,77.2,Telangana
+Hyderabad,2020-02-08,76.96,Telangana
+Hyderabad,2020-02-09,76.72,Telangana
+Hyderabad,2020-02-10,76.58,Telangana
+Hyderabad,2020-02-11,76.41,Telangana
+Hyderabad,2020-02-12,76.41,Telangana
+Hyderabad,2020-02-13,76.41,Telangana
+Hyderabad,2020-02-14,76.41,Telangana
+Hyderabad,2020-02-15,76.41,Telangana
+Hyderabad,2020-02-17,76.41,Telangana
+Hyderabad,2020-02-18,76.36,Telangana
+Hyderabad,2020-02-19,76.36,Telangana
+Hyderabad,2020-02-20,76.36,Telangana
+Hyderabad,2020-02-21,76.36,Telangana
+Hyderabad,2020-02-24,76.48,Telangana
+Hyderabad,2020-02-25,76.48,Telangana
+Hyderabad,2020-02-26,76.48,Telangana
+Hyderabad,2020-02-27,76.43,Telangana
+Hyderabad,2020-02-28,76.43,Telangana
+Hyderabad,2020-02-29,76.36,Telangana
+Hyderabad,2020-03-01,76.21,Telangana
+Hyderabad,2020-03-02,75.97,Telangana
+Hyderabad,2020-03-03,75.92,Telangana
+Hyderabad,2020-03-04,75.92,Telangana
+Hyderabad,2020-03-05,75.76,Telangana
+Hyderabad,2020-03-06,75.6,Telangana
+Hyderabad,2020-03-07,75.47,Telangana
+Hyderabad,2020-03-08,75.27,Telangana
+Hyderabad,2020-03-09,75.02,Telangana
+Hyderabad,2020-03-10,74.72,Telangana
+Hyderabad,2020-03-11,74.72,Telangana
+Hyderabad,2020-03-12,74.54,Telangana
+Hyderabad,2020-03-13,74.39,Telangana
+Hyderabad,2020-03-14,74.26,Telangana
+Hyderabad,2020-03-15,74.12,Telangana
+Hyderabad,2020-03-16,73.95,Telangana
+Hyderabad,2020-03-17,73.95,Telangana
+Hyderabad,2020-03-18,73.95,Telangana
+Hyderabad,2020-03-19,73.95,Telangana
+Hyderabad,2020-03-20,73.95,Telangana
+Hyderabad,2020-03-21,73.95,Telangana
+Hyderabad,2020-03-22,73.95,Telangana
+Hyderabad,2020-03-23,73.95,Telangana
+Hyderabad,2020-03-24,73.95,Telangana
+Hyderabad,2020-03-25,73.95,Telangana
+Hyderabad,2020-03-26,73.95,Telangana
+Hyderabad,2020-03-27,73.95,Telangana
+Hyderabad,2020-03-28,73.95,Telangana
+Hyderabad,2020-03-29,73.95,Telangana
+Hyderabad,2020-03-30,73.95,Telangana
+Hyderabad,2020-03-31,73.95,Telangana
+Hyderabad,2020-04-01,73.95,Telangana
+Hyderabad,2020-04-02,73.95,Telangana
+Hyderabad,2020-04-03,73.95,Telangana
+Hyderabad,2020-04-04,73.95,Telangana
+Hyderabad,2020-04-05,73.95,Telangana
+Hyderabad,2020-04-06,73.95,Telangana
+Hyderabad,2020-04-07,73.95,Telangana
+Hyderabad,2020-04-08,73.95,Telangana
+Hyderabad,2020-04-09,73.95,Telangana
+Hyderabad,2020-04-10,73.95,Telangana
+Hyderabad,2020-04-11,73.95,Telangana
+Hyderabad,2020-04-12,73.95,Telangana
+Hyderabad,2020-04-13,73.95,Telangana
+Hyderabad,2020-04-14,73.95,Telangana
+Hyderabad,2020-04-15,73.95,Telangana
+Hyderabad,2020-04-16,73.95,Telangana
+Hyderabad,2020-04-17,73.95,Telangana
+Hyderabad,2020-04-18,73.95,Telangana
+Hyderabad,2020-04-20,73.95,Telangana
+Hyderabad,2020-04-21,73.95,Telangana
+Hyderabad,2020-04-22,73.95,Telangana
+Hyderabad,2020-04-23,73.95,Telangana
+Hyderabad,2020-04-24,73.95,Telangana
+Hyderabad,2020-04-25,73.95,Telangana
+Hyderabad,2020-04-26,73.95,Telangana
+Hyderabad,2020-04-27,73.95,Telangana
+Hyderabad,2020-04-28,73.95,Telangana
+Hyderabad,2020-04-29,73.95,Telangana
+Hyderabad,2020-04-30,73.95,Telangana
+Hyderabad,2020-05-01,73.95,Telangana
+Hyderabad,2020-05-02,73.95,Telangana
+Hyderabad,2020-05-03,73.95,Telangana
+Hyderabad,2020-05-04,73.95,Telangana
+Hyderabad,2020-05-05,73.95,Telangana
+Hyderabad,2020-05-06,73.95,Telangana
+Hyderabad,2020-05-07,73.95,Telangana
+Hyderabad,2020-05-08,73.95,Telangana
+Hyderabad,2020-05-09,73.95,Telangana
+Hyderabad,2020-05-10,73.95,Telangana
+Hyderabad,2020-05-11,73.95,Telangana
+Hyderabad,2020-05-12,73.95,Telangana
+Hyderabad,2020-05-13,73.95,Telangana
+Hyderabad,2020-05-14,73.95,Telangana
+Hyderabad,2020-05-15,73.95,Telangana
+Hyderabad,2020-05-16,73.95,Telangana
+Hyderabad,2020-05-17,73.95,Telangana
+Hyderabad,2020-05-18,73.95,Telangana
+Hyderabad,2020-05-19,73.95,Telangana
+Hyderabad,2020-05-20,73.95,Telangana
+Hyderabad,2020-05-21,73.95,Telangana
+Hyderabad,2020-05-22,73.95,Telangana
+Hyderabad,2020-05-23,73.95,Telangana
+Hyderabad,2020-05-24,73.95,Telangana
+Hyderabad,2020-05-25,73.95,Telangana
+Hyderabad,2020-05-26,73.95,Telangana
+Hyderabad,2020-05-27,73.95,Telangana
+Hyderabad,2020-05-28,73.95,Telangana
+Hyderabad,2020-05-29,73.95,Telangana
+Hyderabad,2020-05-30,73.95,Telangana
+Hyderabad,2020-05-31,73.95,Telangana
+Hyderabad,2020-06-01,73.95,Telangana
+Hyderabad,2020-06-02,73.95,Telangana
+Hyderabad,2020-06-03,73.95,Telangana
+Hyderabad,2020-06-04,73.95,Telangana
+Hyderabad,2020-06-05,73.95,Telangana
+Hyderabad,2020-06-06,73.95,Telangana
+Hyderabad,2020-06-07,74.55,Telangana
+Hyderabad,2020-06-08,75.15,Telangana
+Hyderabad,2020-06-09,75.69,Telangana
+Hyderabad,2020-06-10,76.09,Telangana
+Hyderabad,2020-06-11,76.69,Telangana
+Hyderabad,2020-06-12,77.29,Telangana
+Hyderabad,2020-06-13,77.89,Telangana
+Hyderabad,2020-06-14,78.49,Telangana
+Hyderabad,2020-06-15,79.15,Telangana
+Hyderabad,2020-06-16,79.63,Telangana
+Hyderabad,2020-06-17,80.2,Telangana
+Hyderabad,2020-06-18,80.75,Telangana
+Hyderabad,2020-06-19,81.33,Telangana
+Hyderabad,2020-06-20,81.86,Telangana
+Hyderabad,2020-06-21,82.23,Telangana
+Hyderabad,2020-06-22,82.57,Telangana
+Hyderabad,2020-06-23,82.77,Telangana
+Hyderabad,2020-06-24,82.77,Telangana
+Hyderabad,2020-06-25,82.94,Telangana
+Hyderabad,2020-06-26,83.16,Telangana
+Hyderabad,2020-06-27,83.41,Telangana
+Hyderabad,2020-06-28,83.41,Telangana
+Hyderabad,2020-06-29,83.47,Telangana
+Hyderabad,2020-06-30,83.47,Telangana
+Hyderabad,2020-07-01,83.47,Telangana
+Hyderabad,2020-07-02,83.47,Telangana
+Hyderabad,2020-07-03,83.47,Telangana
+Hyderabad,2020-07-04,83.47,Telangana
+Hyderabad,2020-07-05,83.47,Telangana
+Hyderabad,2020-07-06,83.47,Telangana
+Hyderabad,2020-07-07,83.47,Telangana
+Hyderabad,2020-07-08,83.47,Telangana
+Hyderabad,2020-07-09,83.47,Telangana
+Hyderabad,2020-07-10,83.47,Telangana
+Hyderabad,2020-07-11,83.47,Telangana
+Hyderabad,2020-07-12,83.47,Telangana
+Hyderabad,2020-07-13,83.47,Telangana
+Hyderabad,2020-07-15,83.47,Telangana
+Hyderabad,2020-07-16,83.47,Telangana
+Hyderabad,2020-07-17,83.47,Telangana
+Hyderabad,2020-07-18,83.47,Telangana
+Hyderabad,2020-07-19,83.47,Telangana
+Hyderabad,2020-07-20,83.47,Telangana
+Hyderabad,2020-07-21,83.47,Telangana
+Hyderabad,2020-07-22,83.47,Telangana
+Hyderabad,2020-07-23,83.47,Telangana
+Hyderabad,2020-07-24,83.47,Telangana
+Hyderabad,2020-07-25,83.47,Telangana
+Hyderabad,2020-07-26,83.47,Telangana
+Hyderabad,2020-07-27,83.47,Telangana
+Hyderabad,2020-07-28,83.47,Telangana
+Hyderabad,2020-07-29,83.47,Telangana
+Hyderabad,2020-07-30,83.47,Telangana
+Hyderabad,2020-07-31,83.47,Telangana
+Hyderabad,2020-08-01,83.47,Telangana
+Hyderabad,2020-08-02,83.47,Telangana
+Hyderabad,2020-08-03,83.47,Telangana
+Hyderabad,2020-08-04,83.47,Telangana
+Hyderabad,2020-08-05,83.47,Telangana
+Hyderabad,2020-08-06,83.47,Telangana
+Hyderabad,2020-08-07,83.47,Telangana
+Hyderabad,2020-08-08,83.47,Telangana
+Hyderabad,2020-08-09,83.47,Telangana
+Hyderabad,2020-08-10,83.47,Telangana
+Hyderabad,2020-08-11,83.47,Telangana
+Hyderabad,2020-08-12,83.47,Telangana
+Hyderabad,2020-08-13,83.47,Telangana
+Hyderabad,2020-08-14,83.47,Telangana
+Hyderabad,2020-08-15,83.47,Telangana
+Hyderabad,2020-08-16,83.81,Telangana
+Hyderabad,2020-08-17,83.97,Telangana
+Hyderabad,2020-08-18,84.13,Telangana
+Hyderabad,2020-08-19,84.13,Telangana
+Hyderabad,2020-08-20,84.24,Telangana
+Hyderabad,2020-08-21,84.44,Telangana
+Hyderabad,2020-08-22,84.61,Telangana
+Hyderabad,2020-08-23,84.75,Telangana
+Hyderabad,2020-08-24,84.89,Telangana
+Hyderabad,2020-08-25,85.0,Telangana
+Hyderabad,2020-08-26,85.0,Telangana
+Hyderabad,2020-08-27,85.11,Telangana
+Hyderabad,2020-08-28,85.21,Telangana
+Hyderabad,2020-08-29,85.21,Telangana
+Hyderabad,2020-08-30,85.31,Telangana
+Hyderabad,2020-08-31,85.31,Telangana
+Hyderabad,2020-09-01,85.37,Telangana
+Hyderabad,2020-09-02,85.37,Telangana
+Hyderabad,2020-09-03,85.37,Telangana
+Hyderabad,2020-09-04,85.37,Telangana
+Hyderabad,2020-09-05,85.37,Telangana
+Hyderabad,2020-09-06,85.37,Telangana
+Hyderabad,2020-09-07,85.37,Telangana
+Hyderabad,2020-09-08,85.37,Telangana
+Hyderabad,2020-09-09,85.37,Telangana
+Hyderabad,2020-09-10,85.27,Telangana
+Hyderabad,2020-09-11,85.27,Telangana
+Hyderabad,2020-09-12,85.14,Telangana
+Hyderabad,2020-09-13,85.14,Telangana
+Hyderabad,2020-09-14,84.99,Telangana
+Hyderabad,2020-09-15,84.82,Telangana
+Hyderabad,2020-09-16,84.82,Telangana
+Hyderabad,2020-09-17,84.66,Telangana
+Hyderabad,2020-09-18,84.39,Telangana
+Hyderabad,2020-09-19,84.39,Telangana
+Hyderabad,2020-09-20,84.39,Telangana
+Hyderabad,2020-09-21,84.39,Telangana
+Hyderabad,2020-09-22,84.31,Telangana
+Hyderabad,2020-09-23,84.31,Telangana
+Hyderabad,2020-09-24,84.31,Telangana
+Hyderabad,2020-09-25,84.31,Telangana
+Hyderabad,2020-09-26,84.31,Telangana
+Hyderabad,2020-09-27,84.31,Telangana
+Hyderabad,2020-09-28,84.31,Telangana
+Hyderabad,2020-09-29,84.31,Telangana
+Hyderabad,2020-09-30,84.31,Telangana
+Hyderabad,2020-10-01,84.31,Telangana
+Hyderabad,2020-10-02,84.31,Telangana
+Hyderabad,2020-10-03,84.31,Telangana
+Hyderabad,2020-10-04,84.31,Telangana
+Hyderabad,2020-10-05,84.31,Telangana
+Hyderabad,2020-10-06,84.31,Telangana
+Hyderabad,2020-10-07,84.31,Telangana
+Hyderabad,2020-10-08,84.31,Telangana
+Hyderabad,2020-10-09,84.31,Telangana
+Hyderabad,2020-10-10,84.31,Telangana
+Hyderabad,2020-10-11,84.31,Telangana
+Hyderabad,2020-10-12,84.31,Telangana
+Hyderabad,2020-10-13,84.31,Telangana
+Hyderabad,2020-10-14,84.31,Telangana
+Hyderabad,2020-10-15,84.31,Telangana
+Hyderabad,2020-10-16,84.31,Telangana
+Hyderabad,2020-10-17,84.31,Telangana
+Hyderabad,2020-10-18,84.31,Telangana
+Hyderabad,2020-10-19,84.31,Telangana
+Hyderabad,2020-10-20,84.31,Telangana
+Hyderabad,2020-10-21,84.31,Telangana
+Hyderabad,2020-10-22,84.31,Telangana
+Hyderabad,2020-10-23,84.31,Telangana
+Hyderabad,2020-10-24,84.31,Telangana
+Hyderabad,2020-10-25,84.31,Telangana
+Hyderabad,2020-10-26,84.31,Telangana
+Hyderabad,2020-10-27,84.31,Telangana
+Hyderabad,2020-10-28,84.31,Telangana
+Hyderabad,2020-10-29,84.31,Telangana
+Hyderabad,2020-10-30,84.31,Telangana
+Hyderabad,2020-10-31,84.31,Telangana
+Hyderabad,2020-11-01,84.31,Telangana
+Hyderabad,2020-11-02,84.31,Telangana
+Hyderabad,2020-11-03,84.31,Telangana
+Hyderabad,2020-11-04,84.31,Telangana
+Hyderabad,2020-11-05,84.31,Telangana
+Hyderabad,2020-11-06,84.31,Telangana
+Hyderabad,2020-11-07,84.31,Telangana
+Hyderabad,2020-11-08,84.31,Telangana
+Hyderabad,2020-11-09,84.31,Telangana
+Hyderabad,2020-11-10,84.31,Telangana
+Hyderabad,2020-11-11,84.31,Telangana
+Hyderabad,2020-11-12,84.31,Telangana
+Hyderabad,2020-11-13,84.31,Telangana
+Hyderabad,2020-11-14,84.31,Telangana
+Hyderabad,2020-11-15,84.31,Telangana
+Hyderabad,2020-11-16,84.31,Telangana
+Hyderabad,2020-11-17,84.31,Telangana
+Hyderabad,2020-11-18,84.31,Telangana
+Hyderabad,2020-11-19,84.31,Telangana
+Hyderabad,2020-11-20,84.5,Telangana
+Hyderabad,2020-11-21,84.63,Telangana
+Hyderabad,2020-11-22,84.69,Telangana
+Hyderabad,2020-11-23,84.76,Telangana
+Hyderabad,2020-11-24,84.82,Telangana
+Hyderabad,2020-11-25,84.82,Telangana
+Hyderabad,2020-11-26,84.93,Telangana
+Hyderabad,2020-11-27,85.13,Telangana
+Hyderabad,2020-11-28,85.38,Telangana
+Hyderabad,2020-11-29,85.6,Telangana
+Hyderabad,2020-11-30,85.6,Telangana
+Hyderabad,2020-12-01,85.6,Telangana
+Hyderabad,2020-12-02,85.75,Telangana
+Hyderabad,2020-12-03,85.93,Telangana
+Hyderabad,2020-12-04,86.14,Telangana
+Hyderabad,2020-12-05,86.42,Telangana
+Hyderabad,2020-12-06,86.71,Telangana
+Hyderabad,2020-12-07,87.02,Telangana
+Hyderabad,2020-12-08,87.02,Telangana
+Hyderabad,2020-12-09,87.02,Telangana
+Hyderabad,2020-12-10,87.02,Telangana
+Hyderabad,2020-12-11,87.02,Telangana
+Hyderabad,2020-12-12,87.02,Telangana
+Hyderabad,2020-12-13,87.02,Telangana
+Hyderabad,2020-12-14,87.02,Telangana
+Hyderabad,2020-12-15,87.02,Telangana
+Hyderabad,2020-12-16,87.02,Telangana
+Hyderabad,2020-12-17,87.02,Telangana
+Hyderabad,2020-12-18,87.02,Telangana
+Hyderabad,2020-12-19,87.02,Telangana
+Hyderabad,2020-12-20,87.02,Telangana
+Hyderabad,2020-12-21,87.02,Telangana
+Hyderabad,2020-12-22,87.02,Telangana
+Hyderabad,2020-12-23,87.02,Telangana
+Hyderabad,2020-12-24,87.02,Telangana
+Hyderabad,2020-12-25,87.02,Telangana
+Hyderabad,2020-12-26,87.02,Telangana
+Hyderabad,2020-12-27,87.02,Telangana
+Hyderabad,2020-12-28,87.02,Telangana
+Hyderabad,2020-12-29,87.02,Telangana
+Hyderabad,2020-12-30,87.02,Telangana
+Hyderabad,2020-12-31,87.02,Telangana
+Bengaluru,2012-04-01,73.51,Karnataka
+Bengaluru,2012-05-24,81.75,Karnataka
+Bengaluru,2012-06-03,79.61,Karnataka
+Bengaluru,2012-06-29,76.39,Karnataka
+Bengaluru,2012-07-24,77.3,Karnataka
+Bengaluru,2012-07-25,75.91,Karnataka
+Bengaluru,2012-10-09,75.17,Karnataka
+Bengaluru,2012-10-27,75.47,Karnataka
+Bengaluru,2012-11-16,74.22,Karnataka
+Bengaluru,2013-01-01,74.4,Karnataka
+Bengaluru,2013-01-18,74.08,Karnataka
+Bengaluru,2013-02-16,76.04,Karnataka
+Bengaluru,2013-03-02,77.88,Karnataka
+Bengaluru,2013-03-16,75.26,Karnataka
+Bengaluru,2013-04-02,73.94,Karnataka
+Bengaluru,2013-04-16,72.63,Karnataka
+Bengaluru,2013-05-01,69.35,Karnataka
+Bengaluru,2013-06-01,70.33,Karnataka
+Bengaluru,2013-06-16,72.96,Karnataka
+Bengaluru,2013-06-29,75.41,Karnataka
+Bengaluru,2013-07-15,77.21,Karnataka
+Bengaluru,2013-08-01,78.12,Karnataka
+Bengaluru,2013-09-01,81.21,Karnataka
+Bengaluru,2013-09-14,83.35,Karnataka
+Bengaluru,2013-10-01,79.35,Karnataka
+Bengaluru,2013-11-01,77.84,Karnataka
+Bengaluru,2013-12-21,78.38,Karnataka
+Bengaluru,2014-01-04,79.38,Karnataka
+Bengaluru,2014-03-01,80.18,Karnataka
+Bengaluru,2014-04-01,79.19,Karnataka
+Bengaluru,2014-04-16,78.27,Karnataka
+Bengaluru,2014-06-07,78.38,Karnataka
+Bengaluru,2014-06-25,78.43,Karnataka
+Bengaluru,2014-07-01,80.68,Karnataka
+Bengaluru,2014-08-01,79.49,Karnataka
+Bengaluru,2014-08-15,77.11,Karnataka
+Bengaluru,2014-08-31,75.13,Karnataka
+Bengaluru,2014-10-01,74.42,Karnataka
+Bengaluru,2014-10-15,73.1,Karnataka
+Bengaluru,2014-11-01,70.45,Karnataka
+Bengaluru,2014-12-01,69.45,Karnataka
+Bengaluru,2014-12-16,67.27,Karnataka
+Bengaluru,2015-01-17,64.72,Karnataka
+Bengaluru,2015-02-04,62.01,Karnataka
+Bengaluru,2015-02-16,62.81,Karnataka
+Bengaluru,2015-03-01,66.18,Karnataka
+Bengaluru,2015-04-02,66.05,Karnataka
+Bengaluru,2015-04-15,65.17,Karnataka
+Bengaluru,2015-05-01,69.5,Karnataka
+Bengaluru,2015-05-16,72.94,Karnataka
+Bengaluru,2015-06-16,73.77,Karnataka
+Bengaluru,2015-07-01,73.38,Karnataka
+Bengaluru,2015-07-15,70.7,Karnataka
+Bengaluru,2015-08-01,68.05,Karnataka
+Bengaluru,2015-08-15,66.72,Karnataka
+Bengaluru,2015-09-01,64.61,Karnataka
+Bengaluru,2015-11-01,64.15,Karnataka
+Bengaluru,2015-11-16,64.52,Karnataka
+Bengaluru,2015-12-01,63.91,Karnataka
+Bengaluru,2015-12-16,63.38,Karnataka
+Bengaluru,2016-01-01,62.71,Karnataka
+Bengaluru,2016-01-16,62.38,Karnataka
+Bengaluru,2016-02-01,62.33,Karnataka
+Bengaluru,2016-02-17,62.0,Karnataka
+Bengaluru,2016-03-01,58.99,Karnataka
+Bengaluru,2016-03-17,62.19,Karnataka
+Bengaluru,2016-04-05,64.53,Karnataka
+Bengaluru,2016-04-16,65.41,Karnataka
+Bengaluru,2016-05-01,66.87,Karnataka
+Bengaluru,2016-05-17,67.64,Karnataka
+Bengaluru,2016-06-01,70.4,Karnataka
+Bengaluru,2016-06-16,70.46,Karnataka
+Bengaluru,2016-07-01,69.37,Karnataka
+Bengaluru,2016-07-15,66.96,Karnataka
+Bengaluru,2016-08-01,65.55,Karnataka
+Bengaluru,2016-08-15,64.47,Karnataka
+Bengaluru,2016-09-01,68.1,Karnataka
+Bengaluru,2016-09-15,68.92,Karnataka
+Bengaluru,2016-10-01,69.32,Karnataka
+Bengaluru,2016-10-05,69.43,Karnataka
+Bengaluru,2016-10-15,71.29,Karnataka
+Bengaluru,2016-11-06,72.64,Karnataka
+Bengaluru,2016-11-16,70.78,Karnataka
+Bengaluru,2016-12-01,70.96,Karnataka
+Bengaluru,2016-12-17,74.02,Karnataka
+Bengaluru,2017-01-01,75.8,Karnataka
+Bengaluru,2017-01-16,76.37,Karnataka
+Bengaluru,2017-02-23,76.1,Karnataka
+Bengaluru,2017-04-01,70.91,Karnataka
+Bengaluru,2017-04-16,72.81,Karnataka
+Bengaluru,2017-05-01,72.83,Karnataka
+Bengaluru,2017-05-16,69.88,Karnataka
+Bengaluru,2017-06-01,71.59,Karnataka
+Bengaluru,2017-06-16,69.98,Karnataka
+Bengaluru,2017-06-19,69.09,Karnataka
+Bengaluru,2017-06-21,68.99,Karnataka
+Bengaluru,2017-06-22,68.82,Karnataka
+Bengaluru,2017-06-23,68.59,Karnataka
+Bengaluru,2017-06-26,67.91,Karnataka
+Bengaluru,2017-06-27,67.77,Karnataka
+Bengaluru,2017-06-28,67.82,Karnataka
+Bengaluru,2017-06-29,67.77,Karnataka
+Bengaluru,2017-06-30,67.66,Karnataka
+Bengaluru,2017-07-03,64.33,Karnataka
+Bengaluru,2017-07-04,64.23,Karnataka
+Bengaluru,2017-07-05,64.28,Karnataka
+Bengaluru,2017-07-06,64.35,Karnataka
+Bengaluru,2017-07-07,64.49,Karnataka
+Bengaluru,2017-07-10,65.04,Karnataka
+Bengaluru,2017-07-11,65.1,Karnataka
+Bengaluru,2017-07-12,65.14,Karnataka
+Bengaluru,2017-07-13,65.07,Karnataka
+Bengaluru,2017-07-14,65.06,Karnataka
+Bengaluru,2017-07-17,65.4,Karnataka
+Bengaluru,2017-07-18,65.38,Karnataka
+Bengaluru,2017-07-19,65.46,Karnataka
+Bengaluru,2017-07-20,65.5,Karnataka
+Bengaluru,2017-07-21,65.45,Karnataka
+Bengaluru,2017-07-24,65.79,Karnataka
+Bengaluru,2017-07-25,65.83,Karnataka
+Bengaluru,2017-07-26,65.75,Karnataka
+Bengaluru,2017-07-27,65.77,Karnataka
+Bengaluru,2017-07-28,65.87,Karnataka
+Bengaluru,2017-07-31,66.45,Karnataka
+Bengaluru,2017-08-01,66.47,Karnataka
+Bengaluru,2017-08-02,66.46,Karnataka
+Bengaluru,2017-08-04,67.0,Karnataka
+Bengaluru,2017-08-07,67.75,Karnataka
+Bengaluru,2017-08-08,67.77,Karnataka
+Bengaluru,2017-08-09,67.83,Karnataka
+Bengaluru,2017-08-10,67.99,Karnataka
+Bengaluru,2017-08-11,68.3,Karnataka
+Bengaluru,2017-08-14,69.07,Karnataka
+Bengaluru,2017-08-16,69.19,Karnataka
+Bengaluru,2017-08-17,69.29,Karnataka
+Bengaluru,2017-08-18,69.35,Karnataka
+Bengaluru,2017-08-21,69.67,Karnataka
+Bengaluru,2017-08-22,69.73,Karnataka
+Bengaluru,2017-08-23,69.87,Karnataka
+Bengaluru,2017-08-24,69.94,Karnataka
+Bengaluru,2017-08-28,70.24,Karnataka
+Bengaluru,2017-08-29,70.19,Karnataka
+Bengaluru,2017-08-30,70.27,Karnataka
+Bengaluru,2017-08-31,70.3,Karnataka
+Bengaluru,2017-09-01,70.34,Karnataka
+Bengaluru,2017-09-04,70.72,Karnataka
+Bengaluru,2017-09-05,70.79,Karnataka
+Bengaluru,2017-09-07,70.89,Karnataka
+Bengaluru,2017-09-08,70.98,Karnataka
+Bengaluru,2017-09-11,71.38,Karnataka
+Bengaluru,2017-09-12,71.47,Karnataka
+Bengaluru,2017-09-13,71.45,Karnataka
+Bengaluru,2017-09-14,71.49,Karnataka
+Bengaluru,2017-09-15,71.53,Karnataka
+Bengaluru,2017-09-19,71.6,Karnataka
+Bengaluru,2017-09-20,71.63,Karnataka
+Bengaluru,2017-09-21,71.6,Karnataka
+Bengaluru,2017-09-22,71.57,Karnataka
+Bengaluru,2017-09-25,71.49,Karnataka
+Bengaluru,2017-09-26,71.51,Karnataka
+Bengaluru,2017-09-27,71.49,Karnataka
+Bengaluru,2017-09-28,71.56,Karnataka
+Bengaluru,2017-09-29,71.67,Karnataka
+Bengaluru,2017-10-03,71.95,Karnataka
+Bengaluru,2017-10-04,69.44,Karnataka
+Bengaluru,2017-10-06,69.42,Karnataka
+Bengaluru,2017-10-09,69.48,Karnataka
+Bengaluru,2017-10-10,69.51,Karnataka
+Bengaluru,2017-10-11,69.54,Karnataka
+Bengaluru,2017-10-12,69.48,Karnataka
+Bengaluru,2017-10-13,69.49,Karnataka
+Bengaluru,2017-10-16,69.31,Karnataka
+Bengaluru,2017-10-17,69.28,Karnataka
+Bengaluru,2017-10-18,69.32,Karnataka
+Bengaluru,2017-10-24,69.63,Karnataka
+Bengaluru,2017-10-25,69.69,Karnataka
+Bengaluru,2017-10-26,69.72,Karnataka
+Bengaluru,2017-10-30,70.11,Karnataka
+Bengaluru,2017-10-31,70.21,Karnataka
+Bengaluru,2017-11-02,70.32,Karnataka
+Bengaluru,2017-11-03,70.41,Karnataka
+Bengaluru,2017-11-06,70.85,Karnataka
+Bengaluru,2017-11-07,70.88,Karnataka
+Bengaluru,2017-11-09,70.93,Karnataka
+Bengaluru,2017-11-10,71.02,Karnataka
+Bengaluru,2017-11-13,70.94,Karnataka
+Bengaluru,2017-11-14,70.81,Karnataka
+Bengaluru,2017-11-15,70.76,Karnataka
+Bengaluru,2017-11-16,70.73,Karnataka
+Bengaluru,2017-11-17,70.69,Karnataka
+Bengaluru,2017-11-20,70.67,Karnataka
+Bengaluru,2017-11-21,70.61,Karnataka
+Bengaluru,2017-11-22,70.56,Karnataka
+Bengaluru,2017-11-23,70.51,Karnataka
+Bengaluru,2017-11-24,70.48,Karnataka
+Bengaluru,2017-11-27,70.43,Karnataka
+Bengaluru,2017-11-28,70.33,Karnataka
+Bengaluru,2017-11-29,70.41,Karnataka
+Bengaluru,2017-11-30,70.31,Karnataka
+Bengaluru,2017-12-01,70.29,Karnataka
+Bengaluru,2017-12-05,70.4,Karnataka
+Bengaluru,2017-12-06,70.31,Karnataka
+Bengaluru,2017-12-07,70.3,Karnataka
+Bengaluru,2017-12-08,70.26,Karnataka
+Bengaluru,2017-12-11,70.27,Karnataka
+Bengaluru,2017-12-12,70.16,Karnataka
+Bengaluru,2017-12-13,70.14,Karnataka
+Bengaluru,2017-12-15,70.17,Karnataka
+Bengaluru,2017-12-18,70.34,Karnataka
+Bengaluru,2017-12-19,70.42,Karnataka
+Bengaluru,2017-12-20,70.5,Karnataka
+Bengaluru,2017-12-22,70.58,Karnataka
+Bengaluru,2017-12-26,70.79,Karnataka
+Bengaluru,2017-12-27,70.8,Karnataka
+Bengaluru,2017-12-28,70.89,Karnataka
+Bengaluru,2017-12-29,70.99,Karnataka
+Bengaluru,2018-01-01,71.14,Karnataka
+Bengaluru,2018-01-02,71.06,Karnataka
+Bengaluru,2018-01-03,71.14,Karnataka
+Bengaluru,2018-01-05,71.16,Karnataka
+Bengaluru,2018-01-08,71.6,Karnataka
+Bengaluru,2018-01-09,71.65,Karnataka
+Bengaluru,2018-01-10,71.72,Karnataka
+Bengaluru,2018-01-11,71.76,Karnataka
+Bengaluru,2018-01-12,71.82,Karnataka
+Bengaluru,2018-01-15,72.27,Karnataka
+Bengaluru,2018-01-16,72.36,Karnataka
+Bengaluru,2018-01-17,72.49,Karnataka
+Bengaluru,2018-01-18,72.66,Karnataka
+Bengaluru,2018-01-19,72.8,Karnataka
+Bengaluru,2018-01-22,73.35,Karnataka
+Bengaluru,2018-01-23,73.5,Karnataka
+Bengaluru,2018-01-25,73.61,Karnataka
+Bengaluru,2018-01-29,73.97,Karnataka
+Bengaluru,2018-01-30,74.05,Karnataka
+Bengaluru,2018-02-01,74.18,Karnataka
+Bengaluru,2018-02-02,74.23,Karnataka
+Bengaluru,2018-02-05,74.45,Karnataka
+Bengaluru,2018-02-06,74.52,Karnataka
+Bengaluru,2018-02-08,74.51,Karnataka
+Bengaluru,2018-02-09,74.49,Karnataka
+Bengaluru,2018-02-12,74.14,Karnataka
+Bengaluru,2018-02-13,74.07,Karnataka
+Bengaluru,2018-02-15,73.92,Karnataka
+Bengaluru,2018-02-16,73.64,Karnataka
+Bengaluru,2018-02-19,73.03,Karnataka
+Bengaluru,2018-02-20,72.83,Karnataka
+Bengaluru,2018-02-21,72.82,Karnataka
+Bengaluru,2018-02-22,72.8,Karnataka
+Bengaluru,2018-02-23,72.71,Karnataka
+Bengaluru,2018-02-26,72.63,Karnataka
+Bengaluru,2018-02-27,72.61,Karnataka
+Bengaluru,2018-03-01,72.74,Karnataka
+Bengaluru,2018-03-02,72.93,Karnataka
+Bengaluru,2018-03-05,73.51,Karnataka
+Bengaluru,2018-03-06,73.58,Karnataka
+Bengaluru,2018-03-09,73.62,Karnataka
+Bengaluru,2018-03-12,73.64,Karnataka
+Bengaluru,2018-03-13,73.66,Karnataka
+Bengaluru,2018-03-15,73.64,Karnataka
+Bengaluru,2018-03-16,73.56,Karnataka
+Bengaluru,2018-03-19,73.38,Karnataka
+Bengaluru,2018-03-20,73.39,Karnataka
+Bengaluru,2018-03-22,73.45,Karnataka
+Bengaluru,2018-03-23,73.49,Karnataka
+Bengaluru,2018-03-26,73.99,Karnataka
+Bengaluru,2018-03-27,74.1,Karnataka
+Bengaluru,2018-03-29,74.29,Karnataka
+Bengaluru,2018-03-30,74.52,Karnataka
+Bengaluru,2018-04-02,75.03,Karnataka
+Bengaluru,2018-04-03,75.16,Karnataka
+Bengaluru,2018-04-05,75.19,Karnataka
+Bengaluru,2018-04-09,75.2,Karnataka
+Bengaluru,2018-04-10,75.19,Karnataka
+Bengaluru,2018-04-12,75.15,Karnataka
+Bengaluru,2018-04-13,75.12,Karnataka
+Bengaluru,2018-04-16,75.23,Karnataka
+Bengaluru,2018-04-19,75.28,Karnataka
+Bengaluru,2018-04-20,75.29,Karnataka
+Bengaluru,2018-04-23,75.72,Karnataka
+Bengaluru,2018-04-24,75.86,Karnataka
+Bengaluru,2018-05-14,76.04,Karnataka
+Bengaluru,2018-05-15,76.2,Karnataka
+Bengaluru,2018-05-16,76.35,Karnataka
+Bengaluru,2018-05-17,76.58,Karnataka
+Bengaluru,2018-05-18,76.04,Karnataka
+Bengaluru,2018-05-21,77.85,Karnataka
+Bengaluru,2018-05-22,78.16,Karnataka
+Bengaluru,2018-05-23,78.47,Karnataka
+Bengaluru,2018-05-24,78.77,Karnataka
+Bengaluru,2018-05-25,79.14,Karnataka
+Bengaluru,2018-05-26,79.28,Karnataka
+Bengaluru,2018-05-27,79.44,Karnataka
+Bengaluru,2018-05-28,79.59,Karnataka
+Bengaluru,2018-05-29,79.75,Karnataka
+Bengaluru,2018-05-31,79.67,Karnataka
+Bengaluru,2018-06-01,79.61,Karnataka
+Bengaluru,2018-06-02,79.52,Karnataka
+Bengaluru,2018-06-03,79.43,Karnataka
+Bengaluru,2018-06-04,79.27,Karnataka
+Bengaluru,2018-06-05,79.14,Karnataka
+Bengaluru,2018-06-06,79.03,Karnataka
+Bengaluru,2018-06-07,78.94,Karnataka
+Bengaluru,2018-06-08,78.72,Karnataka
+Bengaluru,2018-06-09,78.31,Karnataka
+Bengaluru,2018-06-10,78.07,Karnataka
+Bengaluru,2018-06-11,77.86,Karnataka
+Bengaluru,2018-06-12,77.71,Karnataka
+Bengaluru,2018-06-15,77.63,Karnataka
+Bengaluru,2018-06-19,77.55,Karnataka
+Bengaluru,2018-06-21,77.43,Karnataka
+Bengaluru,2018-06-22,77.29,Karnataka
+Bengaluru,2018-06-23,77.2,Karnataka
+Bengaluru,2018-06-24,77.06,Karnataka
+Bengaluru,2018-06-25,76.95,Karnataka
+Bengaluru,2018-06-26,76.81,Karnataka
+Bengaluru,2018-07-05,76.97,Karnataka
+Bengaluru,2018-07-06,77.12,Karnataka
+Bengaluru,2018-07-09,77.64,Karnataka
+Bengaluru,2018-07-10,77.81,Karnataka
+Bengaluru,2018-07-12,77.87,Karnataka
+Bengaluru,2018-07-13,78.05,Karnataka
+Bengaluru,2018-07-16,79.3,Karnataka
+Bengaluru,2018-07-20,79.14,Karnataka
+Bengaluru,2018-07-23,78.8,Karnataka
+Bengaluru,2018-07-24,78.73,Karnataka
+Bengaluru,2018-07-30,78.75,Karnataka
+Bengaluru,2018-07-31,78.81,Karnataka
+Bengaluru,2018-08-02,78.95,Karnataka
+Bengaluru,2018-08-03,79.03,Karnataka
+Bengaluru,2018-08-06,79.51,Karnataka
+Bengaluru,2018-08-07,79.61,Karnataka
+Bengaluru,2018-08-13,79.69,Karnataka
+Bengaluru,2018-08-16,79.74,Karnataka
+Bengaluru,2018-08-20,80.05,Karnataka
+Bengaluru,2018-08-21,80.15,Karnataka
+Bengaluru,2018-08-24,80.24,Karnataka
+Bengaluru,2018-08-25,74.39,Karnataka
+Bengaluru,2018-08-26,74.47,Karnataka
+Bengaluru,2018-08-27,80.49,Karnataka
+Bengaluru,2018-08-28,80.64,Karnataka
+Bengaluru,2018-08-29,80.77,Karnataka
+Bengaluru,2018-08-30,80.89,Karnataka
+Bengaluru,2018-08-31,81.12,Karnataka
+Bengaluru,2018-09-03,81.82,Karnataka
+Bengaluru,2018-09-04,81.98,Karnataka
+Bengaluru,2018-09-06,82.19,Karnataka
+Bengaluru,2018-09-07,82.69,Karnataka
+Bengaluru,2018-09-10,83.46,Karnataka
+Bengaluru,2018-09-11,83.6,Karnataka
+Bengaluru,2018-09-13,83.74,Karnataka
+Bengaluru,2018-09-14,84.03,Karnataka
+Bengaluru,2018-09-15,84.39,Karnataka
+Bengaluru,2018-09-16,84.68,Karnataka
+Bengaluru,2018-09-17,84.84,Karnataka
+Bengaluru,2018-09-18,82.91,Karnataka
+Bengaluru,2018-09-20,82.97,Karnataka
+Bengaluru,2018-09-21,83.08,Karnataka
+Bengaluru,2018-09-23,83.35,Karnataka
+Bengaluru,2018-09-24,83.47,Karnataka
+Bengaluru,2018-09-25,83.61,Karnataka
+Bengaluru,2018-09-27,83.75,Karnataka
+Bengaluru,2018-09-28,83.97,Karnataka
+Bengaluru,2018-09-30,84.24,Karnataka
+Bengaluru,2018-10-01,84.47,Karnataka
+Bengaluru,2018-10-02,84.58,Karnataka
+Bengaluru,2018-10-04,84.72,Karnataka
+Bengaluru,2018-10-05,82.19,Karnataka
+Bengaluru,2018-10-06,82.37,Karnataka
+Bengaluru,2018-10-07,82.52,Karnataka
+Bengaluru,2018-10-08,82.73,Karnataka
+Bengaluru,2018-10-09,82.96,Karnataka
+Bengaluru,2018-10-11,83.06,Karnataka
+Bengaluru,2018-10-12,83.18,Karnataka
+Bengaluru,2018-10-13,83.37,Karnataka
+Bengaluru,2018-10-14,83.43,Karnataka
+Bengaluru,2018-10-16,83.54,Karnataka
+Bengaluru,2018-10-18,83.33,Karnataka
+Bengaluru,2018-10-19,83.08,Karnataka
+Bengaluru,2018-10-20,82.69,Karnataka
+Bengaluru,2018-10-22,82.13,Karnataka
+Bengaluru,2018-10-23,82.03,Karnataka
+Bengaluru,2018-10-24,81.94,Karnataka
+Bengaluru,2018-10-25,81.79,Karnataka
+Bengaluru,2018-10-26,81.54,Karnataka
+Bengaluru,2018-10-29,80.42,Karnataka
+Bengaluru,2018-10-30,80.22,Karnataka
+Bengaluru,2018-11-01,80.04,Karnataka
+Bengaluru,2018-11-02,79.88,Karnataka
+Bengaluru,2018-11-05,79.28,Karnataka
+Bengaluru,2018-11-06,79.14,Karnataka
+Bengaluru,2018-11-12,78.27,Karnataka
+Bengaluru,2018-11-13,78.14,Karnataka
+Bengaluru,2018-11-15,77.99,Karnataka
+Bengaluru,2018-11-16,77.81,Karnataka
+Bengaluru,2018-11-19,77.22,Karnataka
+Bengaluru,2018-11-20,77.08,Karnataka
+Bengaluru,2018-11-22,76.66,Karnataka
+Bengaluru,2018-11-23,76.26,Karnataka
+Bengaluru,2018-11-26,75.17,Karnataka
+Bengaluru,2018-11-27,74.74,Karnataka
+Bengaluru,2018-11-28,74.24,Karnataka
+Bengaluru,2018-11-29,73.9,Karnataka
+Bengaluru,2018-11-30,73.53,Karnataka
+Bengaluru,2018-12-01,73.17,Karnataka
+Bengaluru,2018-12-02,72.85,Karnataka
+Bengaluru,2018-12-03,72.54,Karnataka
+Bengaluru,2018-12-04,72.33,Karnataka
+Bengaluru,2018-12-06,71.92,Karnataka
+Bengaluru,2018-12-07,71.52,Karnataka
+Bengaluru,2018-12-10,70.9,Karnataka
+Bengaluru,2018-12-11,70.74,Karnataka
+Bengaluru,2018-12-13,70.83,Karnataka
+Bengaluru,2018-12-17,71.07,Karnataka
+Bengaluru,2018-12-18,71.17,Karnataka
+Bengaluru,2018-12-21,71.0,Karnataka
+Bengaluru,2018-12-24,70.39,Karnataka
+Bengaluru,2018-12-25,70.32,Karnataka
+Bengaluru,2018-12-27,70.27,Karnataka
+Bengaluru,2018-12-28,70.08,Karnataka
+Bengaluru,2018-12-31,69.36,Karnataka
+Bengaluru,2019-01-02,69.26,Karnataka
+Bengaluru,2019-01-04,69.05,Karnataka
+Bengaluru,2019-01-07,70.78,Karnataka
+Bengaluru,2019-01-10,71.18,Karnataka
+Bengaluru,2019-01-11,71.38,Karnataka
+Bengaluru,2019-01-14,72.47,Karnataka
+Bengaluru,2019-01-16,72.68,Karnataka
+Bengaluru,2019-01-17,72.83,Karnataka
+Bengaluru,2019-01-18,72.91,Karnataka
+Bengaluru,2019-01-21,73.52,Karnataka
+Bengaluru,2019-01-22,73.66,Karnataka
+Bengaluru,2019-01-29,73.57,Karnataka
+Bengaluru,2019-01-31,73.47,Karnataka
+Bengaluru,2019-02-01,73.23,Karnataka
+Bengaluru,2019-02-05,72.71,Karnataka
+Bengaluru,2019-02-08,72.65,Karnataka
+Bengaluru,2019-02-11,72.6,Karnataka
+Bengaluru,2019-02-14,72.66,Karnataka
+Bengaluru,2019-02-15,72.73,Karnataka
+Bengaluru,2019-02-18,73.2,Karnataka
+Bengaluru,2019-02-19,73.3,Karnataka
+Bengaluru,2019-02-22,73.6,Karnataka
+Bengaluru,2019-02-25,73.89,Karnataka
+Bengaluru,2019-02-26,73.99,Karnataka
+Bengaluru,2019-02-28,74.06,Karnataka
+Bengaluru,2019-03-01,74.17,Karnataka
+Bengaluru,2019-03-04,74.54,Karnataka
+Bengaluru,2019-03-05,74.62,Karnataka
+Bengaluru,2019-03-11,74.84,Karnataka
+Bengaluru,2019-03-12,74.79,Karnataka
+Bengaluru,2019-03-14,74.86,Karnataka
+Bengaluru,2019-03-15,74.94,Karnataka
+Bengaluru,2019-03-18,75.18,Karnataka
+Bengaluru,2019-03-21,75.1,Karnataka
+Bengaluru,2019-03-22,75.15,Karnataka
+Bengaluru,2019-03-23,75.21,Karnataka
+Bengaluru,2019-03-24,75.26,Karnataka
+Bengaluru,2019-03-28,75.21,Karnataka
+Bengaluru,2019-04-01,75.28,Karnataka
+Bengaluru,2019-04-05,75.34,Karnataka
+Bengaluru,2019-04-08,75.27,Karnataka
+Bengaluru,2019-04-09,75.22,Karnataka
+Bengaluru,2019-04-12,75.28,Karnataka
+Bengaluru,2019-04-15,75.41,Karnataka
+Bengaluru,2019-04-16,75.36,Karnataka
+Bengaluru,2019-04-20,75.43,Karnataka
+Bengaluru,2019-04-22,75.38,Karnataka
+Bengaluru,2019-04-25,75.45,Karnataka
+Bengaluru,2019-04-27,75.51,Karnataka
+Bengaluru,2019-04-30,75.56,Karnataka
+Bengaluru,2019-05-02,75.49,Karnataka
+Bengaluru,2019-05-04,75.5,Karnataka
+Bengaluru,2019-05-05,75.43,Karnataka
+Bengaluru,2019-05-06,75.36,Karnataka
+Bengaluru,2019-05-09,75.2,Karnataka
+Bengaluru,2019-05-10,74.98,Karnataka
+Bengaluru,2019-05-11,74.48,Karnataka
+Bengaluru,2019-05-12,74.04,Karnataka
+Bengaluru,2019-05-13,73.73,Karnataka
+Bengaluru,2019-05-14,73.47,Karnataka
+Bengaluru,2019-05-17,73.39,Karnataka
+Bengaluru,2019-05-18,73.32,Karnataka
+Bengaluru,2019-05-20,73.41,Karnataka
+Bengaluru,2019-05-21,73.46,Karnataka
+Bengaluru,2019-05-23,73.55,Karnataka
+Bengaluru,2019-05-24,73.69,Karnataka
+Bengaluru,2019-05-25,73.84,Karnataka
+Bengaluru,2019-05-26,73.98,Karnataka
+Bengaluru,2019-05-27,74.09,Karnataka
+Bengaluru,2019-05-28,74.18,Karnataka
+Bengaluru,2019-05-30,74.12,Karnataka
+Bengaluru,2019-05-31,74.04,Karnataka
+Bengaluru,2019-06-01,74.01,Karnataka
+Bengaluru,2019-06-02,73.89,Karnataka
+Bengaluru,2019-06-03,73.68,Karnataka
+Bengaluru,2019-06-04,73.61,Karnataka
+Bengaluru,2019-06-06,73.44,Karnataka
+Bengaluru,2019-06-07,73.31,Karnataka
+Bengaluru,2019-06-10,72.78,Karnataka
+Bengaluru,2019-06-13,72.7,Karnataka
+Bengaluru,2019-06-14,72.52,Karnataka
+Bengaluru,2019-06-15,72.32,Karnataka
+Bengaluru,2019-06-16,72.26,Karnataka
+Bengaluru,2019-06-24,72.38,Karnataka
+Bengaluru,2019-06-27,72.46,Karnataka
+Bengaluru,2019-06-28,72.51,Karnataka
+Bengaluru,2019-06-29,72.62,Karnataka
+Bengaluru,2019-06-30,72.72,Karnataka
+Bengaluru,2019-07-01,72.82,Karnataka
+Bengaluru,2019-07-02,72.89,Karnataka
+Bengaluru,2019-07-06,75.42,Karnataka
+Bengaluru,2019-07-09,75.37,Karnataka
+Bengaluru,2019-07-13,75.46,Karnataka
+Bengaluru,2019-07-14,75.55,Karnataka
+Bengaluru,2019-07-15,75.69,Karnataka
+Bengaluru,2019-07-16,75.75,Karnataka
+Bengaluru,2019-07-18,75.83,Karnataka
+Bengaluru,2019-07-23,75.9,Karnataka
+Bengaluru,2019-07-25,75.83,Karnataka
+Bengaluru,2019-07-26,75.77,Karnataka
+Bengaluru,2019-07-27,75.72,Karnataka
+Bengaluru,2019-07-28,75.62,Karnataka
+Bengaluru,2019-07-29,75.46,Karnataka
+Bengaluru,2019-07-30,75.33,Karnataka
+Bengaluru,2019-08-01,75.26,Karnataka
+Bengaluru,2019-08-02,75.1,Karnataka
+Bengaluru,2019-08-03,75.02,Karnataka
+Bengaluru,2019-08-04,74.94,Karnataka
+Bengaluru,2019-08-05,74.78,Karnataka
+Bengaluru,2019-08-06,74.69,Karnataka
+Bengaluru,2019-08-08,74.64,Karnataka
+Bengaluru,2019-08-09,74.48,Karnataka
+Bengaluru,2019-08-11,74.39,Karnataka
+Bengaluru,2019-08-18,74.3,Karnataka
+Bengaluru,2019-08-19,74.23,Karnataka
+Bengaluru,2019-08-24,74.31,Karnataka
+Bengaluru,2019-08-25,74.39,Karnataka
+Bengaluru,2019-08-26,74.47,Karnataka
+Bengaluru,2019-08-27,74.47,Karnataka
+Bengaluru,2019-08-29,74.41,Karnataka
+Bengaluru,2019-09-05,74.38,Karnataka
+Bengaluru,2019-09-06,74.29,Karnataka
+Bengaluru,2019-09-07,74.19,Karnataka
+Bengaluru,2019-09-08,74.13,Karnataka
+Bengaluru,2019-09-10,74.18,Karnataka
+Bengaluru,2019-09-12,74.24,Karnataka
+Bengaluru,2019-09-13,74.32,Karnataka
+Bengaluru,2019-09-14,74.4,Karnataka
+Bengaluru,2019-09-15,74.46,Karnataka
+Bengaluru,2019-09-17,74.61,Karnataka
+Bengaluru,2019-09-18,74.87,Karnataka
+Bengaluru,2019-09-19,75.17,Karnataka
+Bengaluru,2019-09-20,75.53,Karnataka
+Bengaluru,2019-09-21,75.83,Karnataka
+Bengaluru,2019-09-22,76.11,Karnataka
+Bengaluru,2019-09-23,76.41,Karnataka
+Bengaluru,2019-09-24,76.64,Karnataka
+Bengaluru,2019-09-26,76.7,Karnataka
+Bengaluru,2019-09-27,76.86,Karnataka
+Bengaluru,2019-09-30,76.94,Karnataka
+Bengaluru,2019-10-01,77.16,Karnataka
+Bengaluru,2019-10-03,77.06,Karnataka
+Bengaluru,2019-10-04,76.87,Karnataka
+Bengaluru,2019-10-05,76.57,Karnataka
+Bengaluru,2019-10-07,76.28,Karnataka
+Bengaluru,2019-10-08,76.11,Karnataka
+Bengaluru,2019-10-10,76.06,Karnataka
+Bengaluru,2019-10-11,75.93,Karnataka
+Bengaluru,2019-10-12,75.83,Karnataka
+Bengaluru,2019-10-15,75.78,Karnataka
+Bengaluru,2019-10-22,75.72,Karnataka
+Bengaluru,2019-10-24,75.67,Karnataka
+Bengaluru,2019-10-25,75.56,Karnataka
+Bengaluru,2019-10-26,75.47,Karnataka
+Bengaluru,2019-10-29,75.41,Karnataka
+Bengaluru,2019-11-01,75.29,Karnataka
+Bengaluru,2019-11-02,75.21,Karnataka
+Bengaluru,2019-11-03,75.16,Karnataka
+Bengaluru,2019-11-04,75.07,Karnataka
+Bengaluru,2019-11-05,75.02,Karnataka
+Bengaluru,2019-11-08,75.12,Karnataka
+Bengaluru,2019-11-09,75.28,Karnataka
+Bengaluru,2019-11-10,75.49,Karnataka
+Bengaluru,2019-11-11,75.64,Karnataka
+Bengaluru,2019-11-13,75.75,Karnataka
+Bengaluru,2019-11-14,75.9,Karnataka
+Bengaluru,2019-11-15,76.09,Karnataka
+Bengaluru,2019-11-16,76.23,Karnataka
+Bengaluru,2019-11-17,76.36,Karnataka
+Bengaluru,2019-11-18,76.52,Karnataka
+Bengaluru,2019-11-19,76.68,Karnataka
+Bengaluru,2019-11-22,76.83,Karnataka
+Bengaluru,2019-11-23,76.93,Karnataka
+Bengaluru,2019-11-24,77.03,Karnataka
+Bengaluru,2019-11-25,77.16,Karnataka
+Bengaluru,2019-11-26,77.26,Karnataka
+Bengaluru,2019-11-29,77.31,Karnataka
+Bengaluru,2019-11-30,77.363,Karnataka
+Bengaluru,2019-12-01,77.49,Karnataka
+Bengaluru,2019-12-07,77.4,Karnataka
+Bengaluru,2019-12-08,77.49,Karnataka
+Bengaluru,2019-12-09,77.54,Karnataka
+Bengaluru,2019-12-10,77.55,Karnataka
+Bengaluru,2019-12-12,77.5,Karnataka
+Bengaluru,2019-12-13,77.44,Karnataka
+Bengaluru,2019-12-14,77.38,Karnataka
+Bengaluru,2019-12-15,77.28,Karnataka
+Bengaluru,2019-12-16,77.23,Karnataka
+Bengaluru,2019-12-17,77.18,Karnataka
+Bengaluru,2019-12-19,77.16,Karnataka
+Bengaluru,2019-12-26,77.22,Karnataka
+Bengaluru,2019-12-27,77.28,Karnataka
+Bengaluru,2019-12-29,77.42,Karnataka
+Bengaluru,2019-12-30,77.59,Karnataka
+Bengaluru,2019-12-31,77.69,Karnataka
+Bengaluru,2020-01-02,77.83,Karnataka
+Bengaluru,2020-01-03,77.93,Karnataka
+Bengaluru,2020-01-04,78.03,Karnataka
+Bengaluru,2020-01-05,78.13,Karnataka
+Bengaluru,2020-01-06,78.28,Karnataka
+Bengaluru,2020-01-07,78.43,Karnataka
+Bengaluru,2020-01-08,78.33,Karnataka
+Bengaluru,2020-01-09,78.41,Karnataka
+Bengaluru,2020-01-10,78.56,Karnataka
+Bengaluru,2020-01-11,78.62,Karnataka
+Bengaluru,2020-01-12,78.52,Karnataka
+Bengaluru,2020-01-13,78.4,Karnataka
+Bengaluru,2020-01-14,78.3,Karnataka
+Bengaluru,2020-01-16,78.14,Karnataka
+Bengaluru,2020-01-17,77.99,Karnataka
+Bengaluru,2020-01-18,77.84,Karnataka
+Bengaluru,2020-01-19,77.66,Karnataka
+Bengaluru,2020-01-20,77.55,Karnataka
+Bengaluru,2020-01-21,77.39,Karnataka
+Bengaluru,2020-01-22,77.39,Karnataka
+Bengaluru,2020-01-23,77.21,Karnataka
+Bengaluru,2020-01-24,76.99,Karnataka
+Bengaluru,2020-01-25,76.74,Karnataka
+Bengaluru,2020-01-26,76.44,Karnataka
+Bengaluru,2020-01-27,76.23,Karnataka
+Bengaluru,2020-01-28,76.12,Karnataka
+Bengaluru,2020-01-29,76.12,Karnataka
+Bengaluru,2020-01-30,75.88,Karnataka
+Bengaluru,2020-01-31,75.77,Karnataka
+Bengaluru,2020-02-01,75.63,Karnataka
+Bengaluru,2020-02-02,75.53,Karnataka
+Bengaluru,2020-02-03,75.48,Karnataka
+Bengaluru,2020-02-04,75.43,Karnataka
+Bengaluru,2020-02-05,75.43,Karnataka
+Bengaluru,2020-02-06,75.32,Karnataka
+Bengaluru,2020-02-07,75.1,Karnataka
+Bengaluru,2020-02-08,74.86,Karnataka
+Bengaluru,2020-02-09,74.64,Karnataka
+Bengaluru,2020-02-10,74.51,Karnataka
+Bengaluru,2020-02-11,74.35,Karnataka
+Bengaluru,2020-02-12,74.35,Karnataka
+Bengaluru,2020-02-13,74.35,Karnataka
+Bengaluru,2020-02-14,74.35,Karnataka
+Bengaluru,2020-02-15,74.35,Karnataka
+Bengaluru,2020-02-17,74.35,Karnataka
+Bengaluru,2020-02-18,74.3,Karnataka
+Bengaluru,2020-02-19,74.3,Karnataka
+Bengaluru,2020-02-20,74.3,Karnataka
+Bengaluru,2020-02-21,74.3,Karnataka
+Bengaluru,2020-02-24,74.42,Karnataka
+Bengaluru,2020-02-25,74.42,Karnataka
+Bengaluru,2020-02-26,74.42,Karnataka
+Bengaluru,2020-02-27,74.37,Karnataka
+Bengaluru,2020-02-28,74.37,Karnataka
+Bengaluru,2020-02-29,74.3,Karnataka
+Bengaluru,2020-03-01,74.15,Karnataka
+Bengaluru,2020-03-02,73.92,Karnataka
+Bengaluru,2020-03-03,73.87,Karnataka
+Bengaluru,2020-03-04,73.87,Karnataka
+Bengaluru,2020-03-05,73.71,Karnataka
+Bengaluru,2020-03-06,73.56,Karnataka
+Bengaluru,2020-03-07,73.43,Karnataka
+Bengaluru,2020-03-08,73.24,Karnataka
+Bengaluru,2020-03-09,72.99,Karnataka
+Bengaluru,2020-03-10,72.69,Karnataka
+Bengaluru,2020-03-11,72.69,Karnataka
+Bengaluru,2020-03-12,72.52,Karnataka
+Bengaluru,2020-03-13,72.38,Karnataka
+Bengaluru,2020-03-14,72.25,Karnataka
+Bengaluru,2020-03-15,72.12,Karnataka
+Bengaluru,2020-03-16,71.95,Karnataka
+Bengaluru,2020-03-17,71.95,Karnataka
+Bengaluru,2020-03-18,71.95,Karnataka
+Bengaluru,2020-03-19,71.95,Karnataka
+Bengaluru,2020-03-20,71.95,Karnataka
+Bengaluru,2020-03-21,71.95,Karnataka
+Bengaluru,2020-03-22,71.95,Karnataka
+Bengaluru,2020-03-23,71.95,Karnataka
+Bengaluru,2020-03-24,71.95,Karnataka
+Bengaluru,2020-03-25,71.95,Karnataka
+Bengaluru,2020-03-26,71.95,Karnataka
+Bengaluru,2020-03-27,71.95,Karnataka
+Bengaluru,2020-03-28,71.95,Karnataka
+Bengaluru,2020-03-29,71.95,Karnataka
+Bengaluru,2020-03-30,71.95,Karnataka
+Bengaluru,2020-03-31,71.95,Karnataka
+Bengaluru,2020-04-01,71.95,Karnataka
+Bengaluru,2020-04-02,71.95,Karnataka
+Bengaluru,2020-04-03,71.95,Karnataka
+Bengaluru,2020-04-04,71.95,Karnataka
+Bengaluru,2020-04-05,71.95,Karnataka
+Bengaluru,2020-04-06,73.53,Karnataka
+Bengaluru,2020-04-07,73.53,Karnataka
+Bengaluru,2020-04-08,73.53,Karnataka
+Bengaluru,2020-04-09,73.53,Karnataka
+Bengaluru,2020-04-10,73.53,Karnataka
+Bengaluru,2020-04-11,73.53,Karnataka
+Bengaluru,2020-04-12,73.53,Karnataka
+Bengaluru,2020-04-13,73.53,Karnataka
+Bengaluru,2020-04-14,73.53,Karnataka
+Bengaluru,2020-04-15,73.53,Karnataka
+Bengaluru,2020-04-16,73.53,Karnataka
+Bengaluru,2020-04-17,73.53,Karnataka
+Bengaluru,2020-04-18,73.53,Karnataka
+Bengaluru,2020-04-20,73.53,Karnataka
+Bengaluru,2020-04-21,73.53,Karnataka
+Bengaluru,2020-04-22,73.53,Karnataka
+Bengaluru,2020-04-23,73.53,Karnataka
+Bengaluru,2020-04-24,73.53,Karnataka
+Bengaluru,2020-04-25,73.53,Karnataka
+Bengaluru,2020-04-26,73.53,Karnataka
+Bengaluru,2020-04-27,73.53,Karnataka
+Bengaluru,2020-04-28,73.53,Karnataka
+Bengaluru,2020-04-29,73.53,Karnataka
+Bengaluru,2020-04-30,73.53,Karnataka
+Bengaluru,2020-05-01,73.53,Karnataka
+Bengaluru,2020-05-02,73.53,Karnataka
+Bengaluru,2020-05-03,73.53,Karnataka
+Bengaluru,2020-05-04,73.53,Karnataka
+Bengaluru,2020-05-05,73.53,Karnataka
+Bengaluru,2020-05-06,73.53,Karnataka
+Bengaluru,2020-05-07,73.53,Karnataka
+Bengaluru,2020-05-08,73.53,Karnataka
+Bengaluru,2020-05-09,73.53,Karnataka
+Bengaluru,2020-05-10,73.53,Karnataka
+Bengaluru,2020-05-11,73.53,Karnataka
+Bengaluru,2020-05-12,73.53,Karnataka
+Bengaluru,2020-05-13,73.53,Karnataka
+Bengaluru,2020-05-14,73.53,Karnataka
+Bengaluru,2020-05-15,73.53,Karnataka
+Bengaluru,2020-05-16,73.53,Karnataka
+Bengaluru,2020-05-17,73.53,Karnataka
+Bengaluru,2020-05-18,73.53,Karnataka
+Bengaluru,2020-05-19,73.53,Karnataka
+Bengaluru,2020-05-20,73.53,Karnataka
+Bengaluru,2020-05-21,73.53,Karnataka
+Bengaluru,2020-05-22,73.53,Karnataka
+Bengaluru,2020-05-23,73.53,Karnataka
+Bengaluru,2020-05-24,73.53,Karnataka
+Bengaluru,2020-05-25,73.53,Karnataka
+Bengaluru,2020-05-26,73.53,Karnataka
+Bengaluru,2020-05-27,73.53,Karnataka
+Bengaluru,2020-05-28,73.53,Karnataka
+Bengaluru,2020-05-29,73.53,Karnataka
+Bengaluru,2020-05-30,73.53,Karnataka
+Bengaluru,2020-05-31,73.53,Karnataka
+Bengaluru,2020-06-01,73.53,Karnataka
+Bengaluru,2020-06-02,73.53,Karnataka
+Bengaluru,2020-06-03,73.53,Karnataka
+Bengaluru,2020-06-04,73.53,Karnataka
+Bengaluru,2020-06-05,73.53,Karnataka
+Bengaluru,2020-06-06,73.53,Karnataka
+Bengaluru,2020-06-07,74.13,Karnataka
+Bengaluru,2020-06-08,74.73,Karnataka
+Bengaluru,2020-06-09,75.27,Karnataka
+Bengaluru,2020-06-10,75.67,Karnataka
+Bengaluru,2020-06-11,76.27,Karnataka
+Bengaluru,2020-06-12,76.87,Karnataka
+Bengaluru,2020-06-13,77.47,Karnataka
+Bengaluru,2020-06-14,78.07,Karnataka
+Bengaluru,2020-06-15,78.71,Karnataka
+Bengaluru,2020-06-16,79.2,Karnataka
+Bengaluru,2020-06-17,79.77,Karnataka
+Bengaluru,2020-06-18,80.31,Karnataka
+Bengaluru,2020-06-19,80.89,Karnataka
+Bengaluru,2020-06-20,81.42,Karnataka
+Bengaluru,2020-06-21,81.78,Karnataka
+Bengaluru,2020-06-22,82.13,Karnataka
+Bengaluru,2020-06-23,82.33,Karnataka
+Bengaluru,2020-06-24,82.33,Karnataka
+Bengaluru,2020-06-25,82.49,Karnataka
+Bengaluru,2020-06-26,82.72,Karnataka
+Bengaluru,2020-06-27,82.97,Karnataka
+Bengaluru,2020-06-28,82.97,Karnataka
+Bengaluru,2020-06-29,83.02,Karnataka
+Bengaluru,2020-06-30,83.02,Karnataka
+Bengaluru,2020-07-01,83.02,Karnataka
+Bengaluru,2020-07-02,83.02,Karnataka
+Bengaluru,2020-07-03,83.02,Karnataka
+Bengaluru,2020-07-04,83.02,Karnataka
+Bengaluru,2020-07-05,83.02,Karnataka
+Bengaluru,2020-07-06,83.02,Karnataka
+Bengaluru,2020-07-07,83.02,Karnataka
+Bengaluru,2020-07-08,83.02,Karnataka
+Bengaluru,2020-07-09,83.02,Karnataka
+Bengaluru,2020-07-10,83.02,Karnataka
+Bengaluru,2020-07-11,83.02,Karnataka
+Bengaluru,2020-07-12,83.02,Karnataka
+Bengaluru,2020-07-13,83.02,Karnataka
+Bengaluru,2020-07-15,83.02,Karnataka
+Bengaluru,2020-07-16,83.02,Karnataka
+Bengaluru,2020-07-17,83.02,Karnataka
+Bengaluru,2020-07-18,83.02,Karnataka
+Bengaluru,2020-07-19,83.02,Karnataka
+Bengaluru,2020-07-20,83.02,Karnataka
+Bengaluru,2020-07-21,83.02,Karnataka
+Bengaluru,2020-07-22,83.02,Karnataka
+Bengaluru,2020-07-23,83.02,Karnataka
+Bengaluru,2020-07-24,83.02,Karnataka
+Bengaluru,2020-07-25,83.02,Karnataka
+Bengaluru,2020-07-26,83.02,Karnataka
+Bengaluru,2020-07-27,83.02,Karnataka
+Bengaluru,2020-07-28,83.02,Karnataka
+Bengaluru,2020-07-29,83.02,Karnataka
+Bengaluru,2020-07-30,83.02,Karnataka
+Bengaluru,2020-07-31,83.02,Karnataka
+Bengaluru,2020-08-01,83.02,Karnataka
+Bengaluru,2020-08-02,83.02,Karnataka
+Bengaluru,2020-08-03,83.02,Karnataka
+Bengaluru,2020-08-04,83.02,Karnataka
+Bengaluru,2020-08-05,83.02,Karnataka
+Bengaluru,2020-08-06,83.02,Karnataka
+Bengaluru,2020-08-07,83.02,Karnataka
+Bengaluru,2020-08-08,83.02,Karnataka
+Bengaluru,2020-08-09,83.02,Karnataka
+Bengaluru,2020-08-10,83.02,Karnataka
+Bengaluru,2020-08-11,83.02,Karnataka
+Bengaluru,2020-08-12,83.02,Karnataka
+Bengaluru,2020-08-13,83.02,Karnataka
+Bengaluru,2020-08-14,83.02,Karnataka
+Bengaluru,2020-08-15,83.02,Karnataka
+Bengaluru,2020-08-16,83.25,Karnataka
+Bengaluru,2020-08-17,83.42,Karnataka
+Bengaluru,2020-08-18,83.58,Karnataka
+Bengaluru,2020-08-19,83.58,Karnataka
+Bengaluru,2020-08-20,83.69,Karnataka
+Bengaluru,2020-08-21,83.89,Karnataka
+Bengaluru,2020-08-22,84.05,Karnataka
+Bengaluru,2020-08-23,84.2,Karnataka
+Bengaluru,2020-08-24,84.33,Karnataka
+Bengaluru,2020-08-25,84.45,Karnataka
+Bengaluru,2020-08-26,84.45,Karnataka
+Bengaluru,2020-08-27,84.55,Karnataka
+Bengaluru,2020-08-28,84.66,Karnataka
+Bengaluru,2020-08-29,84.66,Karnataka
+Bengaluru,2020-08-30,84.76,Karnataka
+Bengaluru,2020-08-31,84.76,Karnataka
+Bengaluru,2020-09-01,84.81,Karnataka
+Bengaluru,2020-09-02,84.81,Karnataka
+Bengaluru,2020-09-03,84.81,Karnataka
+Bengaluru,2020-09-04,84.81,Karnataka
+Bengaluru,2020-09-05,84.81,Karnataka
+Bengaluru,2020-09-06,84.81,Karnataka
+Bengaluru,2020-09-07,84.81,Karnataka
+Bengaluru,2020-09-08,84.81,Karnataka
+Bengaluru,2020-09-09,84.81,Karnataka
+Bengaluru,2020-09-10,84.72,Karnataka
+Bengaluru,2020-09-11,84.72,Karnataka
+Bengaluru,2020-09-12,84.58,Karnataka
+Bengaluru,2020-09-13,84.58,Karnataka
+Bengaluru,2020-09-14,84.44,Karnataka
+Bengaluru,2020-09-15,84.26,Karnataka
+Bengaluru,2020-09-16,84.26,Karnataka
+Bengaluru,2020-09-17,84.11,Karnataka
+Bengaluru,2020-09-18,83.84,Karnataka
+Bengaluru,2020-09-19,83.84,Karnataka
+Bengaluru,2020-09-20,83.84,Karnataka
+Bengaluru,2020-09-21,83.84,Karnataka
+Bengaluru,2020-09-22,83.75,Karnataka
+Bengaluru,2020-09-23,83.75,Karnataka
+Bengaluru,2020-09-24,83.75,Karnataka
+Bengaluru,2020-09-25,83.75,Karnataka
+Bengaluru,2020-09-26,83.75,Karnataka
+Bengaluru,2020-09-27,83.75,Karnataka
+Bengaluru,2020-09-28,83.75,Karnataka
+Bengaluru,2020-09-29,83.75,Karnataka
+Bengaluru,2020-09-30,83.75,Karnataka
+Bengaluru,2020-10-01,83.75,Karnataka
+Bengaluru,2020-10-02,83.75,Karnataka
+Bengaluru,2020-10-03,83.75,Karnataka
+Bengaluru,2020-10-04,83.75,Karnataka
+Bengaluru,2020-10-05,83.75,Karnataka
+Bengaluru,2020-10-06,83.75,Karnataka
+Bengaluru,2020-10-07,83.75,Karnataka
+Bengaluru,2020-10-08,83.75,Karnataka
+Bengaluru,2020-10-09,83.75,Karnataka
+Bengaluru,2020-10-10,83.75,Karnataka
+Bengaluru,2020-10-11,83.75,Karnataka
+Bengaluru,2020-10-12,83.75,Karnataka
+Bengaluru,2020-10-13,83.75,Karnataka
+Bengaluru,2020-10-14,83.75,Karnataka
+Bengaluru,2020-10-15,83.75,Karnataka
+Bengaluru,2020-10-16,83.75,Karnataka
+Bengaluru,2020-10-17,83.75,Karnataka
+Bengaluru,2020-10-18,83.75,Karnataka
+Bengaluru,2020-10-19,83.75,Karnataka
+Bengaluru,2020-10-20,83.75,Karnataka
+Bengaluru,2020-10-21,83.75,Karnataka
+Bengaluru,2020-10-22,83.75,Karnataka
+Bengaluru,2020-10-23,83.75,Karnataka
+Bengaluru,2020-10-24,83.75,Karnataka
+Bengaluru,2020-10-25,83.75,Karnataka
+Bengaluru,2020-10-26,83.75,Karnataka
+Bengaluru,2020-10-27,83.75,Karnataka
+Bengaluru,2020-10-28,83.75,Karnataka
+Bengaluru,2020-10-29,83.75,Karnataka
+Bengaluru,2020-10-30,83.75,Karnataka
+Bengaluru,2020-10-31,83.75,Karnataka
+Bengaluru,2020-11-01,83.75,Karnataka
+Bengaluru,2020-11-02,83.75,Karnataka
+Bengaluru,2020-11-03,83.75,Karnataka
+Bengaluru,2020-11-04,83.75,Karnataka
+Bengaluru,2020-11-05,83.75,Karnataka
+Bengaluru,2020-11-06,83.75,Karnataka
+Bengaluru,2020-11-07,83.75,Karnataka
+Bengaluru,2020-11-08,83.75,Karnataka
+Bengaluru,2020-11-09,83.75,Karnataka
+Bengaluru,2020-11-10,83.75,Karnataka
+Bengaluru,2020-11-11,83.75,Karnataka
+Bengaluru,2020-11-12,83.75,Karnataka
+Bengaluru,2020-11-13,83.75,Karnataka
+Bengaluru,2020-11-14,83.75,Karnataka
+Bengaluru,2020-11-15,83.75,Karnataka
+Bengaluru,2020-11-16,83.75,Karnataka
+Bengaluru,2020-11-17,83.75,Karnataka
+Bengaluru,2020-11-18,83.75,Karnataka
+Bengaluru,2020-11-19,83.75,Karnataka
+Bengaluru,2020-11-20,83.95,Karnataka
+Bengaluru,2020-11-21,84.09,Karnataka
+Bengaluru,2020-11-22,84.14,Karnataka
+Bengaluru,2020-11-23,84.21,Karnataka
+Bengaluru,2020-11-24,84.27,Karnataka
+Bengaluru,2020-11-25,84.27,Karnataka
+Bengaluru,2020-11-26,84.39,Karnataka
+Bengaluru,2020-11-27,84.58,Karnataka
+Bengaluru,2020-11-28,84.83,Karnataka
+Bengaluru,2020-11-29,85.05,Karnataka
+Bengaluru,2020-11-30,85.05,Karnataka
+Bengaluru,2020-12-01,85.05,Karnataka
+Bengaluru,2020-12-02,85.21,Karnataka
+Bengaluru,2020-12-03,85.38,Karnataka
+Bengaluru,2020-12-04,85.59,Karnataka
+Bengaluru,2020-12-05,85.87,Karnataka
+Bengaluru,2020-12-06,86.16,Karnataka
+Bengaluru,2020-12-07,86.47,Karnataka
+Bengaluru,2020-12-08,86.47,Karnataka
+Bengaluru,2020-12-09,86.47,Karnataka
+Bengaluru,2020-12-10,86.47,Karnataka
+Bengaluru,2020-12-11,86.47,Karnataka
+Bengaluru,2020-12-12,86.47,Karnataka
+Bengaluru,2020-12-13,86.47,Karnataka
+Bengaluru,2020-12-14,86.47,Karnataka
+Bengaluru,2020-12-15,86.47,Karnataka
+Bengaluru,2020-12-16,86.47,Karnataka
+Bengaluru,2020-12-17,86.47,Karnataka
+Bengaluru,2020-12-18,86.47,Karnataka
+Bengaluru,2020-12-19,86.47,Karnataka
+Bengaluru,2020-12-20,86.47,Karnataka
+Bengaluru,2020-12-21,86.47,Karnataka
+Bengaluru,2020-12-22,86.47,Karnataka
+Bengaluru,2020-12-23,86.47,Karnataka
+Bengaluru,2020-12-24,86.47,Karnataka
+Bengaluru,2020-12-25,86.47,Karnataka
+Bengaluru,2020-12-26,86.47,Karnataka
+Bengaluru,2020-12-27,86.47,Karnataka
+Bengaluru,2020-12-28,86.47,Karnataka
+Bengaluru,2020-12-29,86.47,Karnataka
+Bengaluru,2020-12-30,86.47,Karnataka
+Bengaluru,2020-12-31,86.47,Karnataka
+Delhi,2002-11-01,30.26,Delhi
+Delhi,2002-11-16,29.57,Delhi
+Delhi,2002-12-01,28.91,Delhi
+Delhi,2003-01-03,29.93,Delhi
+Delhi,2003-01-16,30.33,Delhi
+Delhi,2003-02-01,30.71,Delhi
+Delhi,2003-03-01,23.1,Delhi
+Delhi,2003-03-16,33.49,Delhi
+Delhi,2003-04-16,32.49,Delhi
+Delhi,2003-04-26,31.49,Delhi
+Delhi,2003-05-16,30.4,Delhi
+Delhi,2003-06-01,30.3,Delhi
+Delhi,2003-08-31,32.4,Delhi
+Delhi,2003-10-16,31.7,Delhi
+Delhi,2003-12-12,32.7,Delhi
+Delhi,2003-12-31,33.7,Delhi
+Delhi,2004-06-15,35.71,Delhi
+Delhi,2004-07-31,36.81,Delhi
+Delhi,2004-11-04,39.0,Delhi
+Delhi,2004-11-15,37.84,Delhi
+Delhi,2005-04-01,37.99,Delhi
+Delhi,2005-06-20,40.49,Delhi
+Delhi,2005-09-06,43.49,Delhi
+Delhi,2006-06-05,47.51,Delhi
+Delhi,2006-06-20,46.85,Delhi
+Delhi,2006-11-30,44.85,Delhi
+Delhi,2007-02-16,42.85,Delhi
+Delhi,2007-06-06,43.52,Delhi
+Delhi,2008-02-15,45.52,Delhi
+Delhi,2008-05-24,45.56,Delhi
+Delhi,2008-06-06,50.56,Delhi
+Delhi,2008-07-16,50.62,Delhi
+Delhi,2008-12-06,45.62,Delhi
+Delhi,2009-01-29,40.62,Delhi
+Delhi,2009-07-02,44.72,Delhi
+Delhi,2010-02-27,47.43,Delhi
+Delhi,2010-04-01,47.93,Delhi
+Delhi,2010-06-26,51.43,Delhi
+Delhi,2010-09-08,51.56,Delhi
+Delhi,2010-09-21,51.83,Delhi
+Delhi,2010-10-17,52.59,Delhi
+Delhi,2010-11-09,52.91,Delhi
+Delhi,2010-12-16,55.87,Delhi
+Delhi,2011-01-16,58.37,Delhi
+Delhi,2011-05-15,63.37,Delhi
+Delhi,2011-07-01,63.7,Delhi
+Delhi,2011-09-16,66.84,Delhi
+Delhi,2011-11-04,68.64,Delhi
+Delhi,2011-11-16,66.42,Delhi
+Delhi,2011-12-01,65.64,Delhi
+Delhi,2012-05-24,73.18,Delhi
+Delhi,2012-05-29,71.92,Delhi
+Delhi,2012-06-03,71.16,Delhi
+Delhi,2012-06-18,70.24,Delhi
+Delhi,2012-06-29,67.78,Delhi
+Delhi,2012-07-24,68.48,Delhi
+Delhi,2012-08-01,68.46,Delhi
+Delhi,2012-10-09,67.9,Delhi
+Delhi,2012-10-27,68.19,Delhi
+Delhi,2012-11-16,67.24,Delhi
+Delhi,2013-01-16,67.56,Delhi
+Delhi,2013-01-18,67.26,Delhi
+Delhi,2013-02-16,69.06,Delhi
+Delhi,2013-03-02,70.74,Delhi
+Delhi,2013-03-16,68.34,Delhi
+Delhi,2013-04-02,67.29,Delhi
+Delhi,2013-04-16,66.09,Delhi
+Delhi,2013-05-01,63.09,Delhi
+Delhi,2013-06-01,63.99,Delhi
+Delhi,2013-06-16,66.39,Delhi
+Delhi,2013-06-29,68.58,Delhi
+Delhi,2013-07-15,70.44,Delhi
+Delhi,2013-08-01,71.28,Delhi
+Delhi,2013-09-01,74.1,Delhi
+Delhi,2013-09-14,76.06,Delhi
+Delhi,2013-10-01,72.4,Delhi
+Delhi,2013-11-01,71.02,Delhi
+Delhi,2013-12-21,71.52,Delhi
+Delhi,2014-01-04,72.43,Delhi
+Delhi,2014-03-01,73.16,Delhi
+Delhi,2014-04-01,72.26,Delhi
+Delhi,2014-04-16,71.41,Delhi
+Delhi,2014-06-07,71.51,Delhi
+Delhi,2014-06-25,71.56,Delhi
+Delhi,2014-07-01,73.6,Delhi
+Delhi,2014-08-01,72.51,Delhi
+Delhi,2014-08-15,70.33,Delhi
+Delhi,2014-08-31,68.51,Delhi
+Delhi,2014-10-01,67.86,Delhi
+Delhi,2014-10-15,66.65,Delhi
+Delhi,2014-11-01,64.24,Delhi
+Delhi,2014-12-01,63.33,Delhi
+Delhi,2014-12-16,61.33,Delhi
+Delhi,2015-01-17,58.91,Delhi
+Delhi,2015-02-04,56.49,Delhi
+Delhi,2015-02-16,57.31,Delhi
+Delhi,2015-03-01,60.49,Delhi
+Delhi,2015-04-02,60.0,Delhi
+Delhi,2015-04-15,59.2,Delhi
+Delhi,2015-05-01,63.16,Delhi
+Delhi,2015-05-16,66.29,Delhi
+Delhi,2015-06-16,66.93,Delhi
+Delhi,2015-07-01,66.62,Delhi
+Delhi,2015-07-15,66.9,Delhi
+Delhi,2015-08-01,64.47,Delhi
+Delhi,2015-08-15,63.2,Delhi
+Delhi,2015-09-01,61.2,Delhi
+Delhi,2015-11-01,60.7,Delhi
+Delhi,2015-11-16,61.06,Delhi
+Delhi,2015-12-01,60.48,Delhi
+Delhi,2015-12-16,59.98,Delhi
+Delhi,2016-01-01,59.35,Delhi
+Delhi,2016-01-16,59.03,Delhi
+Delhi,2016-01-19,59.99,Delhi
+Delhi,2016-02-01,59.95,Delhi
+Delhi,2016-02-17,59.63,Delhi
+Delhi,2016-03-01,56.61,Delhi
+Delhi,2016-03-17,59.68,Delhi
+Delhi,2016-04-05,61.87,Delhi
+Delhi,2016-04-16,61.13,Delhi
+Delhi,2016-05-01,62.19,Delhi
+Delhi,2016-05-17,63.02,Delhi
+Delhi,2016-06-01,65.6,Delhi
+Delhi,2016-06-16,65.65,Delhi
+Delhi,2016-07-01,64.76,Delhi
+Delhi,2016-07-15,62.56,Delhi
+Delhi,2016-08-01,61.14,Delhi
+Delhi,2016-08-15,60.14,Delhi
+Delhi,2016-09-01,63.52,Delhi
+Delhi,2016-09-15,64.29,Delhi
+Delhi,2016-10-01,64.66,Delhi
+Delhi,2016-10-05,64.8,Delhi
+Delhi,2016-10-15,66.53,Delhi
+Delhi,2016-11-06,67.7,Delhi
+Delhi,2016-11-16,66.01,Delhi
+Delhi,2016-12-17,69.13,Delhi
+Delhi,2017-01-01,70.79,Delhi
+Delhi,2017-01-16,71.33,Delhi
+Delhi,2017-04-01,66.01,Delhi
+Delhi,2017-04-16,68.26,Delhi
+Delhi,2017-05-01,68.28,Delhi
+Delhi,2017-05-16,65.53,Delhi
+Delhi,2017-06-01,67.12,Delhi
+Delhi,2017-06-16,65.48,Delhi
+Delhi,2017-06-19,64.69,Delhi
+Delhi,2017-06-20,64.55,Delhi
+Delhi,2017-06-21,64.59,Delhi
+Delhi,2017-06-22,64.44,Delhi
+Delhi,2017-06-23,64.23,Delhi
+Delhi,2017-06-26,63.59,Delhi
+Delhi,2017-06-27,63.46,Delhi
+Delhi,2017-06-28,63.5,Delhi
+Delhi,2017-06-29,63.47,Delhi
+Delhi,2017-06-30,63.35,Delhi
+Delhi,2017-07-03,63.17,Delhi
+Delhi,2017-07-04,63.08,Delhi
+Delhi,2017-07-05,63.12,Delhi
+Delhi,2017-07-06,63.19,Delhi
+Delhi,2017-07-07,63.33,Delhi
+Delhi,2017-07-10,63.87,Delhi
+Delhi,2017-07-11,63.93,Delhi
+Delhi,2017-07-12,63.97,Delhi
+Delhi,2017-07-13,63.91,Delhi
+Delhi,2017-07-14,63.89,Delhi
+Delhi,2017-07-17,64.19,Delhi
+Delhi,2017-07-18,64.21,Delhi
+Delhi,2017-07-19,64.25,Delhi
+Delhi,2017-07-20,64.29,Delhi
+Delhi,2017-07-21,64.28,Delhi
+Delhi,2017-07-24,64.57,Delhi
+Delhi,2017-07-25,64.61,Delhi
+Delhi,2017-07-26,64.57,Delhi
+Delhi,2017-07-27,64.59,Delhi
+Delhi,2017-07-28,64.69,Delhi
+Delhi,2017-07-31,65.26,Delhi
+Delhi,2017-08-01,65.44,Delhi
+Delhi,2017-08-02,65.47,Delhi
+Delhi,2017-08-04,66.0,Delhi
+Delhi,2017-08-07,66.7,Delhi
+Delhi,2017-08-08,66.75,Delhi
+Delhi,2017-08-09,66.81,Delhi
+Delhi,2017-08-10,66.96,Delhi
+Delhi,2017-08-11,67.27,Delhi
+Delhi,2017-08-14,67.99,Delhi
+Delhi,2017-08-16,68.14,Delhi
+Delhi,2017-08-17,68.24,Delhi
+Delhi,2017-08-18,68.29,Delhi
+Delhi,2017-08-21,68.58,Delhi
+Delhi,2017-08-22,68.67,Delhi
+Delhi,2017-08-23,68.77,Delhi
+Delhi,2017-08-24,68.88,Delhi
+Delhi,2017-08-28,69.13,Delhi
+Delhi,2017-08-29,69.12,Delhi
+Delhi,2017-08-30,69.16,Delhi
+Delhi,2017-08-31,69.19,Delhi
+Delhi,2017-09-01,69.26,Delhi
+Delhi,2017-09-04,69.64,Delhi
+Delhi,2017-09-05,69.71,Delhi
+Delhi,2017-09-07,69.8,Delhi
+Delhi,2017-09-08,69.89,Delhi
+Delhi,2017-09-11,70.28,Delhi
+Delhi,2017-09-12,70.38,Delhi
+Delhi,2017-09-13,70.35,Delhi
+Delhi,2017-09-14,70.39,Delhi
+Delhi,2017-09-15,70.43,Delhi
+Delhi,2017-09-19,70.49,Delhi
+Delhi,2017-09-20,70.52,Delhi
+Delhi,2017-09-21,70.49,Delhi
+Delhi,2017-09-22,70.47,Delhi
+Delhi,2017-09-25,70.38,Delhi
+Delhi,2017-09-26,70.41,Delhi
+Delhi,2017-09-27,70.38,Delhi
+Delhi,2017-09-28,70.46,Delhi
+Delhi,2017-09-29,70.56,Delhi
+Delhi,2017-10-03,70.81,Delhi
+Delhi,2017-10-04,68.38,Delhi
+Delhi,2017-10-05,68.35,Delhi
+Delhi,2017-10-06,68.36,Delhi
+Delhi,2017-10-09,68.42,Delhi
+Delhi,2017-10-10,68.45,Delhi
+Delhi,2017-10-11,68.48,Delhi
+Delhi,2017-10-12,68.42,Delhi
+Delhi,2017-10-13,68.43,Delhi
+Delhi,2017-10-16,68.26,Delhi
+Delhi,2017-10-17,68.23,Delhi
+Delhi,2017-10-18,68.26,Delhi
+Delhi,2017-10-25,68.62,Delhi
+Delhi,2017-10-26,68.65,Delhi
+Delhi,2017-10-30,69.04,Delhi
+Delhi,2017-10-31,69.13,Delhi
+Delhi,2017-11-01,69.14,Delhi
+Delhi,2017-11-02,69.25,Delhi
+Delhi,2017-11-03,69.34,Delhi
+Delhi,2017-11-06,69.77,Delhi
+Delhi,2017-11-07,69.8,Delhi
+Delhi,2017-11-09,69.85,Delhi
+Delhi,2017-11-10,69.93,Delhi
+Delhi,2017-11-13,69.86,Delhi
+Delhi,2017-11-14,69.73,Delhi
+Delhi,2017-11-15,69.68,Delhi
+Delhi,2017-11-16,69.65,Delhi
+Delhi,2017-11-17,69.61,Delhi
+Delhi,2017-11-20,69.59,Delhi
+Delhi,2017-11-21,69.53,Delhi
+Delhi,2017-11-22,69.48,Delhi
+Delhi,2017-11-23,69.43,Delhi
+Delhi,2017-11-24,69.41,Delhi
+Delhi,2017-11-27,69.36,Delhi
+Delhi,2017-11-28,69.26,Delhi
+Delhi,2017-11-29,69.34,Delhi
+Delhi,2017-11-30,69.24,Delhi
+Delhi,2017-12-01,69.22,Delhi
+Delhi,2017-12-05,69.33,Delhi
+Delhi,2017-12-06,69.24,Delhi
+Delhi,2017-12-07,69.23,Delhi
+Delhi,2017-12-08,69.19,Delhi
+Delhi,2017-12-11,69.2,Delhi
+Delhi,2017-12-12,69.09,Delhi
+Delhi,2017-12-13,69.07,Delhi
+Delhi,2017-12-15,69.1,Delhi
+Delhi,2017-12-18,69.27,Delhi
+Delhi,2017-12-19,69.35,Delhi
+Delhi,2017-12-20,69.43,Delhi
+Delhi,2017-12-21,69.42,Delhi
+Delhi,2017-12-22,69.5,Delhi
+Delhi,2017-12-26,69.71,Delhi
+Delhi,2017-12-27,69.72,Delhi
+Delhi,2017-12-28,69.81,Delhi
+Delhi,2017-12-29,69.9,Delhi
+Delhi,2018-01-01,70.05,Delhi
+Delhi,2018-01-02,69.97,Delhi
+Delhi,2018-01-03,70.05,Delhi
+Delhi,2018-01-05,70.07,Delhi
+Delhi,2018-01-08,77.18,Delhi
+Delhi,2018-01-08,70.5,Delhi
+Delhi,2018-01-09,70.55,Delhi
+Delhi,2018-01-10,70.62,Delhi
+Delhi,2018-01-11,70.66,Delhi
+Delhi,2018-01-12,70.72,Delhi
+Delhi,2018-01-15,71.16,Delhi
+Delhi,2018-01-16,71.25,Delhi
+Delhi,2018-01-17,71.37,Delhi
+Delhi,2018-01-18,71.54,Delhi
+Delhi,2018-01-19,71.68,Delhi
+Delhi,2018-01-22,72.21,Delhi
+Delhi,2018-01-23,72.36,Delhi
+Delhi,2018-01-24,72.41,Delhi
+Delhi,2018-01-25,72.47,Delhi
+Delhi,2018-01-29,72.82,Delhi
+Delhi,2018-01-30,72.9,Delhi
+Delhi,2018-02-01,73.03,Delhi
+Delhi,2018-02-02,73.08,Delhi
+Delhi,2018-02-05,73.29,Delhi
+Delhi,2018-02-06,73.36,Delhi
+Delhi,2018-02-08,73.35,Delhi
+Delhi,2018-02-09,73.33,Delhi
+Delhi,2018-02-12,72.99,Delhi
+Delhi,2018-02-13,72.92,Delhi
+Delhi,2018-02-15,72.77,Delhi
+Delhi,2018-02-16,72.5,Delhi
+Delhi,2018-02-19,71.9,Delhi
+Delhi,2018-02-20,71.71,Delhi
+Delhi,2018-02-21,71.7,Delhi
+Delhi,2018-02-22,71.68,Delhi
+Delhi,2018-02-23,71.59,Delhi
+Delhi,2018-02-26,71.51,Delhi
+Delhi,2018-02-27,71.49,Delhi
+Delhi,2018-03-01,71.63,Delhi
+Delhi,2018-03-02,71.81,Delhi
+Delhi,2018-03-05,72.38,Delhi
+Delhi,2018-03-06,72.45,Delhi
+Delhi,2018-03-09,72.49,Delhi
+Delhi,2018-03-12,72.51,Delhi
+Delhi,2018-03-13,72.53,Delhi
+Delhi,2018-03-15,72.51,Delhi
+Delhi,2018-03-16,72.43,Delhi
+Delhi,2018-03-19,72.25,Delhi
+Delhi,2018-03-20,72.26,Delhi
+Delhi,2018-03-22,72.32,Delhi
+Delhi,2018-03-23,72.36,Delhi
+Delhi,2018-03-26,72.85,Delhi
+Delhi,2018-03-27,72.96,Delhi
+Delhi,2018-03-29,73.14,Delhi
+Delhi,2018-03-30,73.37,Delhi
+Delhi,2018-04-02,73.86,Delhi
+Delhi,2018-04-03,73.99,Delhi
+Delhi,2018-04-05,74.02,Delhi
+Delhi,2018-04-09,74.03,Delhi
+Delhi,2018-04-10,74.02,Delhi
+Delhi,2018-04-12,73.98,Delhi
+Delhi,2018-04-13,73.95,Delhi
+Delhi,2018-04-16,74.06,Delhi
+Delhi,2018-04-19,74.11,Delhi
+Delhi,2018-04-20,74.12,Delhi
+Delhi,2018-04-23,74.54,Delhi
+Delhi,2018-04-24,74.67,Delhi
+Delhi,2018-05-14,74.84,Delhi
+Delhi,2018-05-15,74.99,Delhi
+Delhi,2018-05-16,75.14,Delhi
+Delhi,2018-05-17,75.36,Delhi
+Delhi,2018-05-18,74.84,Delhi
+Delhi,2018-05-21,76.61,Delhi
+Delhi,2018-05-22,76.91,Delhi
+Delhi,2018-05-23,77.21,Delhi
+Delhi,2018-05-24,77.51,Delhi
+Delhi,2018-05-25,77.87,Delhi
+Delhi,2018-05-26,78.01,Delhi
+Delhi,2018-05-27,78.16,Delhi
+Delhi,2018-05-28,78.31,Delhi
+Delhi,2018-05-29,78.47,Delhi
+Delhi,2018-05-31,78.39,Delhi
+Delhi,2018-06-01,78.33,Delhi
+Delhi,2018-06-02,78.24,Delhi
+Delhi,2018-06-03,78.15,Delhi
+Delhi,2018-06-04,78.0,Delhi
+Delhi,2018-06-05,77.87,Delhi
+Delhi,2018-06-06,77.76,Delhi
+Delhi,2018-06-07,77.67,Delhi
+Delhi,2018-06-08,77.46,Delhi
+Delhi,2018-06-09,77.06,Delhi
+Delhi,2018-06-10,76.82,Delhi
+Delhi,2018-06-11,76.62,Delhi
+Delhi,2018-06-12,76.47,Delhi
+Delhi,2018-06-15,76.39,Delhi
+Delhi,2018-06-19,76.31,Delhi
+Delhi,2018-06-21,76.2,Delhi
+Delhi,2018-06-22,76.06,Delhi
+Delhi,2018-06-23,75.97,Delhi
+Delhi,2018-06-24,75.83,Delhi
+Delhi,2018-06-25,75.73,Delhi
+Delhi,2018-06-26,75.59,Delhi
+Delhi,2018-07-05,75.75,Delhi
+Delhi,2018-07-06,75.89,Delhi
+Delhi,2018-07-09,76.4,Delhi
+Delhi,2018-07-10,76.57,Delhi
+Delhi,2018-07-12,76.63,Delhi
+Delhi,2018-07-13,76.8,Delhi
+Delhi,2018-07-16,76.88,Delhi
+Delhi,2018-07-20,76.66,Delhi
+Delhi,2018-07-23,76.34,Delhi
+Delhi,2018-07-24,76.27,Delhi
+Delhi,2018-07-30,76.29,Delhi
+Delhi,2018-07-31,76.35,Delhi
+Delhi,2018-08-02,76.47,Delhi
+Delhi,2018-08-03,76.54,Delhi
+Delhi,2018-08-06,77.01,Delhi
+Delhi,2018-08-07,77.1,Delhi
+Delhi,2018-08-13,77.18,Delhi
+Delhi,2018-08-16,77.24,Delhi
+Delhi,2018-08-20,77.54,Delhi
+Delhi,2018-08-21,77.63,Delhi
+Delhi,2018-08-24,77.72,Delhi
+Delhi,2018-08-25,71.99,Delhi
+Delhi,2018-08-26,72.07,Delhi
+Delhi,2018-08-27,77.96,Delhi
+Delhi,2018-08-28,78.1,Delhi
+Delhi,2018-08-29,78.23,Delhi
+Delhi,2018-08-30,78.35,Delhi
+Delhi,2018-08-31,78.57,Delhi
+Delhi,2018-09-03,79.24,Delhi
+Delhi,2018-09-04,79.4,Delhi
+Delhi,2018-09-06,79.6,Delhi
+Delhi,2018-09-07,80.08,Delhi
+Delhi,2018-09-10,80.82,Delhi
+Delhi,2018-09-11,80.96,Delhi
+Delhi,2018-09-13,81.09,Delhi
+Delhi,2018-09-14,81.37,Delhi
+Delhi,2018-09-15,81.72,Delhi
+Delhi,2018-09-16,82.0,Delhi
+Delhi,2018-09-17,82.15,Delhi
+Delhi,2018-09-18,82.25,Delhi
+Delhi,2018-09-20,82.31,Delhi
+Delhi,2018-09-21,82.41,Delhi
+Delhi,2018-09-23,82.7,Delhi
+Delhi,2018-09-24,82.81,Delhi
+Delhi,2018-09-25,82.95,Delhi
+Delhi,2018-09-27,83.09,Delhi
+Delhi,2018-09-28,83.31,Delhi
+Delhi,2018-09-30,83.58,Delhi
+Delhi,2018-10-01,83.81,Delhi
+Delhi,2018-10-02,83.92,Delhi
+Delhi,2018-10-04,84.06,Delhi
+Delhi,2018-10-05,81.56,Delhi
+Delhi,2018-10-06,81.74,Delhi
+Delhi,2018-10-07,81.88,Delhi
+Delhi,2018-10-08,82.09,Delhi
+Delhi,2018-10-09,82.32,Delhi
+Delhi,2018-10-11,82.42,Delhi
+Delhi,2018-10-12,82.54,Delhi
+Delhi,2018-10-13,82.72,Delhi
+Delhi,2018-10-14,82.78,Delhi
+Delhi,2018-10-16,82.89,Delhi
+Delhi,2018-10-18,82.68,Delhi
+Delhi,2018-10-19,82.44,Delhi
+Delhi,2018-10-20,82.05,Delhi
+Delhi,2018-10-22,81.5,Delhi
+Delhi,2018-10-23,81.4,Delhi
+Delhi,2018-10-24,81.31,Delhi
+Delhi,2018-10-25,81.16,Delhi
+Delhi,2018-10-26,80.91,Delhi
+Delhi,2018-10-29,79.81,Delhi
+Delhi,2018-10-30,79.61,Delhi
+Delhi,2018-11-01,79.43,Delhi
+Delhi,2018-11-02,79.25,Delhi
+Delhi,2018-11-05,78.65,Delhi
+Delhi,2018-11-06,78.51,Delhi
+Delhi,2018-11-12,77.65,Delhi
+Delhi,2018-11-13,77.52,Delhi
+Delhi,2018-11-15,77.37,Delhi
+Delhi,2018-11-16,77.19,Delhi
+Delhi,2018-11-19,76.61,Delhi
+Delhi,2018-11-20,76.47,Delhi
+Delhi,2018-11-22,76.06,Delhi
+Delhi,2018-11-23,75.66,Delhi
+Delhi,2018-11-26,74.58,Delhi
+Delhi,2018-11-27,74.16,Delhi
+Delhi,2018-11-28,73.66,Delhi
+Delhi,2018-11-29,73.33,Delhi
+Delhi,2018-11-30,72.96,Delhi
+Delhi,2018-12-01,72.61,Delhi
+Delhi,2018-12-02,72.3,Delhi
+Delhi,2018-12-03,71.99,Delhi
+Delhi,2018-12-04,71.78,Delhi
+Delhi,2018-12-06,71.38,Delhi
+Delhi,2018-12-07,70.98,Delhi
+Delhi,2018-12-10,70.37,Delhi
+Delhi,2018-12-11,70.2,Delhi
+Delhi,2018-12-13,70.29,Delhi
+Delhi,2018-12-17,70.53,Delhi
+Delhi,2018-12-18,70.63,Delhi
+Delhi,2018-12-21,70.46,Delhi
+Delhi,2018-12-24,69.86,Delhi
+Delhi,2018-12-25,69.79,Delhi
+Delhi,2018-12-27,69.74,Delhi
+Delhi,2018-12-28,69.55,Delhi
+Delhi,2018-12-31,68.84,Delhi
+Delhi,2019-01-02,68.74,Delhi
+Delhi,2019-01-04,68.53,Delhi
+Delhi,2019-01-07,68.59,Delhi
+Delhi,2019-01-10,68.97,Delhi
+Delhi,2019-01-11,69.16,Delhi
+Delhi,2019-01-14,70.22,Delhi
+Delhi,2019-01-16,70.42,Delhi
+Delhi,2019-01-17,70.56,Delhi
+Delhi,2019-01-18,70.64,Delhi
+Delhi,2019-01-21,71.23,Delhi
+Delhi,2019-01-22,71.36,Delhi
+Delhi,2019-01-29,71.28,Delhi
+Delhi,2019-01-31,71.18,Delhi
+Delhi,2019-02-01,70.94,Delhi
+Delhi,2019-02-05,70.44,Delhi
+Delhi,2019-02-08,70.38,Delhi
+Delhi,2019-02-11,70.33,Delhi
+Delhi,2019-02-14,70.39,Delhi
+Delhi,2019-02-15,70.46,Delhi
+Delhi,2019-02-18,70.91,Delhi
+Delhi,2019-02-19,71.0,Delhi
+Delhi,2019-02-22,71.29,Delhi
+Delhi,2019-02-25,71.57,Delhi
+Delhi,2019-02-26,71.66,Delhi
+Delhi,2019-02-28,71.73,Delhi
+Delhi,2019-03-01,71.84,Delhi
+Delhi,2019-03-04,72.2,Delhi
+Delhi,2019-03-05,72.27,Delhi
+Delhi,2019-03-11,72.49,Delhi
+Delhi,2019-03-12,72.44,Delhi
+Delhi,2019-03-14,72.51,Delhi
+Delhi,2019-03-15,72.58,Delhi
+Delhi,2019-03-18,72.81,Delhi
+Delhi,2019-03-21,72.74,Delhi
+Delhi,2019-03-22,72.79,Delhi
+Delhi,2019-03-23,72.84,Delhi
+Delhi,2019-03-24,72.89,Delhi
+Delhi,2019-03-28,72.84,Delhi
+Delhi,2019-04-01,72.92,Delhi
+Delhi,2019-04-05,72.97,Delhi
+Delhi,2019-04-08,72.91,Delhi
+Delhi,2019-04-09,72.86,Delhi
+Delhi,2019-04-12,72.92,Delhi
+Delhi,2019-04-15,73.04,Delhi
+Delhi,2019-04-16,72.99,Delhi
+Delhi,2019-04-20,73.06,Delhi
+Delhi,2019-04-22,73.01,Delhi
+Delhi,2019-04-25,73.08,Delhi
+Delhi,2019-04-27,73.14,Delhi
+Delhi,2019-04-30,73.19,Delhi
+Delhi,2019-05-02,73.13,Delhi
+Delhi,2019-05-05,73.07,Delhi
+Delhi,2019-05-06,73.0,Delhi
+Delhi,2019-05-09,72.84,Delhi
+Delhi,2019-05-10,72.63,Delhi
+Delhi,2019-05-11,72.15,Delhi
+Delhi,2019-05-12,71.73,Delhi
+Delhi,2019-05-13,71.43,Delhi
+Delhi,2019-05-14,71.18,Delhi
+Delhi,2019-05-17,71.1,Delhi
+Delhi,2019-05-18,71.03,Delhi
+Delhi,2019-05-20,71.12,Delhi
+Delhi,2019-05-21,71.17,Delhi
+Delhi,2019-05-23,71.25,Delhi
+Delhi,2019-05-24,71.39,Delhi
+Delhi,2019-05-25,71.53,Delhi
+Delhi,2019-05-26,71.67,Delhi
+Delhi,2019-05-27,71.77,Delhi
+Delhi,2019-05-28,71.86,Delhi
+Delhi,2019-05-30,71.8,Delhi
+Delhi,2019-05-31,71.73,Delhi
+Delhi,2019-06-01,71.65,Delhi
+Delhi,2019-06-02,71.53,Delhi
+Delhi,2019-06-03,71.33,Delhi
+Delhi,2019-06-04,71.26,Delhi
+Delhi,2019-06-06,71.1,Delhi
+Delhi,2019-06-07,70.97,Delhi
+Delhi,2019-06-10,70.46,Delhi
+Delhi,2019-06-13,70.38,Delhi
+Delhi,2019-06-14,70.21,Delhi
+Delhi,2019-06-15,70.02,Delhi
+Delhi,2019-06-16,69.96,Delhi
+Delhi,2019-06-24,70.08,Delhi
+Delhi,2019-06-27,70.15,Delhi
+Delhi,2019-06-28,70.2,Delhi
+Delhi,2019-06-29,70.31,Delhi
+Delhi,2019-06-30,70.4,Delhi
+Delhi,2019-07-01,70.5,Delhi
+Delhi,2019-07-02,70.57,Delhi
+Delhi,2019-07-06,73.01,Delhi
+Delhi,2019-07-09,72.96,Delhi
+Delhi,2019-07-13,73.05,Delhi
+Delhi,2019-07-14,73.14,Delhi
+Delhi,2019-07-15,73.27,Delhi
+Delhi,2019-07-16,73.33,Delhi
+Delhi,2019-07-18,73.41,Delhi
+Delhi,2019-07-23,73.47,Delhi
+Delhi,2019-07-25,73.41,Delhi
+Delhi,2019-07-26,73.35,Delhi
+Delhi,2019-07-27,73.3,Delhi
+Delhi,2019-07-28,73.2,Delhi
+Delhi,2019-07-29,73.05,Delhi
+Delhi,2019-07-30,72.92,Delhi
+Delhi,2019-08-01,72.86,Delhi
+Delhi,2019-08-02,72.69,Delhi
+Delhi,2019-08-03,72.62,Delhi
+Delhi,2019-08-04,72.52,Delhi
+Delhi,2019-08-05,72.37,Delhi
+Delhi,2019-08-06,72.28,Delhi
+Delhi,2019-08-08,72.23,Delhi
+Delhi,2019-08-09,72.08,Delhi
+Delhi,2019-08-11,71.99,Delhi
+Delhi,2019-08-18,71.91,Delhi
+Delhi,2019-08-19,71.84,Delhi
+Delhi,2019-08-24,71.92,Delhi
+Delhi,2019-08-25,71.99,Delhi
+Delhi,2019-08-26,72.07,Delhi
+Delhi,2019-08-27,72.07,Delhi
+Delhi,2019-08-29,72.01,Delhi
+Delhi,2019-09-05,71.99,Delhi
+Delhi,2019-09-06,71.9,Delhi
+Delhi,2019-09-07,71.81,Delhi
+Delhi,2019-09-08,71.75,Delhi
+Delhi,2019-09-10,71.8,Delhi
+Delhi,2019-09-12,71.86,Delhi
+Delhi,2019-09-13,71.93,Delhi
+Delhi,2019-09-14,72.01,Delhi
+Delhi,2019-09-15,72.07,Delhi
+Delhi,2019-09-17,72.21,Delhi
+Delhi,2019-09-18,72.46,Delhi
+Delhi,2019-09-19,72.75,Delhi
+Delhi,2019-09-20,73.1,Delhi
+Delhi,2019-09-21,73.39,Delhi
+Delhi,2019-09-22,73.66,Delhi
+Delhi,2019-09-23,73.95,Delhi
+Delhi,2019-09-24,74.17,Delhi
+Delhi,2019-09-26,74.23,Delhi
+Delhi,2019-09-27,74.38,Delhi
+Delhi,2019-09-30,74.46,Delhi
+Delhi,2019-10-01,74.67,Delhi
+Delhi,2019-10-03,74.57,Delhi
+Delhi,2019-10-04,74.39,Delhi
+Delhi,2019-10-05,74.1,Delhi
+Delhi,2019-10-07,73.82,Delhi
+Delhi,2019-10-08,73.65,Delhi
+Delhi,2019-10-10,73.6,Delhi
+Delhi,2019-10-11,73.48,Delhi
+Delhi,2019-10-12,73.38,Delhi
+Delhi,2019-10-15,73.33,Delhi
+Delhi,2019-10-22,73.28,Delhi
+Delhi,2019-10-24,73.23,Delhi
+Delhi,2019-10-25,73.12,Delhi
+Delhi,2019-10-26,73.04,Delhi
+Delhi,2019-10-29,72.98,Delhi
+Delhi,2019-11-01,72.86,Delhi
+Delhi,2019-11-02,72.79,Delhi
+Delhi,2019-11-03,72.74,Delhi
+Delhi,2019-11-04,72.65,Delhi
+Delhi,2019-11-05,72.6,Delhi
+Delhi,2019-11-08,72.7,Delhi
+Delhi,2019-11-09,72.85,Delhi
+Delhi,2019-11-10,73.05,Delhi
+Delhi,2019-11-11,73.2,Delhi
+Delhi,2019-11-13,73.3,Delhi
+Delhi,2019-11-14,73.45,Delhi
+Delhi,2019-11-15,73.63,Delhi
+Delhi,2019-11-16,73.77,Delhi
+Delhi,2019-11-17,73.89,Delhi
+Delhi,2019-11-18,74.05,Delhi
+Delhi,2019-11-19,74.2,Delhi
+Delhi,2019-11-22,74.35,Delhi
+Delhi,2019-11-23,74.44,Delhi
+Delhi,2019-11-24,74.54,Delhi
+Delhi,2019-11-25,74.66,Delhi
+Delhi,2019-11-26,74.76,Delhi
+Delhi,2019-11-29,74.81,Delhi
+Delhi,2019-11-30,74.863,Delhi
+Delhi,2019-12-01,74.99,Delhi
+Delhi,2019-12-07,74.9,Delhi
+Delhi,2019-12-08,74.99,Delhi
+Delhi,2019-12-09,75.04,Delhi
+Delhi,2019-12-10,75.04,Delhi
+Delhi,2019-12-12,74.99,Delhi
+Delhi,2019-12-13,74.93,Delhi
+Delhi,2019-12-14,74.88,Delhi
+Delhi,2019-12-15,74.78,Delhi
+Delhi,2019-12-16,74.73,Delhi
+Delhi,2019-12-17,74.68,Delhi
+Delhi,2019-12-19,74.67,Delhi
+Delhi,2019-12-26,74.72,Delhi
+Delhi,2019-12-27,74.78,Delhi
+Delhi,2019-12-29,74.92,Delhi
+Delhi,2019-12-30,75.08,Delhi
+Delhi,2019-12-31,75.18,Delhi
+Delhi,2020-01-02,75.31,Delhi
+Delhi,2020-01-03,75.41,Delhi
+Delhi,2020-01-04,75.51,Delhi
+Delhi,2020-01-05,75.6,Delhi
+Delhi,2020-01-06,75.75,Delhi
+Delhi,2020-01-07,75.9,Delhi
+Delhi,2020-01-08,75.8,Delhi
+Delhi,2020-01-09,75.87,Delhi
+Delhi,2020-01-10,76.02,Delhi
+Delhi,2020-01-11,76.07,Delhi
+Delhi,2020-01-12,75.97,Delhi
+Delhi,2020-01-13,75.86,Delhi
+Delhi,2020-01-14,75.76,Delhi
+Delhi,2020-01-16,75.61,Delhi
+Delhi,2020-01-17,75.47,Delhi
+Delhi,2020-01-18,75.32,Delhi
+Delhi,2020-01-19,75.15,Delhi
+Delhi,2020-01-20,75.04,Delhi
+Delhi,2020-01-21,74.88,Delhi
+Delhi,2020-01-22,74.88,Delhi
+Delhi,2020-01-23,74.7,Delhi
+Delhi,2020-01-24,74.48,Delhi
+Delhi,2020-01-25,74.23,Delhi
+Delhi,2020-01-26,73.93,Delhi
+Delhi,2020-01-27,73.77,Delhi
+Delhi,2020-01-28,73.66,Delhi
+Delhi,2020-01-29,73.66,Delhi
+Delhi,2020-01-30,73.42,Delhi
+Delhi,2020-01-31,73.33,Delhi
+Delhi,2020-02-01,73.19,Delhi
+Delhi,2020-02-02,73.09,Delhi
+Delhi,2020-02-03,73.04,Delhi
+Delhi,2020-02-04,72.99,Delhi
+Delhi,2020-02-05,72.99,Delhi
+Delhi,2020-02-06,72.89,Delhi
+Delhi,2020-02-07,72.68,Delhi
+Delhi,2020-02-08,72.45,Delhi
+Delhi,2020-02-09,72.23,Delhi
+Delhi,2020-02-10,72.1,Delhi
+Delhi,2020-02-11,71.94,Delhi
+Delhi,2020-02-12,71.94,Delhi
+Delhi,2020-02-13,71.94,Delhi
+Delhi,2020-02-14,71.94,Delhi
+Delhi,2020-02-15,71.94,Delhi
+Delhi,2020-02-17,71.94,Delhi
+Delhi,2020-02-18,71.89,Delhi
+Delhi,2020-02-19,71.89,Delhi
+Delhi,2020-02-20,71.89,Delhi
+Delhi,2020-02-21,71.89,Delhi
+Delhi,2020-02-24,72.01,Delhi
+Delhi,2020-02-25,72.01,Delhi
+Delhi,2020-02-26,72.01,Delhi
+Delhi,2020-02-27,71.96,Delhi
+Delhi,2020-02-28,71.96,Delhi
+Delhi,2020-02-29,71.89,Delhi
+Delhi,2020-03-01,71.75,Delhi
+Delhi,2020-03-02,71.53,Delhi
+Delhi,2020-03-03,71.48,Delhi
+Delhi,2020-03-04,71.48,Delhi
+Delhi,2020-03-05,71.33,Delhi
+Delhi,2020-03-06,71.18,Delhi
+Delhi,2020-03-07,71.06,Delhi
+Delhi,2020-03-08,70.87,Delhi
+Delhi,2020-03-09,70.63,Delhi
+Delhi,2020-03-10,70.33,Delhi
+Delhi,2020-03-11,70.33,Delhi
+Delhi,2020-03-12,70.18,Delhi
+Delhi,2020-03-13,70.04,Delhi
+Delhi,2020-03-14,69.91,Delhi
+Delhi,2020-03-15,69.79,Delhi
+Delhi,2020-03-16,69.63,Delhi
+Delhi,2020-03-17,69.63,Delhi
+Delhi,2020-03-18,69.63,Delhi
+Delhi,2020-03-19,69.63,Delhi
+Delhi,2020-03-20,69.63,Delhi
+Delhi,2020-03-21,69.63,Delhi
+Delhi,2020-03-22,69.63,Delhi
+Delhi,2020-03-23,69.63,Delhi
+Delhi,2020-03-24,69.63,Delhi
+Delhi,2020-03-25,69.63,Delhi
+Delhi,2020-03-26,69.63,Delhi
+Delhi,2020-03-27,69.63,Delhi
+Delhi,2020-03-28,69.63,Delhi
+Delhi,2020-03-29,69.63,Delhi
+Delhi,2020-03-30,69.63,Delhi
+Delhi,2020-03-31,69.63,Delhi
+Delhi,2020-04-01,69.63,Delhi
+Delhi,2020-04-02,69.63,Delhi
+Delhi,2020-04-03,69.63,Delhi
+Delhi,2020-04-04,69.63,Delhi
+Delhi,2020-04-05,69.63,Delhi
+Delhi,2020-04-06,69.63,Delhi
+Delhi,2020-04-07,69.63,Delhi
+Delhi,2020-04-08,69.63,Delhi
+Delhi,2020-04-09,69.63,Delhi
+Delhi,2020-04-10,69.63,Delhi
+Delhi,2020-04-11,69.63,Delhi
+Delhi,2020-04-12,69.63,Delhi
+Delhi,2020-04-13,69.63,Delhi
+Delhi,2020-04-14,69.63,Delhi
+Delhi,2020-04-15,69.63,Delhi
+Delhi,2020-04-16,69.63,Delhi
+Delhi,2020-04-17,69.63,Delhi
+Delhi,2020-04-18,69.63,Delhi
+Delhi,2020-04-20,69.63,Delhi
+Delhi,2020-04-21,69.63,Delhi
+Delhi,2020-04-22,69.63,Delhi
+Delhi,2020-04-23,69.63,Delhi
+Delhi,2020-04-24,69.63,Delhi
+Delhi,2020-04-25,69.63,Delhi
+Delhi,2020-04-26,69.63,Delhi
+Delhi,2020-04-27,69.63,Delhi
+Delhi,2020-04-28,69.63,Delhi
+Delhi,2020-04-29,69.63,Delhi
+Delhi,2020-04-30,69.63,Delhi
+Delhi,2020-05-01,69.63,Delhi
+Delhi,2020-05-02,69.63,Delhi
+Delhi,2020-05-03,69.63,Delhi
+Delhi,2020-05-04,69.63,Delhi
+Delhi,2020-05-05,71.3,Delhi
+Delhi,2020-05-06,71.3,Delhi
+Delhi,2020-05-07,71.3,Delhi
+Delhi,2020-05-08,71.3,Delhi
+Delhi,2020-05-09,71.3,Delhi
+Delhi,2020-05-10,71.3,Delhi
+Delhi,2020-05-11,71.3,Delhi
+Delhi,2020-05-12,71.3,Delhi
+Delhi,2020-05-13,71.3,Delhi
+Delhi,2020-05-14,71.3,Delhi
+Delhi,2020-05-15,71.3,Delhi
+Delhi,2020-05-16,71.3,Delhi
+Delhi,2020-05-17,71.3,Delhi
+Delhi,2020-05-18,71.3,Delhi
+Delhi,2020-05-19,71.3,Delhi
+Delhi,2020-05-20,71.3,Delhi
+Delhi,2020-05-21,71.3,Delhi
+Delhi,2020-05-22,71.3,Delhi
+Delhi,2020-05-23,71.3,Delhi
+Delhi,2020-05-24,71.3,Delhi
+Delhi,2020-05-25,71.3,Delhi
+Delhi,2020-05-26,71.3,Delhi
+Delhi,2020-05-27,71.3,Delhi
+Delhi,2020-05-28,71.3,Delhi
+Delhi,2020-05-29,71.3,Delhi
+Delhi,2020-05-30,71.3,Delhi
+Delhi,2020-05-31,71.3,Delhi
+Delhi,2020-06-01,71.3,Delhi
+Delhi,2020-06-02,71.3,Delhi
+Delhi,2020-06-03,71.3,Delhi
+Delhi,2020-06-04,71.3,Delhi
+Delhi,2020-06-05,71.3,Delhi
+Delhi,2020-06-06,71.3,Delhi
+Delhi,2020-06-07,71.9,Delhi
+Delhi,2020-06-08,72.5,Delhi
+Delhi,2020-06-09,73.04,Delhi
+Delhi,2020-06-10,73.44,Delhi
+Delhi,2020-06-11,74.04,Delhi
+Delhi,2020-06-12,74.64,Delhi
+Delhi,2020-06-13,75.24,Delhi
+Delhi,2020-06-14,75.84,Delhi
+Delhi,2020-06-15,76.3,Delhi
+Delhi,2020-06-16,76.77,Delhi
+Delhi,2020-06-17,77.32,Delhi
+Delhi,2020-06-18,77.85,Delhi
+Delhi,2020-06-19,78.41,Delhi
+Delhi,2020-06-20,78.92,Delhi
+Delhi,2020-06-21,79.27,Delhi
+Delhi,2020-06-22,79.6,Delhi
+Delhi,2020-06-23,79.8,Delhi
+Delhi,2020-06-24,79.8,Delhi
+Delhi,2020-06-25,79.96,Delhi
+Delhi,2020-06-26,80.17,Delhi
+Delhi,2020-06-27,80.42,Delhi
+Delhi,2020-06-28,80.42,Delhi
+Delhi,2020-06-29,80.47,Delhi
+Delhi,2020-06-30,80.47,Delhi
+Delhi,2020-07-01,80.47,Delhi
+Delhi,2020-07-02,80.47,Delhi
+Delhi,2020-07-03,80.47,Delhi
+Delhi,2020-07-04,80.47,Delhi
+Delhi,2020-07-05,80.47,Delhi
+Delhi,2020-07-06,80.47,Delhi
+Delhi,2020-07-07,80.47,Delhi
+Delhi,2020-07-08,80.47,Delhi
+Delhi,2020-07-09,80.47,Delhi
+Delhi,2020-07-10,80.47,Delhi
+Delhi,2020-07-11,80.47,Delhi
+Delhi,2020-07-12,80.47,Delhi
+Delhi,2020-07-13,80.47,Delhi
+Delhi,2020-07-15,80.47,Delhi
+Delhi,2020-07-16,80.47,Delhi
+Delhi,2020-07-17,80.47,Delhi
+Delhi,2020-07-18,80.47,Delhi
+Delhi,2020-07-19,80.47,Delhi
+Delhi,2020-07-20,80.47,Delhi
+Delhi,2020-07-21,80.47,Delhi
+Delhi,2020-07-22,80.47,Delhi
+Delhi,2020-07-23,80.47,Delhi
+Delhi,2020-07-24,80.47,Delhi
+Delhi,2020-07-25,80.47,Delhi
+Delhi,2020-07-26,80.47,Delhi
+Delhi,2020-07-27,80.47,Delhi
+Delhi,2020-07-28,80.47,Delhi
+Delhi,2020-07-29,80.47,Delhi
+Delhi,2020-07-30,80.47,Delhi
+Delhi,2020-07-31,80.47,Delhi
+Delhi,2020-08-01,80.47,Delhi
+Delhi,2020-08-02,80.47,Delhi
+Delhi,2020-08-03,80.47,Delhi
+Delhi,2020-08-04,80.47,Delhi
+Delhi,2020-08-05,80.47,Delhi
+Delhi,2020-08-06,80.47,Delhi
+Delhi,2020-08-07,80.47,Delhi
+Delhi,2020-08-08,80.47,Delhi
+Delhi,2020-08-09,80.47,Delhi
+Delhi,2020-08-10,80.47,Delhi
+Delhi,2020-08-11,80.47,Delhi
+Delhi,2020-08-12,80.47,Delhi
+Delhi,2020-08-13,80.47,Delhi
+Delhi,2020-08-14,80.47,Delhi
+Delhi,2020-08-15,80.47,Delhi
+Delhi,2020-08-16,80.63,Delhi
+Delhi,2020-08-17,80.79,Delhi
+Delhi,2020-08-18,80.96,Delhi
+Delhi,2020-08-19,80.96,Delhi
+Delhi,2020-08-20,81.06,Delhi
+Delhi,2020-08-21,81.25,Delhi
+Delhi,2020-08-22,81.41,Delhi
+Delhi,2020-08-23,81.55,Delhi
+Delhi,2020-08-24,81.68,Delhi
+Delhi,2020-08-25,81.79,Delhi
+Delhi,2020-08-26,81.79,Delhi
+Delhi,2020-08-27,81.89,Delhi
+Delhi,2020-08-28,82.0,Delhi
+Delhi,2020-08-29,82.0,Delhi
+Delhi,2020-08-30,82.09,Delhi
+Delhi,2020-08-31,82.09,Delhi
+Delhi,2020-09-01,82.14,Delhi
+Delhi,2020-09-02,82.14,Delhi
+Delhi,2020-09-03,82.14,Delhi
+Delhi,2020-09-04,82.14,Delhi
+Delhi,2020-09-05,82.14,Delhi
+Delhi,2020-09-06,82.14,Delhi
+Delhi,2020-09-07,82.14,Delhi
+Delhi,2020-09-08,82.14,Delhi
+Delhi,2020-09-09,82.14,Delhi
+Delhi,2020-09-10,82.05,Delhi
+Delhi,2020-09-11,82.05,Delhi
+Delhi,2020-09-12,81.92,Delhi
+Delhi,2020-09-13,81.92,Delhi
+Delhi,2020-09-14,81.78,Delhi
+Delhi,2020-09-15,81.61,Delhi
+Delhi,2020-09-16,81.61,Delhi
+Delhi,2020-09-17,81.46,Delhi
+Delhi,2020-09-18,81.2,Delhi
+Delhi,2020-09-19,81.2,Delhi
+Delhi,2020-09-20,81.2,Delhi
+Delhi,2020-09-21,81.2,Delhi
+Delhi,2020-09-22,81.12,Delhi
+Delhi,2020-09-23,81.12,Delhi
+Delhi,2020-09-24,81.12,Delhi
+Delhi,2020-09-25,81.12,Delhi
+Delhi,2020-09-26,81.12,Delhi
+Delhi,2020-09-27,81.12,Delhi
+Delhi,2020-09-28,81.12,Delhi
+Delhi,2020-09-29,81.12,Delhi
+Delhi,2020-09-30,81.12,Delhi
+Delhi,2020-10-01,81.12,Delhi
+Delhi,2020-10-02,81.12,Delhi
+Delhi,2020-10-03,81.12,Delhi
+Delhi,2020-10-04,81.12,Delhi
+Delhi,2020-10-05,81.12,Delhi
+Delhi,2020-10-06,81.12,Delhi
+Delhi,2020-10-07,81.12,Delhi
+Delhi,2020-10-08,81.12,Delhi
+Delhi,2020-10-09,81.12,Delhi
+Delhi,2020-10-10,81.12,Delhi
+Delhi,2020-10-11,81.12,Delhi
+Delhi,2020-10-12,81.12,Delhi
+Delhi,2020-10-13,81.12,Delhi
+Delhi,2020-10-14,81.12,Delhi
+Delhi,2020-10-15,81.12,Delhi
+Delhi,2020-10-16,81.12,Delhi
+Delhi,2020-10-17,81.12,Delhi
+Delhi,2020-10-18,81.12,Delhi
+Delhi,2020-10-19,81.12,Delhi
+Delhi,2020-10-20,81.12,Delhi
+Delhi,2020-10-21,81.12,Delhi
+Delhi,2020-10-22,81.12,Delhi
+Delhi,2020-10-23,81.12,Delhi
+Delhi,2020-10-24,81.12,Delhi
+Delhi,2020-10-25,81.12,Delhi
+Delhi,2020-10-26,81.12,Delhi
+Delhi,2020-10-27,81.12,Delhi
+Delhi,2020-10-28,81.12,Delhi
+Delhi,2020-10-29,81.12,Delhi
+Delhi,2020-10-30,81.12,Delhi
+Delhi,2020-10-31,81.12,Delhi
+Delhi,2020-11-01,81.12,Delhi
+Delhi,2020-11-02,81.12,Delhi
+Delhi,2020-11-03,81.12,Delhi
+Delhi,2020-11-04,81.12,Delhi
+Delhi,2020-11-05,81.12,Delhi
+Delhi,2020-11-06,81.12,Delhi
+Delhi,2020-11-07,81.12,Delhi
+Delhi,2020-11-08,81.12,Delhi
+Delhi,2020-11-09,81.12,Delhi
+Delhi,2020-11-10,81.12,Delhi
+Delhi,2020-11-11,81.12,Delhi
+Delhi,2020-11-12,81.12,Delhi
+Delhi,2020-11-13,81.12,Delhi
+Delhi,2020-11-14,81.12,Delhi
+Delhi,2020-11-15,81.12,Delhi
+Delhi,2020-11-16,81.12,Delhi
+Delhi,2020-11-17,81.12,Delhi
+Delhi,2020-11-18,81.12,Delhi
+Delhi,2020-11-19,81.12,Delhi
+Delhi,2020-11-20,81.28,Delhi
+Delhi,2020-11-21,81.41,Delhi
+Delhi,2020-11-22,81.46,Delhi
+Delhi,2020-11-23,81.53,Delhi
+Delhi,2020-11-24,81.59,Delhi
+Delhi,2020-11-25,81.59,Delhi
+Delhi,2020-11-26,81.7,Delhi
+Delhi,2020-11-27,81.89,Delhi
+Delhi,2020-11-28,82.13,Delhi
+Delhi,2020-11-29,82.34,Delhi
+Delhi,2020-11-30,82.34,Delhi
+Delhi,2020-12-01,82.34,Delhi
+Delhi,2020-12-02,82.49,Delhi
+Delhi,2020-12-03,82.66,Delhi
+Delhi,2020-12-04,82.86,Delhi
+Delhi,2020-12-05,83.13,Delhi
+Delhi,2020-12-06,83.41,Delhi
+Delhi,2020-12-07,83.71,Delhi
+Delhi,2020-12-08,83.71,Delhi
+Delhi,2020-12-09,83.71,Delhi
+Delhi,2020-12-10,83.71,Delhi
+Delhi,2020-12-11,83.71,Delhi
+Delhi,2020-12-12,83.71,Delhi
+Delhi,2020-12-13,83.71,Delhi
+Delhi,2020-12-14,83.71,Delhi
+Delhi,2020-12-15,83.71,Delhi
+Delhi,2020-12-16,83.71,Delhi
+Delhi,2020-12-17,83.71,Delhi
+Delhi,2020-12-18,83.71,Delhi
+Delhi,2020-12-19,83.71,Delhi
+Delhi,2020-12-20,83.71,Delhi
+Delhi,2020-12-21,83.71,Delhi
+Delhi,2020-12-22,83.71,Delhi
+Delhi,2020-12-23,83.71,Delhi
+Delhi,2020-12-24,83.71,Delhi
+Delhi,2020-12-25,83.71,Delhi
+Delhi,2020-12-26,83.71,Delhi
+Delhi,2020-12-27,83.71,Delhi
+Delhi,2020-12-28,83.71,Delhi
+Delhi,2020-12-29,83.71,Delhi
+Delhi,2020-12-30,83.71,Delhi
+Delhi,2020-12-31,83.71,Delhi
+Chennai,2002-11-01,32.8,Tamil Nadu
+Chennai,2002-11-16,32.05,Tamil Nadu
+Chennai,2002-12-01,31.45,Tamil Nadu
+Chennai,2003-01-03,32.55,Tamil Nadu
+Chennai,2003-01-16,32.99,Tamil Nadu
+Chennai,2003-02-01,33.99,Tamil Nadu
+Chennai,2003-03-01,34.89,Tamil Nadu
+Chennai,2003-03-16,36.39,Tamil Nadu
+Chennai,2003-04-16,35.48,Tamil Nadu
+Chennai,2003-04-26,34.4,Tamil Nadu
+Chennai,2003-05-16,33.22,Tamil Nadu
+Chennai,2003-06-01,33.11,Tamil Nadu
+Chennai,2003-08-31,35.39,Tamil Nadu
+Chennai,2003-10-16,34.36,Tamil Nadu
+Chennai,2003-12-12,35.71,Tamil Nadu
+Chennai,2003-12-31,36.79,Tamil Nadu
+Chennai,2004-06-15,38.96,Tamil Nadu
+Chennai,2004-07-31,40.15,Tamil Nadu
+Chennai,2004-11-04,42.51,Tamil Nadu
+Chennai,2004-11-15,41.25,Tamil Nadu
+Chennai,2005-06-20,44.26,Tamil Nadu
+Chennai,2005-09-06,47.49,Tamil Nadu
+Chennai,2006-06-05,51.83,Tamil Nadu
+Chennai,2006-11-30,49.67,Tamil Nadu
+Chennai,2007-02-16,47.51,Tamil Nadu
+Chennai,2007-03-01,47.48,Tamil Nadu
+Chennai,2007-05-16,47.44,Tamil Nadu
+Chennai,2008-02-15,49.61,Tamil Nadu
+Chennai,2008-05-24,49.64,Tamil Nadu
+Chennai,2008-06-06,55.07,Tamil Nadu
+Chennai,2008-12-06,49.66,Tamil Nadu
+Chennai,2009-01-29,44.24,Tamil Nadu
+Chennai,2009-07-02,48.58,Tamil Nadu
+Chennai,2010-02-27,51.59,Tamil Nadu
+Chennai,2010-04-01,52.13,Tamil Nadu
+Chennai,2010-06-26,55.92,Tamil Nadu
+Chennai,2010-09-08,56.02,Tamil Nadu
+Chennai,2010-09-21,56.31,Tamil Nadu
+Chennai,2010-10-17,57.09,Tamil Nadu
+Chennai,2010-11-09,57.44,Tamil Nadu
+Chennai,2010-12-16,60.65,Tamil Nadu
+Chennai,2011-03-02,61.93,Tamil Nadu
+Chennai,2011-05-15,67.22,Tamil Nadu
+Chennai,2011-07-01,67.5,Tamil Nadu
+Chennai,2011-09-16,70.82,Tamil Nadu
+Chennai,2011-11-04,72.73,Tamil Nadu
+Chennai,2011-11-16,70.38,Tamil Nadu
+Chennai,2011-12-01,69.55,Tamil Nadu
+Chennai,2012-05-24,77.53,Tamil Nadu
+Chennai,2012-06-03,75.4,Tamil Nadu
+Chennai,2012-06-03,75.4,Tamil Nadu
+Chennai,2012-06-29,72.27,Tamil Nadu
+Chennai,2012-07-24,73.16,Tamil Nadu
+Chennai,2012-07-25,72.19,Tamil Nadu
+Chennai,2012-10-09,71.48,Tamil Nadu
+Chennai,2012-10-27,71.77,Tamil Nadu
+Chennai,2012-11-16,70.57,Tamil Nadu
+Chennai,2013-01-01,70.58,Tamil Nadu
+Chennai,2013-01-18,70.26,Tamil Nadu
+Chennai,2013-02-16,72.17,Tamil Nadu
+Chennai,2013-03-02,73.95,Tamil Nadu
+Chennai,2013-03-16,71.41,Tamil Nadu
+Chennai,2013-04-02,70.34,Tamil Nadu
+Chennai,2013-04-16,69.08,Tamil Nadu
+Chennai,2013-05-01,65.9,Tamil Nadu
+Chennai,2013-06-01,66.85,Tamil Nadu
+Chennai,2013-06-16,69.39,Tamil Nadu
+Chennai,2013-06-29,71.71,Tamil Nadu
+Chennai,2013-07-15,73.6,Tamil Nadu
+Chennai,2013-08-01,74.49,Tamil Nadu
+Chennai,2013-09-01,77.48,Tamil Nadu
+Chennai,2013-09-14,79.55,Tamil Nadu
+Chennai,2013-10-01,75.68,Tamil Nadu
+Chennai,2013-11-01,74.22,Tamil Nadu
+Chennai,2013-12-21,74.71,Tamil Nadu
+Chennai,2014-01-04,75.71,Tamil Nadu
+Chennai,2014-03-01,76.48,Tamil Nadu
+Chennai,2014-04-01,75.49,Tamil Nadu
+Chennai,2014-04-16,74.6,Tamil Nadu
+Chennai,2014-06-07,74.71,Tamil Nadu
+Chennai,2014-06-25,74.76,Tamil Nadu
+Chennai,2014-07-01,76.93,Tamil Nadu
+Chennai,2014-08-01,75.78,Tamil Nadu
+Chennai,2014-08-15,73.47,Tamil Nadu
+Chennai,2014-08-31,71.55,Tamil Nadu
+Chennai,2014-10-01,70.87,Tamil Nadu
+Chennai,2014-10-15,69.59,Tamil Nadu
+Chennai,2014-11-01,67.01,Tamil Nadu
+Chennai,2014-12-01,66.05,Tamil Nadu
+Chennai,2014-12-16,63.94,Tamil Nadu
+Chennai,2015-01-17,61.38,Tamil Nadu
+Chennai,2015-02-04,58.88,Tamil Nadu
+Chennai,2015-02-16,59.85,Tamil Nadu
+Chennai,2015-03-01,63.31,Tamil Nadu
+Chennai,2015-04-02,62.75,Tamil Nadu
+Chennai,2015-04-15,61.9,Tamil Nadu
+Chennai,2015-05-01,68.08,Tamil Nadu
+Chennai,2015-05-16,69.45,Tamil Nadu
+Chennai,2015-06-16,70.12,Tamil Nadu
+Chennai,2015-07-01,69.84,Tamil Nadu
+Chennai,2015-07-01,69.84,Tamil Nadu
+Chennai,2015-07-15,67.29,Tamil Nadu
+Chennai,2015-08-01,64.77,Tamil Nadu
+Chennai,2015-08-15,63.49,Tamil Nadu
+Chennai,2015-09-01,61.46,Tamil Nadu
+Chennai,2015-11-01,61.02,Tamil Nadu
+Chennai,2015-11-16,61.38,Tamil Nadu
+Chennai,2015-12-01,60.8,Tamil Nadu
+Chennai,2015-12-16,60.28,Tamil Nadu
+Chennai,2016-01-01,59.77,Tamil Nadu
+Chennai,2016-01-16,59.45,Tamil Nadu
+Chennai,2016-02-01,59.42,Tamil Nadu
+Chennai,2016-02-17,59.1,Tamil Nadu
+Chennai,2016-03-01,56.08,Tamil Nadu
+Chennai,2016-03-09,56.07,Tamil Nadu
+Chennai,2016-03-17,59.13,Tamil Nadu
+Chennai,2016-04-05,61.32,Tamil Nadu
+Chennai,2016-04-16,60.58,Tamil Nadu
+Chennai,2016-05-01,61.64,Tamil Nadu
+Chennai,2016-05-17,62.47,Tamil Nadu
+Chennai,2016-06-01,65.04,Tamil Nadu
+Chennai,2016-06-16,65.15,Tamil Nadu
+Chennai,2016-07-01,64.24,Tamil Nadu
+Chennai,2016-07-15,61.92,Tamil Nadu
+Chennai,2016-08-01,60.5,Tamil Nadu
+Chennai,2016-08-15,59.5,Tamil Nadu
+Chennai,2016-09-01,62.88,Tamil Nadu
+Chennai,2016-09-15,63.64,Tamil Nadu
+Chennai,2016-10-01,64.01,Tamil Nadu
+Chennai,2016-10-05,64.12,Tamil Nadu
+Chennai,2016-10-15,65.85,Tamil Nadu
+Chennai,2016-11-06,67.02,Tamil Nadu
+Chennai,2016-11-16,65.3,Tamil Nadu
+Chennai,2016-12-01,65.47,Tamil Nadu
+Chennai,2016-12-17,68.31,Tamil Nadu
+Chennai,2017-01-01,69.96,Tamil Nadu
+Chennai,2017-01-16,70.5,Tamil Nadu
+Chennai,2017-03-07,74.28,Tamil Nadu
+Chennai,2017-04-01,69.17,Tamil Nadu
+Chennai,2017-04-16,71.04,Tamil Nadu
+Chennai,2017-05-01,71.07,Tamil Nadu
+Chennai,2017-05-16,68.17,Tamil Nadu
+Chennai,2017-06-01,69.84,Tamil Nadu
+Chennai,2017-06-16,68.07,Tamil Nadu
+Chennai,2017-06-19,67.19,Tamil Nadu
+Chennai,2017-06-20,67.04,Tamil Nadu
+Chennai,2017-06-21,67.09,Tamil Nadu
+Chennai,2017-06-22,66.93,Tamil Nadu
+Chennai,2017-06-23,66.7,Tamil Nadu
+Chennai,2017-06-26,66.03,Tamil Nadu
+Chennai,2017-06-27,65.89,Tamil Nadu
+Chennai,2017-06-28,65.94,Tamil Nadu
+Chennai,2017-06-29,65.9,Tamil Nadu
+Chennai,2017-06-30,65.78,Tamil Nadu
+Chennai,2017-07-03,65.56,Tamil Nadu
+Chennai,2017-07-04,65.46,Tamil Nadu
+Chennai,2017-07-05,65.5,Tamil Nadu
+Chennai,2017-07-06,65.58,Tamil Nadu
+Chennai,2017-07-07,65.72,Tamil Nadu
+Chennai,2017-07-10,66.29,Tamil Nadu
+Chennai,2017-07-11,66.38,Tamil Nadu
+Chennai,2017-07-12,66.43,Tamil Nadu
+Chennai,2017-07-13,66.36,Tamil Nadu
+Chennai,2017-07-14,66.34,Tamil Nadu
+Chennai,2017-07-17,66.66,Tamil Nadu
+Chennai,2017-07-18,66.67,Tamil Nadu
+Chennai,2017-07-19,66.72,Tamil Nadu
+Chennai,2017-07-20,66.77,Tamil Nadu
+Chennai,2017-07-21,66.75,Tamil Nadu
+Chennai,2017-07-24,67.06,Tamil Nadu
+Chennai,2017-07-25,67.1,Tamil Nadu
+Chennai,2017-07-26,67.06,Tamil Nadu
+Chennai,2017-07-27,67.07,Tamil Nadu
+Chennai,2017-07-28,67.18,Tamil Nadu
+Chennai,2017-07-31,67.78,Tamil Nadu
+Chennai,2017-08-01,67.76,Tamil Nadu
+Chennai,2017-08-02,67.78,Tamil Nadu
+Chennai,2017-08-04,68.34,Tamil Nadu
+Chennai,2017-08-07,69.08,Tamil Nadu
+Chennai,2017-08-08,69.13,Tamil Nadu
+Chennai,2017-08-09,69.2,Tamil Nadu
+Chennai,2017-08-10,69.35,Tamil Nadu
+Chennai,2017-08-11,69.68,Tamil Nadu
+Chennai,2017-08-14,70.44,Tamil Nadu
+Chennai,2017-08-16,70.59,Tamil Nadu
+Chennai,2017-08-17,70.7,Tamil Nadu
+Chennai,2017-08-18,70.76,Tamil Nadu
+Chennai,2017-08-21,71.06,Tamil Nadu
+Chennai,2017-08-22,71.15,Tamil Nadu
+Chennai,2017-08-23,71.26,Tamil Nadu
+Chennai,2017-08-24,71.37,Tamil Nadu
+Chennai,2017-08-28,71.64,Tamil Nadu
+Chennai,2017-08-29,71.62,Tamil Nadu
+Chennai,2017-08-30,71.67,Tamil Nadu
+Chennai,2017-08-31,71.7,Tamil Nadu
+Chennai,2017-09-01,71.78,Tamil Nadu
+Chennai,2017-09-04,72.17,Tamil Nadu
+Chennai,2017-09-05,72.25,Tamil Nadu
+Chennai,2017-09-07,72.34,Tamil Nadu
+Chennai,2017-09-08,72.44,Tamil Nadu
+Chennai,2017-09-11,72.85,Tamil Nadu
+Chennai,2017-09-12,72.95,Tamil Nadu
+Chennai,2017-09-13,72.92,Tamil Nadu
+Chennai,2017-09-14,72.97,Tamil Nadu
+Chennai,2017-09-15,73.01,Tamil Nadu
+Chennai,2017-09-19,73.07,Tamil Nadu
+Chennai,2017-09-20,73.1,Tamil Nadu
+Chennai,2017-09-21,73.07,Tamil Nadu
+Chennai,2017-09-22,73.05,Tamil Nadu
+Chennai,2017-09-25,72.96,Tamil Nadu
+Chennai,2017-09-26,72.99,Tamil Nadu
+Chennai,2017-09-27,72.96,Tamil Nadu
+Chennai,2017-09-28,73.04,Tamil Nadu
+Chennai,2017-09-29,73.15,Tamil Nadu
+Chennai,2017-10-03,73.41,Tamil Nadu
+Chennai,2017-10-04,70.85,Tamil Nadu
+Chennai,2017-10-05,70.81,Tamil Nadu
+Chennai,2017-10-06,70.83,Tamil Nadu
+Chennai,2017-10-09,70.89,Tamil Nadu
+Chennai,2017-10-10,70.93,Tamil Nadu
+Chennai,2017-10-11,70.96,Tamil Nadu
+Chennai,2017-10-12,70.89,Tamil Nadu
+Chennai,2017-10-13,70.9,Tamil Nadu
+Chennai,2017-10-16,70.72,Tamil Nadu
+Chennai,2017-10-17,70.69,Tamil Nadu
+Chennai,2017-10-18,70.73,Tamil Nadu
+Chennai,2017-10-24,71.04,Tamil Nadu
+Chennai,2017-10-25,71.1,Tamil Nadu
+Chennai,2017-10-26,71.14,Tamil Nadu
+Chennai,2017-10-30,71.54,Tamil Nadu
+Chennai,2017-10-31,71.64,Tamil Nadu
+Chennai,2017-11-01,71.65,Tamil Nadu
+Chennai,2017-11-02,71.77,Tamil Nadu
+Chennai,2017-11-03,71.86,Tamil Nadu
+Chennai,2017-11-06,72.31,Tamil Nadu
+Chennai,2017-11-07,72.35,Tamil Nadu
+Chennai,2017-11-09,72.4,Tamil Nadu
+Chennai,2017-11-10,72.48,Tamil Nadu
+Chennai,2017-11-13,72.41,Tamil Nadu
+Chennai,2017-11-14,72.27,Tamil Nadu
+Chennai,2017-11-15,72.22,Tamil Nadu
+Chennai,2017-11-16,72.19,Tamil Nadu
+Chennai,2017-11-17,72.15,Tamil Nadu
+Chennai,2017-11-20,72.12,Tamil Nadu
+Chennai,2017-11-21,72.06,Tamil Nadu
+Chennai,2017-11-22,72.01,Tamil Nadu
+Chennai,2017-11-23,71.96,Tamil Nadu
+Chennai,2017-11-24,71.94,Tamil Nadu
+Chennai,2017-11-27,71.88,Tamil Nadu
+Chennai,2017-11-28,71.78,Tamil Nadu
+Chennai,2017-11-29,71.86,Tamil Nadu
+Chennai,2017-11-30,71.76,Tamil Nadu
+Chennai,2017-12-01,71.74,Tamil Nadu
+Chennai,2017-12-05,71.85,Tamil Nadu
+Chennai,2017-12-06,71.76,Tamil Nadu
+Chennai,2017-12-07,71.75,Tamil Nadu
+Chennai,2017-12-08,71.7,Tamil Nadu
+Chennai,2017-12-11,71.71,Tamil Nadu
+Chennai,2017-12-12,71.6,Tamil Nadu
+Chennai,2017-12-13,71.58,Tamil Nadu
+Chennai,2017-12-15,71.61,Tamil Nadu
+Chennai,2017-12-18,71.79,Tamil Nadu
+Chennai,2017-12-19,71.87,Tamil Nadu
+Chennai,2017-12-20,71.95,Tamil Nadu
+Chennai,2017-12-22,72.03,Tamil Nadu
+Chennai,2017-12-26,72.25,Tamil Nadu
+Chennai,2017-12-27,72.26,Tamil Nadu
+Chennai,2017-12-28,72.36,Tamil Nadu
+Chennai,2017-12-29,72.45,Tamil Nadu
+Chennai,2018-01-01,72.61,Tamil Nadu
+Chennai,2018-01-02,72.53,Tamil Nadu
+Chennai,2018-01-03,72.61,Tamil Nadu
+Chennai,2018-01-05,72.63,Tamil Nadu
+Chennai,2018-01-08,73.08,Tamil Nadu
+Chennai,2018-01-09,73.14,Tamil Nadu
+Chennai,2018-01-10,73.21,Tamil Nadu
+Chennai,2018-01-11,73.25,Tamil Nadu
+Chennai,2018-01-12,73.32,Tamil Nadu
+Chennai,2018-01-15,73.78,Tamil Nadu
+Chennai,2018-01-16,73.87,Tamil Nadu
+Chennai,2018-01-17,74.0,Tamil Nadu
+Chennai,2018-01-18,74.18,Tamil Nadu
+Chennai,2018-01-19,74.33,Tamil Nadu
+Chennai,2018-01-22,74.88,Tamil Nadu
+Chennai,2018-01-23,75.04,Tamil Nadu
+Chennai,2018-01-24,75.09,Tamil Nadu
+Chennai,2018-01-25,75.16,Tamil Nadu
+Chennai,2018-01-29,75.53,Tamil Nadu
+Chennai,2018-01-30,75.61,Tamil Nadu
+Chennai,2018-02-01,75.75,Tamil Nadu
+Chennai,2018-02-02,75.8,Tamil Nadu
+Chennai,2018-02-05,76.02,Tamil Nadu
+Chennai,2018-02-06,76.09,Tamil Nadu
+Chennai,2018-02-08,76.08,Tamil Nadu
+Chennai,2018-02-09,76.06,Tamil Nadu
+Chennai,2018-02-12,75.71,Tamil Nadu
+Chennai,2018-02-13,75.63,Tamil Nadu
+Chennai,2018-02-15,75.47,Tamil Nadu
+Chennai,2018-02-16,75.19,Tamil Nadu
+Chennai,2018-02-19,74.56,Tamil Nadu
+Chennai,2018-02-20,74.36,Tamil Nadu
+Chennai,2018-02-21,74.35,Tamil Nadu
+Chennai,2018-02-22,74.33,Tamil Nadu
+Chennai,2018-02-23,74.23,Tamil Nadu
+Chennai,2018-02-26,74.15,Tamil Nadu
+Chennai,2018-02-27,74.13,Tamil Nadu
+Chennai,2018-03-01,74.26,Tamil Nadu
+Chennai,2018-03-02,74.45,Tamil Nadu
+Chennai,2018-03-05,75.05,Tamil Nadu
+Chennai,2018-03-06,75.13,Tamil Nadu
+Chennai,2018-03-09,75.17,Tamil Nadu
+Chennai,2018-03-12,75.19,Tamil Nadu
+Chennai,2018-03-13,75.21,Tamil Nadu
+Chennai,2018-03-15,75.19,Tamil Nadu
+Chennai,2018-03-16,75.11,Tamil Nadu
+Chennai,2018-03-19,74.92,Tamil Nadu
+Chennai,2018-03-20,74.93,Tamil Nadu
+Chennai,2018-03-22,74.99,Tamil Nadu
+Chennai,2018-03-23,75.03,Tamil Nadu
+Chennai,2018-03-26,75.55,Tamil Nadu
+Chennai,2018-03-27,75.66,Tamil Nadu
+Chennai,2018-03-29,75.85,Tamil Nadu
+Chennai,2018-03-30,76.1,Tamil Nadu
+Chennai,2018-04-02,76.62,Tamil Nadu
+Chennai,2018-04-03,76.76,Tamil Nadu
+Chennai,2018-04-05,76.79,Tamil Nadu
+Chennai,2018-04-09,76.8,Tamil Nadu
+Chennai,2018-04-10,76.79,Tamil Nadu
+Chennai,2018-04-12,76.75,Tamil Nadu
+Chennai,2018-04-13,76.71,Tamil Nadu
+Chennai,2018-04-16,76.83,Tamil Nadu
+Chennai,2018-04-19,76.88,Tamil Nadu
+Chennai,2018-04-20,76.89,Tamil Nadu
+Chennai,2018-04-23,77.34,Tamil Nadu
+Chennai,2018-04-24,77.47,Tamil Nadu
+Chennai,2018-05-14,77.65,Tamil Nadu
+Chennai,2018-05-15,77.81,Tamil Nadu
+Chennai,2018-05-16,77.97,Tamil Nadu
+Chennai,2018-05-17,78.2,Tamil Nadu
+Chennai,2018-05-18,77.65,Tamil Nadu
+Chennai,2018-05-21,79.51,Tamil Nadu
+Chennai,2018-05-22,79.83,Tamil Nadu
+Chennai,2018-05-23,80.15,Tamil Nadu
+Chennai,2018-05-24,80.46,Tamil Nadu
+Chennai,2018-05-25,80.84,Tamil Nadu
+Chennai,2018-05-26,80.99,Tamil Nadu
+Chennai,2018-05-27,81.15,Tamil Nadu
+Chennai,2018-05-28,81.3,Tamil Nadu
+Chennai,2018-05-29,81.47,Tamil Nadu
+Chennai,2018-05-31,81.39,Tamil Nadu
+Chennai,2018-06-01,81.32,Tamil Nadu
+Chennai,2018-06-02,81.23,Tamil Nadu
+Chennai,2018-06-03,81.14,Tamil Nadu
+Chennai,2018-06-04,80.98,Tamil Nadu
+Chennai,2018-06-05,80.84,Tamil Nadu
+Chennai,2018-06-06,80.72,Tamil Nadu
+Chennai,2018-06-07,80.63,Tamil Nadu
+Chennai,2018-06-08,80.41,Tamil Nadu
+Chennai,2018-06-09,79.99,Tamil Nadu
+Chennai,2018-06-10,79.74,Tamil Nadu
+Chennai,2018-06-11,79.52,Tamil Nadu
+Chennai,2018-06-12,79.37,Tamil Nadu
+Chennai,2018-06-15,79.28,Tamil Nadu
+Chennai,2018-06-19,79.2,Tamil Nadu
+Chennai,2018-06-21,79.08,Tamil Nadu
+Chennai,2018-06-22,78.94,Tamil Nadu
+Chennai,2018-06-23,78.84,Tamil Nadu
+Chennai,2018-06-24,78.69,Tamil Nadu
+Chennai,2018-06-25,78.59,Tamil Nadu
+Chennai,2018-06-26,78.44,Tamil Nadu
+Chennai,2018-07-05,78.61,Tamil Nadu
+Chennai,2018-07-06,78.76,Tamil Nadu
+Chennai,2018-07-09,79.29,Tamil Nadu
+Chennai,2018-07-10,79.47,Tamil Nadu
+Chennai,2018-07-12,79.54,Tamil Nadu
+Chennai,2018-07-13,79.71,Tamil Nadu
+Chennai,2018-07-16,79.8,Tamil Nadu
+Chennai,2018-07-20,79.63,Tamil Nadu
+Chennai,2018-07-23,79.29,Tamil Nadu
+Chennai,2018-07-24,79.22,Tamil Nadu
+Chennai,2018-07-30,79.24,Tamil Nadu
+Chennai,2018-07-31,79.31,Tamil Nadu
+Chennai,2018-08-02,79.43,Tamil Nadu
+Chennai,2018-08-03,79.51,Tamil Nadu
+Chennai,2018-08-06,80.0,Tamil Nadu
+Chennai,2018-08-07,80.09,Tamil Nadu
+Chennai,2018-08-13,80.18,Tamil Nadu
+Chennai,2018-08-16,80.23,Tamil Nadu
+Chennai,2018-08-20,80.55,Tamil Nadu
+Chennai,2018-08-21,80.64,Tamil Nadu
+Chennai,2018-08-24,80.74,Tamil Nadu
+Chennai,2018-08-25,74.74,Tamil Nadu
+Chennai,2018-08-26,74.83,Tamil Nadu
+Chennai,2018-08-27,80.99,Tamil Nadu
+Chennai,2018-08-28,81.14,Tamil Nadu
+Chennai,2018-08-29,81.28,Tamil Nadu
+Chennai,2018-08-30,81.4,Tamil Nadu
+Chennai,2018-08-31,81.63,Tamil Nadu
+Chennai,2018-09-03,82.34,Tamil Nadu
+Chennai,2018-09-04,82.51,Tamil Nadu
+Chennai,2018-09-06,82.72,Tamil Nadu
+Chennai,2018-09-07,83.22,Tamil Nadu
+Chennai,2018-09-10,84.0,Tamil Nadu
+Chennai,2018-09-11,84.15,Tamil Nadu
+Chennai,2018-09-13,84.29,Tamil Nadu
+Chennai,2018-09-14,84.58,Tamil Nadu
+Chennai,2018-09-15,84.95,Tamil Nadu
+Chennai,2018-09-16,85.24,Tamil Nadu
+Chennai,2018-09-17,85.4,Tamil Nadu
+Chennai,2018-09-18,85.51,Tamil Nadu
+Chennai,2018-09-20,85.57,Tamil Nadu
+Chennai,2018-09-21,85.68,Tamil Nadu
+Chennai,2018-09-23,85.97,Tamil Nadu
+Chennai,2018-09-24,86.08,Tamil Nadu
+Chennai,2018-09-25,86.23,Tamil Nadu
+Chennai,2018-09-27,86.38,Tamil Nadu
+Chennai,2018-09-28,86.61,Tamil Nadu
+Chennai,2018-09-30,86.89,Tamil Nadu
+Chennai,2018-10-01,87.13,Tamil Nadu
+Chennai,2018-10-02,87.24,Tamil Nadu
+Chennai,2018-10-04,87.39,Tamil Nadu
+Chennai,2018-10-05,84.76,Tamil Nadu
+Chennai,2018-10-06,84.95,Tamil Nadu
+Chennai,2018-10-07,85.09,Tamil Nadu
+Chennai,2018-10-08,85.31,Tamil Nadu
+Chennai,2018-10-09,85.56,Tamil Nadu
+Chennai,2018-10-11,85.66,Tamil Nadu
+Chennai,2018-10-12,85.79,Tamil Nadu
+Chennai,2018-10-13,85.98,Tamil Nadu
+Chennai,2018-10-14,86.04,Tamil Nadu
+Chennai,2018-10-16,86.16,Tamil Nadu
+Chennai,2018-10-18,85.94,Tamil Nadu
+Chennai,2018-10-19,85.68,Tamil Nadu
+Chennai,2018-10-20,85.27,Tamil Nadu
+Chennai,2018-10-22,84.69,Tamil Nadu
+Chennai,2018-10-23,84.59,Tamil Nadu
+Chennai,2018-10-24,84.49,Tamil Nadu
+Chennai,2018-10-25,84.34,Tamil Nadu
+Chennai,2018-10-26,84.07,Tamil Nadu
+Chennai,2018-10-29,82.91,Tamil Nadu
+Chennai,2018-10-30,82.7,Tamil Nadu
+Chennai,2018-11-01,82.51,Tamil Nadu
+Chennai,2018-11-02,82.33,Tamil Nadu
+Chennai,2018-11-05,81.7,Tamil Nadu
+Chennai,2018-11-06,81.55,Tamil Nadu
+Chennai,2018-11-12,80.65,Tamil Nadu
+Chennai,2018-11-13,80.51,Tamil Nadu
+Chennai,2018-11-15,80.35,Tamil Nadu
+Chennai,2018-11-16,80.17,Tamil Nadu
+Chennai,2018-11-19,79.55,Tamil Nadu
+Chennai,2018-11-20,79.41,Tamil Nadu
+Chennai,2018-11-22,78.98,Tamil Nadu
+Chennai,2018-11-23,78.55,Tamil Nadu
+Chennai,2018-11-26,77.42,Tamil Nadu
+Chennai,2018-11-27,76.98,Tamil Nadu
+Chennai,2018-11-28,76.45,Tamil Nadu
+Chennai,2018-11-29,76.1,Tamil Nadu
+Chennai,2018-11-30,75.71,Tamil Nadu
+Chennai,2018-12-01,75.34,Tamil Nadu
+Chennai,2018-12-02,75.01,Tamil Nadu
+Chennai,2018-12-03,74.68,Tamil Nadu
+Chennai,2018-12-04,74.46,Tamil Nadu
+Chennai,2018-12-06,74.04,Tamil Nadu
+Chennai,2018-12-07,73.62,Tamil Nadu
+Chennai,2018-12-10,72.98,Tamil Nadu
+Chennai,2018-12-11,72.81,Tamil Nadu
+Chennai,2018-12-13,72.9,Tamil Nadu
+Chennai,2018-12-17,73.15,Tamil Nadu
+Chennai,2018-12-18,73.26,Tamil Nadu
+Chennai,2018-12-21,73.08,Tamil Nadu
+Chennai,2018-12-24,72.45,Tamil Nadu
+Chennai,2018-12-25,72.38,Tamil Nadu
+Chennai,2018-12-27,72.32,Tamil Nadu
+Chennai,2018-12-28,72.12,Tamil Nadu
+Chennai,2018-12-31,71.38,Tamil Nadu
+Chennai,2019-01-02,71.27,Tamil Nadu
+Chennai,2019-01-04,71.05,Tamil Nadu
+Chennai,2019-01-07,71.11,Tamil Nadu
+Chennai,2019-01-10,71.51,Tamil Nadu
+Chennai,2019-01-11,71.71,Tamil Nadu
+Chennai,2019-01-14,72.83,Tamil Nadu
+Chennai,2019-01-16,73.04,Tamil Nadu
+Chennai,2019-01-17,73.19,Tamil Nadu
+Chennai,2019-01-18,73.27,Tamil Nadu
+Chennai,2019-01-21,73.89,Tamil Nadu
+Chennai,2019-01-22,74.03,Tamil Nadu
+Chennai,2019-01-29,73.94,Tamil Nadu
+Chennai,2019-01-31,73.84,Tamil Nadu
+Chennai,2019-02-01,73.59,Tamil Nadu
+Chennai,2019-02-05,73.06,Tamil Nadu
+Chennai,2019-02-08,73.0,Tamil Nadu
+Chennai,2019-02-11,72.94,Tamil Nadu
+Chennai,2019-02-14,73.01,Tamil Nadu
+Chennai,2019-02-15,73.08,Tamil Nadu
+Chennai,2019-02-18,73.55,Tamil Nadu
+Chennai,2019-02-19,73.66,Tamil Nadu
+Chennai,2019-02-22,73.97,Tamil Nadu
+Chennai,2019-02-25,74.26,Tamil Nadu
+Chennai,2019-02-26,74.36,Tamil Nadu
+Chennai,2019-02-28,74.43,Tamil Nadu
+Chennai,2019-03-01,74.54,Tamil Nadu
+Chennai,2019-03-04,74.92,Tamil Nadu
+Chennai,2019-03-05,74.99,Tamil Nadu
+Chennai,2019-03-11,75.23,Tamil Nadu
+Chennai,2019-03-12,75.17,Tamil Nadu
+Chennai,2019-03-14,75.25,Tamil Nadu
+Chennai,2019-03-15,75.32,Tamil Nadu
+Chennai,2019-03-18,75.56,Tamil Nadu
+Chennai,2019-03-21,75.49,Tamil Nadu
+Chennai,2019-03-22,75.54,Tamil Nadu
+Chennai,2019-03-23,75.59,Tamil Nadu
+Chennai,2019-03-24,75.65,Tamil Nadu
+Chennai,2019-03-28,75.59,Tamil Nadu
+Chennai,2019-04-01,75.67,Tamil Nadu
+Chennai,2019-04-05,75.73,Tamil Nadu
+Chennai,2019-04-08,75.66,Tamil Nadu
+Chennai,2019-04-09,75.61,Tamil Nadu
+Chennai,2019-04-12,75.67,Tamil Nadu
+Chennai,2019-04-15,75.8,Tamil Nadu
+Chennai,2019-04-16,75.75,Tamil Nadu
+Chennai,2019-04-20,75.82,Tamil Nadu
+Chennai,2019-04-22,75.77,Tamil Nadu
+Chennai,2019-04-25,75.84,Tamil Nadu
+Chennai,2019-04-27,75.91,Tamil Nadu
+Chennai,2019-04-30,75.96,Tamil Nadu
+Chennai,2019-05-02,75.89,Tamil Nadu
+Chennai,2019-05-04,75.9,Tamil Nadu
+Chennai,2019-05-05,75.84,Tamil Nadu
+Chennai,2019-05-06,75.77,Tamil Nadu
+Chennai,2019-05-09,75.6,Tamil Nadu
+Chennai,2019-05-10,75.38,Tamil Nadu
+Chennai,2019-05-11,74.87,Tamil Nadu
+Chennai,2019-05-12,74.43,Tamil Nadu
+Chennai,2019-05-13,74.11,Tamil Nadu
+Chennai,2019-05-14,73.85,Tamil Nadu
+Chennai,2019-05-17,73.77,Tamil Nadu
+Chennai,2019-05-18,73.69,Tamil Nadu
+Chennai,2019-05-20,73.79,Tamil Nadu
+Chennai,2019-05-21,73.84,Tamil Nadu
+Chennai,2019-05-23,73.92,Tamil Nadu
+Chennai,2019-05-24,74.07,Tamil Nadu
+Chennai,2019-05-25,74.22,Tamil Nadu
+Chennai,2019-05-26,74.37,Tamil Nadu
+Chennai,2019-05-27,74.47,Tamil Nadu
+Chennai,2019-05-28,74.57,Tamil Nadu
+Chennai,2019-05-30,74.5,Tamil Nadu
+Chennai,2019-05-31,74.43,Tamil Nadu
+Chennai,2019-06-01,74.39,Tamil Nadu
+Chennai,2019-06-02,74.27,Tamil Nadu
+Chennai,2019-06-03,74.05,Tamil Nadu
+Chennai,2019-06-04,73.98,Tamil Nadu
+Chennai,2019-06-06,73.81,Tamil Nadu
+Chennai,2019-06-07,73.68,Tamil Nadu
+Chennai,2019-06-10,73.14,Tamil Nadu
+Chennai,2019-06-13,73.05,Tamil Nadu
+Chennai,2019-06-14,72.88,Tamil Nadu
+Chennai,2019-06-15,72.68,Tamil Nadu
+Chennai,2019-06-16,72.61,Tamil Nadu
+Chennai,2019-06-24,72.74,Tamil Nadu
+Chennai,2019-06-27,72.81,Tamil Nadu
+Chennai,2019-06-28,72.87,Tamil Nadu
+Chennai,2019-06-29,72.98,Tamil Nadu
+Chennai,2019-06-30,73.08,Tamil Nadu
+Chennai,2019-07-01,73.18,Tamil Nadu
+Chennai,2019-07-02,73.24,Tamil Nadu
+Chennai,2019-07-06,75.81,Tamil Nadu
+Chennai,2019-07-09,75.76,Tamil Nadu
+Chennai,2019-07-13,75.85,Tamil Nadu
+Chennai,2019-07-14,75.95,Tamil Nadu
+Chennai,2019-07-15,76.08,Tamil Nadu
+Chennai,2019-07-16,76.15,Tamil Nadu
+Chennai,2019-07-18,76.23,Tamil Nadu
+Chennai,2019-07-23,76.29,Tamil Nadu
+Chennai,2019-07-25,76.23,Tamil Nadu
+Chennai,2019-07-26,76.17,Tamil Nadu
+Chennai,2019-07-27,76.11,Tamil Nadu
+Chennai,2019-07-28,76.01,Tamil Nadu
+Chennai,2019-07-29,75.85,Tamil Nadu
+Chennai,2019-07-30,75.71,Tamil Nadu
+Chennai,2019-08-01,75.65,Tamil Nadu
+Chennai,2019-08-02,75.48,Tamil Nadu
+Chennai,2019-08-03,75.41,Tamil Nadu
+Chennai,2019-08-04,75.3,Tamil Nadu
+Chennai,2019-08-05,75.14,Tamil Nadu
+Chennai,2019-08-06,75.05,Tamil Nadu
+Chennai,2019-08-08,75.0,Tamil Nadu
+Chennai,2019-08-09,74.84,Tamil Nadu
+Chennai,2019-08-11,74.74,Tamil Nadu
+Chennai,2019-08-18,74.66,Tamil Nadu
+Chennai,2019-08-19,74.59,Tamil Nadu
+Chennai,2019-08-24,74.67,Tamil Nadu
+Chennai,2019-08-25,74.74,Tamil Nadu
+Chennai,2019-08-26,74.83,Tamil Nadu
+Chennai,2019-08-27,74.83,Tamil Nadu
+Chennai,2019-08-29,74.77,Tamil Nadu
+Chennai,2019-09-05,74.74,Tamil Nadu
+Chennai,2019-09-06,74.64,Tamil Nadu
+Chennai,2019-09-07,74.55,Tamil Nadu
+Chennai,2019-09-08,74.48,Tamil Nadu
+Chennai,2019-09-10,74.54,Tamil Nadu
+Chennai,2019-09-12,74.6,Tamil Nadu
+Chennai,2019-09-13,74.67,Tamil Nadu
+Chennai,2019-09-14,74.76,Tamil Nadu
+Chennai,2019-09-15,74.82,Tamil Nadu
+Chennai,2019-09-17,74.97,Tamil Nadu
+Chennai,2019-09-18,75.23,Tamil Nadu
+Chennai,2019-09-19,75.54,Tamil Nadu
+Chennai,2019-09-20,75.9,Tamil Nadu
+Chennai,2019-09-21,76.21,Tamil Nadu
+Chennai,2019-09-22,76.49,Tamil Nadu
+Chennai,2019-09-23,76.8,Tamil Nadu
+Chennai,2019-09-24,77.03,Tamil Nadu
+Chennai,2019-09-26,77.09,Tamil Nadu
+Chennai,2019-09-27,77.25,Tamil Nadu
+Chennai,2019-09-30,77.34,Tamil Nadu
+Chennai,2019-10-01,77.56,Tamil Nadu
+Chennai,2019-10-03,77.46,Tamil Nadu
+Chennai,2019-10-04,77.27,Tamil Nadu
+Chennai,2019-10-05,76.96,Tamil Nadu
+Chennai,2019-10-07,76.67,Tamil Nadu
+Chennai,2019-10-08,76.49,Tamil Nadu
+Chennai,2019-10-10,76.44,Tamil Nadu
+Chennai,2019-10-11,76.31,Tamil Nadu
+Chennai,2019-10-12,76.21,Tamil Nadu
+Chennai,2019-10-15,76.16,Tamil Nadu
+Chennai,2019-10-19,76.15,Tamil Nadu
+Chennai,2019-10-22,76.1,Tamil Nadu
+Chennai,2019-10-24,76.05,Tamil Nadu
+Chennai,2019-10-25,75.93,Tamil Nadu
+Chennai,2019-10-26,75.85,Tamil Nadu
+Chennai,2019-10-29,75.78,Tamil Nadu
+Chennai,2019-11-01,75.78,Tamil Nadu
+Chennai,2019-11-01,75.66,Tamil Nadu
+Chennai,2019-11-02,75.58,Tamil Nadu
+Chennai,2019-11-03,75.53,Tamil Nadu
+Chennai,2019-11-04,75.44,Tamil Nadu
+Chennai,2019-11-05,75.39,Tamil Nadu
+Chennai,2019-11-08,75.49,Tamil Nadu
+Chennai,2019-11-09,75.65,Tamil Nadu
+Chennai,2019-11-10,75.86,Tamil Nadu
+Chennai,2019-11-11,76.02,Tamil Nadu
+Chennai,2019-11-13,76.12,Tamil Nadu
+Chennai,2019-11-14,76.28,Tamil Nadu
+Chennai,2019-11-15,76.47,Tamil Nadu
+Chennai,2019-11-16,76.62,Tamil Nadu
+Chennai,2019-11-17,76.74,Tamil Nadu
+Chennai,2019-11-18,76.91,Tamil Nadu
+Chennai,2019-11-19,77.07,Tamil Nadu
+Chennai,2019-11-22,77.23,Tamil Nadu
+Chennai,2019-11-23,77.32,Tamil Nadu
+Chennai,2019-11-24,77.43,Tamil Nadu
+Chennai,2019-11-25,77.56,Tamil Nadu
+Chennai,2019-11-26,77.66,Tamil Nadu
+Chennai,2019-11-29,77.71,Tamil Nadu
+Chennai,2019-11-30,77.763,Tamil Nadu
+Chennai,2019-12-01,77.89,Tamil Nadu
+Chennai,2019-12-07,77.8,Tamil Nadu
+Chennai,2019-12-08,77.89,Tamil Nadu
+Chennai,2019-12-09,77.94,Tamil Nadu
+Chennai,2019-12-10,77.95,Tamil Nadu
+Chennai,2019-12-12,77.9,Tamil Nadu
+Chennai,2019-12-13,77.84,Tamil Nadu
+Chennai,2019-12-14,77.79,Tamil Nadu
+Chennai,2019-12-15,77.68,Tamil Nadu
+Chennai,2019-12-16,77.63,Tamil Nadu
+Chennai,2019-12-17,77.58,Tamil Nadu
+Chennai,2019-12-19,77.56,Tamil Nadu
+Chennai,2019-12-26,77.62,Tamil Nadu
+Chennai,2019-12-27,77.68,Tamil Nadu
+Chennai,2019-12-29,77.83,Tamil Nadu
+Chennai,2019-12-30,78.0,Tamil Nadu
+Chennai,2019-12-31,78.1,Tamil Nadu
+Chennai,2020-01-02,78.24,Tamil Nadu
+Chennai,2020-01-03,78.34,Tamil Nadu
+Chennai,2020-01-04,78.44,Tamil Nadu
+Chennai,2020-01-05,78.54,Tamil Nadu
+Chennai,2020-01-06,78.7,Tamil Nadu
+Chennai,2020-01-07,78.85,Tamil Nadu
+Chennai,2020-01-08,78.75,Tamil Nadu
+Chennai,2020-01-09,78.83,Tamil Nadu
+Chennai,2020-01-10,78.98,Tamil Nadu
+Chennai,2020-01-11,79.04,Tamil Nadu
+Chennai,2020-01-12,78.94,Tamil Nadu
+Chennai,2020-01-13,78.82,Tamil Nadu
+Chennai,2020-01-14,78.72,Tamil Nadu
+Chennai,2020-01-16,78.55,Tamil Nadu
+Chennai,2020-01-17,78.41,Tamil Nadu
+Chennai,2020-01-18,78.25,Tamil Nadu
+Chennai,2020-01-19,78.07,Tamil Nadu
+Chennai,2020-01-20,77.95,Tamil Nadu
+Chennai,2020-01-21,77.79,Tamil Nadu
+Chennai,2020-01-22,77.79,Tamil Nadu
+Chennai,2020-01-23,77.61,Tamil Nadu
+Chennai,2020-01-24,77.39,Tamil Nadu
+Chennai,2020-01-25,77.14,Tamil Nadu
+Chennai,2020-01-26,76.84,Tamil Nadu
+Chennai,2020-01-27,76.62,Tamil Nadu
+Chennai,2020-01-28,76.5,Tamil Nadu
+Chennai,2020-01-29,76.5,Tamil Nadu
+Chennai,2020-01-30,76.26,Tamil Nadu
+Chennai,2020-01-31,76.15,Tamil Nadu
+Chennai,2020-02-01,76.01,Tamil Nadu
+Chennai,2020-02-02,75.91,Tamil Nadu
+Chennai,2020-02-03,75.85,Tamil Nadu
+Chennai,2020-02-04,75.8,Tamil Nadu
+Chennai,2020-02-05,75.8,Tamil Nadu
+Chennai,2020-02-06,75.69,Tamil Nadu
+Chennai,2020-02-07,75.47,Tamil Nadu
+Chennai,2020-02-08,75.23,Tamil Nadu
+Chennai,2020-02-09,75.0,Tamil Nadu
+Chennai,2020-02-10,74.86,Tamil Nadu
+Chennai,2020-02-11,74.69,Tamil Nadu
+Chennai,2020-02-12,74.69,Tamil Nadu
+Chennai,2020-02-13,74.69,Tamil Nadu
+Chennai,2020-02-14,74.69,Tamil Nadu
+Chennai,2020-02-15,74.69,Tamil Nadu
+Chennai,2020-02-17,74.69,Tamil Nadu
+Chennai,2020-02-18,74.64,Tamil Nadu
+Chennai,2020-02-19,74.64,Tamil Nadu
+Chennai,2020-02-20,74.64,Tamil Nadu
+Chennai,2020-02-21,74.64,Tamil Nadu
+Chennai,2020-02-24,74.77,Tamil Nadu
+Chennai,2020-02-25,74.77,Tamil Nadu
+Chennai,2020-02-26,74.77,Tamil Nadu
+Chennai,2020-02-27,74.71,Tamil Nadu
+Chennai,2020-02-28,74.71,Tamil Nadu
+Chennai,2020-02-29,74.64,Tamil Nadu
+Chennai,2020-03-01,74.49,Tamil Nadu
+Chennai,2020-03-02,74.26,Tamil Nadu
+Chennai,2020-03-03,74.21,Tamil Nadu
+Chennai,2020-03-04,74.21,Tamil Nadu
+Chennai,2020-03-05,74.05,Tamil Nadu
+Chennai,2020-03-06,73.89,Tamil Nadu
+Chennai,2020-03-07,73.76,Tamil Nadu
+Chennai,2020-03-08,73.56,Tamil Nadu
+Chennai,2020-03-09,73.31,Tamil Nadu
+Chennai,2020-03-10,73.01,Tamil Nadu
+Chennai,2020-03-11,73.01,Tamil Nadu
+Chennai,2020-03-12,72.84,Tamil Nadu
+Chennai,2020-03-13,72.69,Tamil Nadu
+Chennai,2020-03-14,72.56,Tamil Nadu
+Chennai,2020-03-15,72.43,Tamil Nadu
+Chennai,2020-03-16,72.26,Tamil Nadu
+Chennai,2020-03-17,72.26,Tamil Nadu
+Chennai,2020-03-18,72.26,Tamil Nadu
+Chennai,2020-03-19,72.26,Tamil Nadu
+Chennai,2020-03-20,72.26,Tamil Nadu
+Chennai,2020-03-21,72.26,Tamil Nadu
+Chennai,2020-03-22,72.26,Tamil Nadu
+Chennai,2020-03-23,72.26,Tamil Nadu
+Chennai,2020-03-24,72.26,Tamil Nadu
+Chennai,2020-03-25,72.26,Tamil Nadu
+Chennai,2020-03-26,72.26,Tamil Nadu
+Chennai,2020-03-27,72.26,Tamil Nadu
+Chennai,2020-03-28,72.26,Tamil Nadu
+Chennai,2020-03-29,72.26,Tamil Nadu
+Chennai,2020-03-30,72.26,Tamil Nadu
+Chennai,2020-03-31,72.26,Tamil Nadu
+Chennai,2020-04-01,72.26,Tamil Nadu
+Chennai,2020-04-02,72.26,Tamil Nadu
+Chennai,2020-04-03,72.26,Tamil Nadu
+Chennai,2020-04-04,72.26,Tamil Nadu
+Chennai,2020-04-05,72.26,Tamil Nadu
+Chennai,2020-04-06,72.26,Tamil Nadu
+Chennai,2020-04-07,72.26,Tamil Nadu
+Chennai,2020-04-08,72.26,Tamil Nadu
+Chennai,2020-04-09,72.26,Tamil Nadu
+Chennai,2020-04-10,72.26,Tamil Nadu
+Chennai,2020-04-11,72.26,Tamil Nadu
+Chennai,2020-04-12,72.26,Tamil Nadu
+Chennai,2020-04-13,72.26,Tamil Nadu
+Chennai,2020-04-14,72.26,Tamil Nadu
+Chennai,2020-04-15,72.26,Tamil Nadu
+Chennai,2020-04-16,72.26,Tamil Nadu
+Chennai,2020-04-17,72.26,Tamil Nadu
+Chennai,2020-04-18,72.26,Tamil Nadu
+Chennai,2020-04-20,72.26,Tamil Nadu
+Chennai,2020-04-21,72.26,Tamil Nadu
+Chennai,2020-04-22,72.26,Tamil Nadu
+Chennai,2020-04-23,72.26,Tamil Nadu
+Chennai,2020-04-24,72.26,Tamil Nadu
+Chennai,2020-04-25,72.26,Tamil Nadu
+Chennai,2020-04-26,72.26,Tamil Nadu
+Chennai,2020-04-27,72.26,Tamil Nadu
+Chennai,2020-04-28,72.26,Tamil Nadu
+Chennai,2020-04-29,72.26,Tamil Nadu
+Chennai,2020-04-30,72.26,Tamil Nadu
+Chennai,2020-05-01,72.26,Tamil Nadu
+Chennai,2020-05-02,72.26,Tamil Nadu
+Chennai,2020-05-03,72.26,Tamil Nadu
+Chennai,2020-05-04,72.26,Tamil Nadu
+Chennai,2020-05-05,75.52,Tamil Nadu
+Chennai,2020-05-06,75.52,Tamil Nadu
+Chennai,2020-05-07,75.52,Tamil Nadu
+Chennai,2020-05-08,75.52,Tamil Nadu
+Chennai,2020-05-09,75.52,Tamil Nadu
+Chennai,2020-05-10,75.52,Tamil Nadu
+Chennai,2020-05-11,75.52,Tamil Nadu
+Chennai,2020-05-12,75.52,Tamil Nadu
+Chennai,2020-05-13,75.52,Tamil Nadu
+Chennai,2020-05-14,75.52,Tamil Nadu
+Chennai,2020-05-15,75.52,Tamil Nadu
+Chennai,2020-05-16,75.52,Tamil Nadu
+Chennai,2020-05-17,75.52,Tamil Nadu
+Chennai,2020-05-18,75.52,Tamil Nadu
+Chennai,2020-05-19,75.52,Tamil Nadu
+Chennai,2020-05-20,75.52,Tamil Nadu
+Chennai,2020-05-21,75.52,Tamil Nadu
+Chennai,2020-05-22,75.52,Tamil Nadu
+Chennai,2020-05-23,75.52,Tamil Nadu
+Chennai,2020-05-24,75.52,Tamil Nadu
+Chennai,2020-05-25,75.52,Tamil Nadu
+Chennai,2020-05-26,75.52,Tamil Nadu
+Chennai,2020-05-27,75.52,Tamil Nadu
+Chennai,2020-05-28,75.52,Tamil Nadu
+Chennai,2020-05-29,75.52,Tamil Nadu
+Chennai,2020-05-30,75.52,Tamil Nadu
+Chennai,2020-05-31,75.52,Tamil Nadu
+Chennai,2020-06-01,75.52,Tamil Nadu
+Chennai,2020-06-02,75.52,Tamil Nadu
+Chennai,2020-06-03,75.52,Tamil Nadu
+Chennai,2020-06-04,75.52,Tamil Nadu
+Chennai,2020-06-05,75.52,Tamil Nadu
+Chennai,2020-06-06,75.52,Tamil Nadu
+Chennai,2020-06-07,76.12,Tamil Nadu
+Chennai,2020-06-08,76.72,Tamil Nadu
+Chennai,2020-06-09,77.26,Tamil Nadu
+Chennai,2020-06-10,77.66,Tamil Nadu
+Chennai,2020-06-11,78.26,Tamil Nadu
+Chennai,2020-06-12,78.86,Tamil Nadu
+Chennai,2020-06-13,79.46,Tamil Nadu
+Chennai,2020-06-14,80.06,Tamil Nadu
+Chennai,2020-06-15,79.94,Tamil Nadu
+Chennai,2020-06-16,80.35,Tamil Nadu
+Chennai,2020-06-17,80.84,Tamil Nadu
+Chennai,2020-06-18,81.31,Tamil Nadu
+Chennai,2020-06-19,81.8,Tamil Nadu
+Chennai,2020-06-20,82.25,Tamil Nadu
+Chennai,2020-06-21,82.56,Tamil Nadu
+Chennai,2020-06-22,82.85,Tamil Nadu
+Chennai,2020-06-23,83.02,Tamil Nadu
+Chennai,2020-06-24,83.02,Tamil Nadu
+Chennai,2020-06-25,83.16,Tamil Nadu
+Chennai,2020-06-26,83.35,Tamil Nadu
+Chennai,2020-06-27,83.57,Tamil Nadu
+Chennai,2020-06-28,83.57,Tamil Nadu
+Chennai,2020-06-29,83.62,Tamil Nadu
+Chennai,2020-06-30,83.62,Tamil Nadu
+Chennai,2020-07-01,83.62,Tamil Nadu
+Chennai,2020-07-02,83.62,Tamil Nadu
+Chennai,2020-07-03,83.62,Tamil Nadu
+Chennai,2020-07-04,83.62,Tamil Nadu
+Chennai,2020-07-05,83.62,Tamil Nadu
+Chennai,2020-07-06,83.62,Tamil Nadu
+Chennai,2020-07-07,83.62,Tamil Nadu
+Chennai,2020-07-08,83.62,Tamil Nadu
+Chennai,2020-07-09,83.62,Tamil Nadu
+Chennai,2020-07-10,83.62,Tamil Nadu
+Chennai,2020-07-11,83.62,Tamil Nadu
+Chennai,2020-07-12,83.62,Tamil Nadu
+Chennai,2020-07-13,83.62,Tamil Nadu
+Chennai,2020-07-15,83.62,Tamil Nadu
+Chennai,2020-07-16,83.62,Tamil Nadu
+Chennai,2020-07-17,83.62,Tamil Nadu
+Chennai,2020-07-18,83.62,Tamil Nadu
+Chennai,2020-07-19,83.62,Tamil Nadu
+Chennai,2020-07-20,83.62,Tamil Nadu
+Chennai,2020-07-21,83.62,Tamil Nadu
+Chennai,2020-07-22,83.62,Tamil Nadu
+Chennai,2020-07-23,83.62,Tamil Nadu
+Chennai,2020-07-24,83.62,Tamil Nadu
+Chennai,2020-07-25,83.62,Tamil Nadu
+Chennai,2020-07-26,83.62,Tamil Nadu
+Chennai,2020-07-27,83.62,Tamil Nadu
+Chennai,2020-07-28,83.62,Tamil Nadu
+Chennai,2020-07-29,83.62,Tamil Nadu
+Chennai,2020-07-30,83.62,Tamil Nadu
+Chennai,2020-07-31,83.62,Tamil Nadu
+Chennai,2020-08-01,83.62,Tamil Nadu
+Chennai,2020-08-02,83.62,Tamil Nadu
+Chennai,2020-08-03,83.62,Tamil Nadu
+Chennai,2020-08-04,83.62,Tamil Nadu
+Chennai,2020-08-05,83.62,Tamil Nadu
+Chennai,2020-08-06,83.62,Tamil Nadu
+Chennai,2020-08-07,83.62,Tamil Nadu
+Chennai,2020-08-08,83.62,Tamil Nadu
+Chennai,2020-08-09,83.62,Tamil Nadu
+Chennai,2020-08-10,83.62,Tamil Nadu
+Chennai,2020-08-11,83.62,Tamil Nadu
+Chennai,2020-08-12,83.62,Tamil Nadu
+Chennai,2020-08-13,83.62,Tamil Nadu
+Chennai,2020-08-14,83.62,Tamil Nadu
+Chennai,2020-08-15,83.62,Tamil Nadu
+Chennai,2020-08-16,83.77,Tamil Nadu
+Chennai,2020-08-17,83.91,Tamil Nadu
+Chennai,2020-08-18,84.05,Tamil Nadu
+Chennai,2020-08-19,84.05,Tamil Nadu
+Chennai,2020-08-20,84.14,Tamil Nadu
+Chennai,2020-08-21,84.31,Tamil Nadu
+Chennai,2020-08-22,84.45,Tamil Nadu
+Chennai,2020-08-23,84.57,Tamil Nadu
+Chennai,2020-08-24,84.69,Tamil Nadu
+Chennai,2020-08-25,84.78,Tamil Nadu
+Chennai,2020-08-26,84.78,Tamil Nadu
+Chennai,2020-08-27,84.87,Tamil Nadu
+Chennai,2020-08-28,84.96,Tamil Nadu
+Chennai,2020-08-29,84.96,Tamil Nadu
+Chennai,2020-08-30,85.05,Tamil Nadu
+Chennai,2020-08-31,85.05,Tamil Nadu
+Chennai,2020-09-01,85.09,Tamil Nadu
+Chennai,2020-09-02,85.09,Tamil Nadu
+Chennai,2020-09-03,85.09,Tamil Nadu
+Chennai,2020-09-04,85.09,Tamil Nadu
+Chennai,2020-09-05,85.09,Tamil Nadu
+Chennai,2020-09-06,85.09,Tamil Nadu
+Chennai,2020-09-07,85.09,Tamil Nadu
+Chennai,2020-09-08,85.09,Tamil Nadu
+Chennai,2020-09-09,85.09,Tamil Nadu
+Chennai,2020-09-10,85.01,Tamil Nadu
+Chennai,2020-09-11,85.01,Tamil Nadu
+Chennai,2020-09-12,84.9,Tamil Nadu
+Chennai,2020-09-13,84.9,Tamil Nadu
+Chennai,2020-09-14,84.78,Tamil Nadu
+Chennai,2020-09-15,84.63,Tamil Nadu
+Chennai,2020-09-16,84.63,Tamil Nadu
+Chennai,2020-09-17,84.49,Tamil Nadu
+Chennai,2020-09-18,84.26,Tamil Nadu
+Chennai,2020-09-19,84.26,Tamil Nadu
+Chennai,2020-09-20,84.26,Tamil Nadu
+Chennai,2020-09-21,84.26,Tamil Nadu
+Chennai,2020-09-22,84.19,Tamil Nadu
+Chennai,2020-09-23,84.19,Tamil Nadu
+Chennai,2020-09-24,84.19,Tamil Nadu
+Chennai,2020-09-25,84.19,Tamil Nadu
+Chennai,2020-09-26,84.19,Tamil Nadu
+Chennai,2020-09-27,84.19,Tamil Nadu
+Chennai,2020-09-28,84.19,Tamil Nadu
+Chennai,2020-09-29,84.19,Tamil Nadu
+Chennai,2020-09-30,84.19,Tamil Nadu
+Chennai,2020-10-01,84.19,Tamil Nadu
+Chennai,2020-10-02,84.19,Tamil Nadu
+Chennai,2020-10-03,84.19,Tamil Nadu
+Chennai,2020-10-04,84.19,Tamil Nadu
+Chennai,2020-10-05,84.19,Tamil Nadu
+Chennai,2020-10-06,84.19,Tamil Nadu
+Chennai,2020-10-07,84.19,Tamil Nadu
+Chennai,2020-10-08,84.19,Tamil Nadu
+Chennai,2020-10-09,84.19,Tamil Nadu
+Chennai,2020-10-10,84.19,Tamil Nadu
+Chennai,2020-10-11,84.19,Tamil Nadu
+Chennai,2020-10-12,84.19,Tamil Nadu
+Chennai,2020-10-13,84.19,Tamil Nadu
+Chennai,2020-10-14,84.19,Tamil Nadu
+Chennai,2020-10-15,84.19,Tamil Nadu
+Chennai,2020-10-16,84.19,Tamil Nadu
+Chennai,2020-10-17,84.19,Tamil Nadu
+Chennai,2020-10-18,84.19,Tamil Nadu
+Chennai,2020-10-19,84.19,Tamil Nadu
+Chennai,2020-10-20,84.19,Tamil Nadu
+Chennai,2020-10-21,84.19,Tamil Nadu
+Chennai,2020-10-22,84.19,Tamil Nadu
+Chennai,2020-10-23,84.19,Tamil Nadu
+Chennai,2020-10-24,84.19,Tamil Nadu
+Chennai,2020-10-25,84.19,Tamil Nadu
+Chennai,2020-10-26,84.19,Tamil Nadu
+Chennai,2020-10-27,84.19,Tamil Nadu
+Chennai,2020-10-28,84.19,Tamil Nadu
+Chennai,2020-10-29,84.19,Tamil Nadu
+Chennai,2020-10-30,84.19,Tamil Nadu
+Chennai,2020-10-31,84.19,Tamil Nadu
+Chennai,2020-11-01,84.19,Tamil Nadu
+Chennai,2020-11-02,84.19,Tamil Nadu
+Chennai,2020-11-03,84.19,Tamil Nadu
+Chennai,2020-11-04,84.19,Tamil Nadu
+Chennai,2020-11-05,84.19,Tamil Nadu
+Chennai,2020-11-06,84.19,Tamil Nadu
+Chennai,2020-11-07,84.19,Tamil Nadu
+Chennai,2020-11-08,84.19,Tamil Nadu
+Chennai,2020-11-09,84.19,Tamil Nadu
+Chennai,2020-11-10,84.19,Tamil Nadu
+Chennai,2020-11-11,84.19,Tamil Nadu
+Chennai,2020-11-12,84.19,Tamil Nadu
+Chennai,2020-11-13,84.19,Tamil Nadu
+Chennai,2020-11-14,84.19,Tamil Nadu
+Chennai,2020-11-15,84.19,Tamil Nadu
+Chennai,2020-11-16,84.19,Tamil Nadu
+Chennai,2020-11-17,84.19,Tamil Nadu
+Chennai,2020-11-18,84.19,Tamil Nadu
+Chennai,2020-11-19,84.19,Tamil Nadu
+Chennai,2020-11-20,84.33,Tamil Nadu
+Chennai,2020-11-21,84.45,Tamil Nadu
+Chennai,2020-11-22,84.49,Tamil Nadu
+Chennai,2020-11-23,84.56,Tamil Nadu
+Chennai,2020-11-24,84.61,Tamil Nadu
+Chennai,2020-11-25,84.61,Tamil Nadu
+Chennai,2020-11-26,84.71,Tamil Nadu
+Chennai,2020-11-27,84.87,Tamil Nadu
+Chennai,2020-11-28,85.08,Tamil Nadu
+Chennai,2020-11-29,85.27,Tamil Nadu
+Chennai,2020-11-30,85.27,Tamil Nadu
+Chennai,2020-12-01,85.27,Tamil Nadu
+Chennai,2020-12-02,85.4,Tamil Nadu
+Chennai,2020-12-03,85.55,Tamil Nadu
+Chennai,2020-12-04,85.73,Tamil Nadu
+Chennai,2020-12-05,85.97,Tamil Nadu
+Chennai,2020-12-06,86.21,Tamil Nadu
+Chennai,2020-12-07,86.48,Tamil Nadu
+Chennai,2020-12-08,86.48,Tamil Nadu
+Chennai,2020-12-09,86.48,Tamil Nadu
+Chennai,2020-12-10,86.48,Tamil Nadu
+Chennai,2020-12-11,86.48,Tamil Nadu
+Chennai,2020-12-12,86.48,Tamil Nadu
+Chennai,2020-12-13,86.48,Tamil Nadu
+Chennai,2020-12-14,86.48,Tamil Nadu
+Chennai,2020-12-15,86.48,Tamil Nadu
+Chennai,2020-12-16,86.48,Tamil Nadu
+Chennai,2020-12-17,86.48,Tamil Nadu
+Chennai,2020-12-18,86.48,Tamil Nadu
+Chennai,2020-12-19,86.48,Tamil Nadu
+Chennai,2020-12-20,86.48,Tamil Nadu
+Chennai,2020-12-21,86.48,Tamil Nadu
+Chennai,2020-12-22,86.48,Tamil Nadu
+Chennai,2020-12-23,86.48,Tamil Nadu
+Chennai,2020-12-24,86.48,Tamil Nadu
+Chennai,2020-12-25,86.48,Tamil Nadu
+Chennai,2020-12-26,86.48,Tamil Nadu
+Chennai,2020-12-27,86.48,Tamil Nadu
+Chennai,2020-12-28,86.48,Tamil Nadu
+Chennai,2020-12-29,86.48,Tamil Nadu
+Chennai,2020-12-30,86.48,Tamil Nadu
+Chennai,2020-12-31,86.48,Tamil Nadu
+Mumbai,2002-10-01,34.42,Maharashtra
+Mumbai,2002-10-17,34.95,Maharashtra
+Mumbai,2002-11-01,34.98,Maharashtra
+Mumbai,2002-11-16,34.23,Maharashtra
+Mumbai,2002-12-01,33.63,Maharashtra
+Mumbai,2003-01-03,34.73,Maharashtra
+Mumbai,2003-01-16,35.18,Maharashtra
+Mumbai,2003-02-01,35.58,Maharashtra
+Mumbai,2003-03-01,37.08,Maharashtra
+Mumbai,2003-03-16,38.59,Maharashtra
+Mumbai,2003-04-01,35.25,Maharashtra
+Mumbai,2003-04-16,37.25,Maharashtra
+Mumbai,2003-04-26,36.43,Maharashtra
+Mumbai,2003-05-16,35.25,Maharashtra
+Mumbai,2003-06-01,35.14,Maharashtra
+Mumbai,2003-08-31,37.42,Maharashtra
+Mumbai,2003-10-16,36.66,Maharashtra
+Mumbai,2003-12-12,37.74,Maharashtra
+Mumbai,2003-12-31,38.83,Maharashtra
+Mumbai,2004-06-15,40.96,Maharashtra
+Mumbai,2004-07-31,42.15,Maharashtra
+Mumbai,2004-11-04,44.49,Maharashtra
+Mumbai,2004-11-15,43.23,Maharashtra
+Mumbai,2005-06-20,45.93,Maharashtra
+Mumbai,2005-09-06,49.16,Maharashtra
+Mumbai,2006-06-05,53.5,Maharashtra
+Mumbai,2006-06-20,52.71,Maharashtra
+Mumbai,2006-11-30,50.58,Maharashtra
+Mumbai,2007-02-16,48.45,Maharashtra
+Mumbai,2007-03-01,48.41,Maharashtra
+Mumbai,2007-05-16,48.38,Maharashtra
+Mumbai,2008-02-15,50.51,Maharashtra
+Mumbai,2008-05-24,50.54,Maharashtra
+Mumbai,2008-06-06,55.88,Maharashtra
+Mumbai,2008-07-16,55.04,Maharashtra
+Mumbai,2008-12-06,49.8,Maharashtra
+Mumbai,2009-01-29,44.55,Maharashtra
+Mumbai,2009-07-02,48.76,Maharashtra
+Mumbai,2010-02-27,51.68,Maharashtra
+Mumbai,2010-04-01,52.2,Maharashtra
+Mumbai,2010-06-26,55.88,Maharashtra
+Mumbai,2010-09-08,55.97,Maharashtra
+Mumbai,2010-09-21,56.25,Maharashtra
+Mumbai,2010-10-17,57.01,Maharashtra
+Mumbai,2010-11-09,57.35,Maharashtra
+Mumbai,2010-12-16,60.46,Maharashtra
+Mumbai,2011-01-16,63.08,Maharashtra
+Mumbai,2011-05-15,68.33,Maharashtra
+Mumbai,2011-07-01,68.62,Maharashtra
+Mumbai,2011-09-16,71.92,Maharashtra
+Mumbai,2011-11-04,73.81,Maharashtra
+Mumbai,2011-11-16,71.47,Maharashtra
+Mumbai,2011-12-01,70.65,Maharashtra
+Mumbai,2012-04-01,70.66,Maharashtra
+Mumbai,2012-05-24,78.57,Maharashtra
+Mumbai,2012-06-03,76.45,Maharashtra
+Mumbai,2012-06-29,73.35,Maharashtra
+Mumbai,2012-07-24,74.23,Maharashtra
+Mumbai,2012-07-25,75.14,Maharashtra
+Mumbai,2012-10-09,74.43,Maharashtra
+Mumbai,2012-10-27,74.73,Maharashtra
+Mumbai,2012-11-16,73.53,Maharashtra
+Mumbai,2013-01-01,74.32,Maharashtra
+Mumbai,2013-01-18,74.0,Maharashtra
+Mumbai,2013-02-16,75.89,Maharashtra
+Mumbai,2013-03-02,77.66,Maharashtra
+Mumbai,2013-03-16,75.14,Maharashtra
+Mumbai,2013-04-02,74.14,Maharashtra
+Mumbai,2013-04-16,72.88,Maharashtra
+Mumbai,2013-05-01,69.73,Maharashtra
+Mumbai,2013-05-23,71.13,Maharashtra
+Mumbai,2013-06-01,72.08,Maharashtra
+Mumbai,2013-06-16,74.6,Maharashtra
+Mumbai,2013-06-29,76.9,Maharashtra
+Mumbai,2013-07-15,77.73,Maharashtra
+Mumbai,2013-08-01,78.61,Maharashtra
+Mumbai,2013-09-01,81.57,Maharashtra
+Mumbai,2013-09-14,83.62,Maharashtra
+Mumbai,2013-10-01,79.49,Maharashtra
+Mumbai,2013-11-01,78.04,Maharashtra
+Mumbai,2013-12-21,78.56,Maharashtra
+Mumbai,2014-01-04,81.31,Maharashtra
+Mumbai,2014-03-01,82.07,Maharashtra
+Mumbai,2014-04-01,80.89,Maharashtra
+Mumbai,2014-04-16,80.0,Maharashtra
+Mumbai,2014-06-07,80.11,Maharashtra
+Mumbai,2014-06-25,80.16,Maharashtra
+Mumbai,2014-07-01,81.75,Maharashtra
+Mumbai,2014-08-01,80.6,Maharashtra
+Mumbai,2014-08-15,78.32,Maharashtra
+Mumbai,2014-08-31,76.41,Maharashtra
+Mumbai,2014-10-01,75.73,Maharashtra
+Mumbai,2014-10-15,74.46,Maharashtra
+Mumbai,2014-11-01,71.91,Maharashtra
+Mumbai,2014-12-01,70.95,Maharashtra
+Mumbai,2014-12-16,68.86,Maharashtra
+Mumbai,2015-01-17,66.36,Maharashtra
+Mumbai,2015-02-04,63.9,Maharashtra
+Mumbai,2015-02-16,64.81,Maharashtra
+Mumbai,2015-03-01,68.14,Maharashtra
+Mumbai,2015-04-02,67.53,Maharashtra
+Mumbai,2015-04-15,66.69,Maharashtra
+Mumbai,2015-05-01,70.84,Maharashtra
+Mumbai,2015-05-16,74.12,Maharashtra
+Mumbai,2015-06-16,74.78,Maharashtra
+Mumbai,2015-07-01,74.52,Maharashtra
+Mumbai,2015-07-15,71.97,Maharashtra
+Mumbai,2015-08-01,69.51,Maharashtra
+Mumbai,2015-08-15,68.24,Maharashtra
+Mumbai,2015-09-01,66.23,Maharashtra
+Mumbai,2015-10-01,68.25,Maharashtra
+Mumbai,2015-11-01,67.77,Maharashtra
+Mumbai,2015-11-16,68.13,Maharashtra
+Mumbai,2015-12-01,67.55,Maharashtra
+Mumbai,2015-12-16,67.04,Maharashtra
+Mumbai,2016-01-01,66.4,Maharashtra
+Mumbai,2016-01-16,66.09,Maharashtra
+Mumbai,2016-02-01,66.05,Maharashtra
+Mumbai,2016-02-17,65.73,Maharashtra
+Mumbai,2016-03-01,62.75,Maharashtra
+Mumbai,2016-03-17,65.79,Maharashtra
+Mumbai,2016-04-05,67.96,Maharashtra
+Mumbai,2016-04-09,66.39,Maharashtra
+Mumbai,2016-04-16,65.63,Maharashtra
+Mumbai,2016-05-01,66.71,Maharashtra
+Mumbai,2016-05-17,66.12,Maharashtra
+Mumbai,2016-06-01,70.18,Maharashtra
+Mumbai,2016-06-16,70.23,Maharashtra
+Mumbai,2016-07-01,69.32,Maharashtra
+Mumbai,2016-07-15,67.1,Maharashtra
+Mumbai,2016-08-01,65.69,Maharashtra
+Mumbai,2016-08-15,65.03,Maharashtra
+Mumbai,2016-09-01,68.38,Maharashtra
+Mumbai,2016-09-15,69.13,Maharashtra
+Mumbai,2016-10-01,71.01,Maharashtra
+Mumbai,2016-10-05,71.13,Maharashtra
+Mumbai,2016-10-15,72.84,Maharashtra
+Mumbai,2016-11-06,74.0,Maharashtra
+Mumbai,2016-11-16,72.45,Maharashtra
+Mumbai,2016-12-01,72.62,Maharashtra
+Mumbai,2016-12-17,75.43,Maharashtra
+Mumbai,2017-01-01,77.08,Maharashtra
+Mumbai,2017-01-16,77.61,Maharashtra
+Mumbai,2017-04-01,72.81,Maharashtra
+Mumbai,2017-04-16,74.57,Maharashtra
+Mumbai,2017-04-22,77.6,Maharashtra
+Mumbai,2017-05-01,77.62,Maharashtra
+Mumbai,2017-05-16,74.89,Maharashtra
+Mumbai,2017-06-01,78.49,Maharashtra
+Mumbai,2017-06-16,76.75,Maharashtra
+Mumbai,2017-06-19,75.93,Maharashtra
+Mumbai,2017-06-20,75.78,Maharashtra
+Mumbai,2017-06-21,75.83,Maharashtra
+Mumbai,2017-06-22,75.68,Maharashtra
+Mumbai,2017-06-23,75.46,Maharashtra
+Mumbai,2017-06-26,74.84,Maharashtra
+Mumbai,2017-06-27,74.71,Maharashtra
+Mumbai,2017-06-28,74.75,Maharashtra
+Mumbai,2017-06-29,74.71,Maharashtra
+Mumbai,2017-06-30,74.6,Maharashtra
+Mumbai,2017-07-03,74.39,Maharashtra
+Mumbai,2017-07-04,74.3,Maharashtra
+Mumbai,2017-07-05,74.34,Maharashtra
+Mumbai,2017-07-06,74.41,Maharashtra
+Mumbai,2017-07-07,74.54,Maharashtra
+Mumbai,2017-07-10,75.08,Maharashtra
+Mumbai,2017-07-11,73.27,Maharashtra
+Mumbai,2017-07-12,73.31,Maharashtra
+Mumbai,2017-07-13,73.25,Maharashtra
+Mumbai,2017-07-14,73.23,Maharashtra
+Mumbai,2017-07-17,73.53,Maharashtra
+Mumbai,2017-07-18,73.54,Maharashtra
+Mumbai,2017-07-19,73.59,Maharashtra
+Mumbai,2017-07-20,73.63,Maharashtra
+Mumbai,2017-07-21,73.61,Maharashtra
+Mumbai,2017-07-24,73.91,Maharashtra
+Mumbai,2017-07-25,73.95,Maharashtra
+Mumbai,2017-07-26,73.91,Maharashtra
+Mumbai,2017-07-27,73.92,Maharashtra
+Mumbai,2017-07-28,74.02,Maharashtra
+Mumbai,2017-07-31,74.58,Maharashtra
+Mumbai,2017-08-01,74.6,Maharashtra
+Mumbai,2017-08-02,74.63,Maharashtra
+Mumbai,2017-08-04,75.15,Maharashtra
+Mumbai,2017-08-07,75.85,Maharashtra
+Mumbai,2017-08-08,75.89,Maharashtra
+Mumbai,2017-08-09,75.96,Maharashtra
+Mumbai,2017-08-10,76.1,Maharashtra
+Mumbai,2017-08-11,76.41,Maharashtra
+Mumbai,2017-08-14,77.13,Maharashtra
+Mumbai,2017-08-16,77.27,Maharashtra
+Mumbai,2017-08-17,77.37,Maharashtra
+Mumbai,2017-08-18,77.42,Maharashtra
+Mumbai,2017-08-21,77.71,Maharashtra
+Mumbai,2017-08-22,77.79,Maharashtra
+Mumbai,2017-08-23,77.9,Maharashtra
+Mumbai,2017-08-24,78.0,Maharashtra
+Mumbai,2017-08-28,78.26,Maharashtra
+Mumbai,2017-08-29,78.24,Maharashtra
+Mumbai,2017-08-30,78.29,Maharashtra
+Mumbai,2017-08-31,78.31,Maharashtra
+Mumbai,2017-09-01,78.38,Maharashtra
+Mumbai,2017-09-04,78.75,Maharashtra
+Mumbai,2017-09-05,78.82,Maharashtra
+Mumbai,2017-09-07,78.92,Maharashtra
+Mumbai,2017-09-08,79.0,Maharashtra
+Mumbai,2017-09-11,79.39,Maharashtra
+Mumbai,2017-09-12,79.48,Maharashtra
+Mumbai,2017-09-13,79.46,Maharashtra
+Mumbai,2017-09-14,79.5,Maharashtra
+Mumbai,2017-09-15,79.54,Maharashtra
+Mumbai,2017-09-19,79.6,Maharashtra
+Mumbai,2017-09-20,79.63,Maharashtra
+Mumbai,2017-09-21,79.6,Maharashtra
+Mumbai,2017-09-22,79.58,Maharashtra
+Mumbai,2017-09-25,79.49,Maharashtra
+Mumbai,2017-09-26,79.52,Maharashtra
+Mumbai,2017-09-27,79.49,Maharashtra
+Mumbai,2017-09-28,79.57,Maharashtra
+Mumbai,2017-09-29,79.67,Maharashtra
+Mumbai,2017-10-03,79.92,Maharashtra
+Mumbai,2017-10-04,77.51,Maharashtra
+Mumbai,2017-10-05,77.47,Maharashtra
+Mumbai,2017-10-06,77.49,Maharashtra
+Mumbai,2017-10-09,77.54,Maharashtra
+Mumbai,2017-10-10,77.58,Maharashtra
+Mumbai,2017-10-11,75.59,Maharashtra
+Mumbai,2017-10-12,75.53,Maharashtra
+Mumbai,2017-10-13,75.55,Maharashtra
+Mumbai,2017-10-16,75.37,Maharashtra
+Mumbai,2017-10-17,75.34,Maharashtra
+Mumbai,2017-10-18,75.38,Maharashtra
+Mumbai,2017-10-24,75.68,Maharashtra
+Mumbai,2017-10-25,75.73,Maharashtra
+Mumbai,2017-10-26,75.76,Maharashtra
+Mumbai,2017-10-30,76.14,Maharashtra
+Mumbai,2017-10-31,76.24,Maharashtra
+Mumbai,2017-11-01,76.25,Maharashtra
+Mumbai,2017-11-02,76.36,Maharashtra
+Mumbai,2017-11-03,76.45,Maharashtra
+Mumbai,2017-11-06,76.87,Maharashtra
+Mumbai,2017-11-07,76.9,Maharashtra
+Mumbai,2017-11-09,76.95,Maharashtra
+Mumbai,2017-11-10,77.03,Maharashtra
+Mumbai,2017-11-13,76.96,Maharashtra
+Mumbai,2017-11-14,76.83,Maharashtra
+Mumbai,2017-11-15,76.78,Maharashtra
+Mumbai,2017-11-16,76.75,Maharashtra
+Mumbai,2017-11-17,76.71,Maharashtra
+Mumbai,2017-11-20,76.69,Maharashtra
+Mumbai,2017-11-21,76.63,Maharashtra
+Mumbai,2017-11-22,76.58,Maharashtra
+Mumbai,2017-11-23,76.54,Maharashtra
+Mumbai,2017-11-24,76.52,Maharashtra
+Mumbai,2017-11-27,76.6,Maharashtra
+Mumbai,2017-11-28,76.52,Maharashtra
+Mumbai,2017-11-29,76.6,Maharashtra
+Mumbai,2017-11-30,76.52,Maharashtra
+Mumbai,2017-12-05,76.67,Maharashtra
+Mumbai,2017-12-06,76.6,Maharashtra
+Mumbai,2017-12-07,76.61,Maharashtra
+Mumbai,2017-12-11,76.7,Maharashtra
+Mumbai,2017-12-12,76.64,Maharashtra
+Mumbai,2017-12-13,76.66,Maharashtra
+Mumbai,2017-12-14,76.69,Maharashtra
+Mumbai,2017-12-15,76.78,Maharashtra
+Mumbai,2017-12-18,77.14,Maharashtra
+Mumbai,2017-12-19,77.25,Maharashtra
+Mumbai,2017-12-20,77.33,Maharashtra
+Mumbai,2017-12-21,77.32,Maharashtra
+Mumbai,2017-12-22,77.4,Maharashtra
+Mumbai,2017-12-26,77.61,Maharashtra
+Mumbai,2017-12-27,77.62,Maharashtra
+Mumbai,2017-12-28,77.71,Maharashtra
+Mumbai,2017-12-29,77.8,Maharashtra
+Mumbai,2018-01-01,77.94,Maharashtra
+Mumbai,2018-01-02,77.87,Maharashtra
+Mumbai,2018-01-03,77.94,Maharashtra
+Mumbai,2018-01-05,77.96,Maharashtra
+Mumbai,2018-01-08,78.39,Maharashtra
+Mumbai,2018-01-09,78.44,Maharashtra
+Mumbai,2018-01-10,78.51,Maharashtra
+Mumbai,2018-01-11,78.55,Maharashtra
+Mumbai,2018-01-12,78.61,Maharashtra
+Mumbai,2018-01-15,79.04,Maharashtra
+Mumbai,2018-01-16,79.13,Maharashtra
+Mumbai,2018-01-17,79.25,Maharashtra
+Mumbai,2018-01-18,79.42,Maharashtra
+Mumbai,2018-01-19,79.56,Maharashtra
+Mumbai,2018-01-22,80.08,Maharashtra
+Mumbai,2018-01-23,80.23,Maharashtra
+Mumbai,2018-01-24,80.28,Maharashtra
+Mumbai,2018-01-25,80.34,Maharashtra
+Mumbai,2018-01-29,80.69,Maharashtra
+Mumbai,2018-01-30,80.77,Maharashtra
+Mumbai,2018-02-01,80.89,Maharashtra
+Mumbai,2018-02-02,80.94,Maharashtra
+Mumbai,2018-02-05,81.15,Maharashtra
+Mumbai,2018-02-06,81.22,Maharashtra
+Mumbai,2018-02-08,81.21,Maharashtra
+Mumbai,2018-02-09,81.19,Maharashtra
+Mumbai,2018-02-12,80.85,Maharashtra
+Mumbai,2018-02-13,80.79,Maharashtra
+Mumbai,2018-02-15,80.64,Maharashtra
+Mumbai,2018-02-16,80.37,Maharashtra
+Mumbai,2018-02-19,79.78,Maharashtra
+Mumbai,2018-02-20,79.59,Maharashtra
+Mumbai,2018-02-21,79.58,Maharashtra
+Mumbai,2018-02-22,79.56,Maharashtra
+Mumbai,2018-02-23,79.47,Maharashtra
+Mumbai,2018-02-26,79.39,Maharashtra
+Mumbai,2018-02-27,79.37,Maharashtra
+Mumbai,2018-03-01,79.5,Maharashtra
+Mumbai,2018-03-02,79.68,Maharashtra
+Mumbai,2018-03-05,80.24,Maharashtra
+Mumbai,2018-03-06,80.31,Maharashtra
+Mumbai,2018-03-09,80.35,Maharashtra
+Mumbai,2018-03-12,80.37,Maharashtra
+Mumbai,2018-03-13,80.39,Maharashtra
+Mumbai,2018-03-15,80.37,Maharashtra
+Mumbai,2018-03-16,80.29,Maharashtra
+Mumbai,2018-03-19,80.11,Maharashtra
+Mumbai,2018-03-20,80.12,Maharashtra
+Mumbai,2018-03-22,80.18,Maharashtra
+Mumbai,2018-03-23,80.22,Maharashtra
+Mumbai,2018-03-26,80.71,Maharashtra
+Mumbai,2018-03-27,80.82,Maharashtra
+Mumbai,2018-03-29,80.99,Maharashtra
+Mumbai,2018-03-30,81.22,Maharashtra
+Mumbai,2018-04-02,81.71,Maharashtra
+Mumbai,2018-04-03,81.84,Maharashtra
+Mumbai,2018-04-05,81.87,Maharashtra
+Mumbai,2018-04-09,81.88,Maharashtra
+Mumbai,2018-04-10,81.87,Maharashtra
+Mumbai,2018-04-12,81.83,Maharashtra
+Mumbai,2018-04-13,81.8,Maharashtra
+Mumbai,2018-04-16,81.91,Maharashtra
+Mumbai,2018-04-19,81.96,Maharashtra
+Mumbai,2018-04-20,81.97,Maharashtra
+Mumbai,2018-04-23,82.39,Maharashtra
+Mumbai,2018-04-24,82.52,Maharashtra
+Mumbai,2018-05-14,82.68,Maharashtra
+Mumbai,2018-05-15,82.83,Maharashtra
+Mumbai,2018-05-16,82.98,Maharashtra
+Mumbai,2018-05-17,83.2,Maharashtra
+Mumbai,2018-05-18,82.68,Maharashtra
+Mumbai,2018-05-21,84.44,Maharashtra
+Mumbai,2018-05-22,84.73,Maharashtra
+Mumbai,2018-05-23,85.03,Maharashtra
+Mumbai,2018-05-24,85.33,Maharashtra
+Mumbai,2018-05-25,85.68,Maharashtra
+Mumbai,2018-05-26,85.82,Maharashtra
+Mumbai,2018-05-27,85.97,Maharashtra
+Mumbai,2018-05-28,86.12,Maharashtra
+Mumbai,2018-05-29,86.28,Maharashtra
+Mumbai,2018-05-31,86.2,Maharashtra
+Mumbai,2018-06-01,86.14,Maharashtra
+Mumbai,2018-06-02,86.05,Maharashtra
+Mumbai,2018-06-03,85.96,Maharashtra
+Mumbai,2018-06-04,85.81,Maharashtra
+Mumbai,2018-06-05,85.68,Maharashtra
+Mumbai,2018-06-06,85.57,Maharashtra
+Mumbai,2018-06-07,85.49,Maharashtra
+Mumbai,2018-06-08,85.28,Maharashtra
+Mumbai,2018-06-09,84.88,Maharashtra
+Mumbai,2018-06-10,84.64,Maharashtra
+Mumbai,2018-06-11,84.45,Maharashtra
+Mumbai,2018-06-12,84.3,Maharashtra
+Mumbai,2018-06-15,84.22,Maharashtra
+Mumbai,2018-06-19,84.1,Maharashtra
+Mumbai,2018-06-21,83.95,Maharashtra
+Mumbai,2018-06-22,83.78,Maharashtra
+Mumbai,2018-06-23,83.65,Maharashtra
+Mumbai,2018-06-24,83.47,Maharashtra
+Mumbai,2018-06-25,83.34,Maharashtra
+Mumbai,2018-06-26,83.16,Maharashtra
+Mumbai,2018-07-02,82.98,Maharashtra
+Mumbai,2018-07-05,83.14,Maharashtra
+Mumbai,2018-07-06,83.28,Maharashtra
+Mumbai,2018-07-09,83.78,Maharashtra
+Mumbai,2018-07-10,83.95,Maharashtra
+Mumbai,2018-07-12,84.01,Maharashtra
+Mumbai,2018-07-13,84.18,Maharashtra
+Mumbai,2018-07-16,84.26,Maharashtra
+Mumbai,2018-07-20,84.1,Maharashtra
+Mumbai,2018-07-23,83.78,Maharashtra
+Mumbai,2018-07-24,83.71,Maharashtra
+Mumbai,2018-07-30,83.73,Maharashtra
+Mumbai,2018-07-31,83.79,Maharashtra
+Mumbai,2018-08-02,83.91,Maharashtra
+Mumbai,2018-08-03,83.98,Maharashtra
+Mumbai,2018-08-06,84.45,Maharashtra
+Mumbai,2018-08-07,84.54,Maharashtra
+Mumbai,2018-08-13,84.62,Maharashtra
+Mumbai,2018-08-16,84.66,Maharashtra
+Mumbai,2018-08-20,84.96,Maharashtra
+Mumbai,2018-08-21,85.05,Maharashtra
+Mumbai,2018-08-24,85.14,Maharashtra
+Mumbai,2018-08-25,77.62,Maharashtra
+Mumbai,2018-08-26,77.7,Maharashtra
+Mumbai,2018-08-27,85.38,Maharashtra
+Mumbai,2018-08-28,85.52,Maharashtra
+Mumbai,2018-08-29,85.65,Maharashtra
+Mumbai,2018-08-30,85.77,Maharashtra
+Mumbai,2018-08-31,85.98,Maharashtra
+Mumbai,2018-09-03,86.65,Maharashtra
+Mumbai,2018-09-04,86.8,Maharashtra
+Mumbai,2018-09-06,87.0,Maharashtra
+Mumbai,2018-09-07,87.48,Maharashtra
+Mumbai,2018-09-10,88.21,Maharashtra
+Mumbai,2018-09-11,88.35,Maharashtra
+Mumbai,2018-09-13,88.48,Maharashtra
+Mumbai,2018-09-14,88.75,Maharashtra
+Mumbai,2018-09-15,89.1,Maharashtra
+Mumbai,2018-09-16,89.38,Maharashtra
+Mumbai,2018-09-17,89.53,Maharashtra
+Mumbai,2018-09-18,89.63,Maharashtra
+Mumbai,2018-09-20,89.68,Maharashtra
+Mumbai,2018-09-21,89.78,Maharashtra
+Mumbai,2018-09-23,90.06,Maharashtra
+Mumbai,2018-09-24,90.17,Maharashtra
+Mumbai,2018-09-25,90.3,Maharashtra
+Mumbai,2018-09-27,90.44,Maharashtra
+Mumbai,2018-09-28,90.66,Maharashtra
+Mumbai,2018-09-30,90.93,Maharashtra
+Mumbai,2018-10-01,91.15,Maharashtra
+Mumbai,2018-10-02,91.26,Maharashtra
+Mumbai,2018-10-04,91.39,Maharashtra
+Mumbai,2018-10-05,87.02,Maharashtra
+Mumbai,2018-10-06,87.2,Maharashtra
+Mumbai,2018-10-07,87.34,Maharashtra
+Mumbai,2018-10-08,87.55,Maharashtra
+Mumbai,2018-10-09,87.78,Maharashtra
+Mumbai,2018-10-11,87.88,Maharashtra
+Mumbai,2018-10-12,87.99,Maharashtra
+Mumbai,2018-10-13,88.17,Maharashtra
+Mumbai,2018-10-14,88.23,Maharashtra
+Mumbai,2018-10-16,88.34,Maharashtra
+Mumbai,2018-10-18,88.13,Maharashtra
+Mumbai,2018-10-19,87.89,Maharashtra
+Mumbai,2018-10-20,87.51,Maharashtra
+Mumbai,2018-10-22,86.96,Maharashtra
+Mumbai,2018-10-23,86.87,Maharashtra
+Mumbai,2018-10-24,86.78,Maharashtra
+Mumbai,2018-10-25,86.63,Maharashtra
+Mumbai,2018-10-26,86.38,Maharashtra
+Mumbai,2018-10-29,85.29,Maharashtra
+Mumbai,2018-10-30,85.09,Maharashtra
+Mumbai,2018-11-01,84.92,Maharashtra
+Mumbai,2018-11-02,84.74,Maharashtra
+Mumbai,2018-11-05,84.15,Maharashtra
+Mumbai,2018-11-06,84.01,Maharashtra
+Mumbai,2018-11-12,83.16,Maharashtra
+Mumbai,2018-11-13,83.03,Maharashtra
+Mumbai,2018-11-15,82.88,Maharashtra
+Mumbai,2018-11-16,82.71,Maharashtra
+Mumbai,2018-11-19,82.13,Maharashtra
+Mumbai,2018-11-20,81.99,Maharashtra
+Mumbai,2018-11-22,81.59,Maharashtra
+Mumbai,2018-11-23,81.19,Maharashtra
+Mumbai,2018-11-26,80.12,Maharashtra
+Mumbai,2018-11-27,79.71,Maharashtra
+Mumbai,2018-11-28,79.21,Maharashtra
+Mumbai,2018-11-29,78.89,Maharashtra
+Mumbai,2018-11-30,78.52,Maharashtra
+Mumbai,2018-12-01,78.17,Maharashtra
+Mumbai,2018-12-02,77.86,Maharashtra
+Mumbai,2018-12-03,77.55,Maharashtra
+Mumbai,2018-12-04,77.34,Maharashtra
+Mumbai,2018-12-06,76.95,Maharashtra
+Mumbai,2018-12-07,76.55,Maharashtra
+Mumbai,2018-12-10,75.95,Maharashtra
+Mumbai,2018-12-11,75.79,Maharashtra
+Mumbai,2018-12-13,75.88,Maharashtra
+Mumbai,2018-12-17,76.11,Maharashtra
+Mumbai,2018-12-18,76.21,Maharashtra
+Mumbai,2018-12-21,76.04,Maharashtra
+Mumbai,2018-12-24,75.45,Maharashtra
+Mumbai,2018-12-25,75.38,Maharashtra
+Mumbai,2018-12-27,75.33,Maharashtra
+Mumbai,2018-12-28,75.14,Maharashtra
+Mumbai,2018-12-31,74.44,Maharashtra
+Mumbai,2019-01-02,74.34,Maharashtra
+Mumbai,2019-01-04,74.13,Maharashtra
+Mumbai,2019-01-07,74.19,Maharashtra
+Mumbai,2019-01-10,74.57,Maharashtra
+Mumbai,2019-01-11,74.76,Maharashtra
+Mumbai,2019-01-14,75.81,Maharashtra
+Mumbai,2019-01-16,76.01,Maharashtra
+Mumbai,2019-01-17,76.14,Maharashtra
+Mumbai,2019-01-18,76.22,Maharashtra
+Mumbai,2019-01-21,76.81,Maharashtra
+Mumbai,2019-01-22,76.94,Maharashtra
+Mumbai,2019-01-29,76.86,Maharashtra
+Mumbai,2019-01-31,76.76,Maharashtra
+Mumbai,2019-02-01,76.52,Maharashtra
+Mumbai,2019-02-05,76.03,Maharashtra
+Mumbai,2019-02-08,75.97,Maharashtra
+Mumbai,2019-02-11,75.92,Maharashtra
+Mumbai,2019-02-14,75.98,Maharashtra
+Mumbai,2019-02-15,76.04,Maharashtra
+Mumbai,2019-02-18,76.49,Maharashtra
+Mumbai,2019-02-19,76.59,Maharashtra
+Mumbai,2019-02-22,76.88,Maharashtra
+Mumbai,2019-02-25,77.15,Maharashtra
+Mumbai,2019-02-26,77.24,Maharashtra
+Mumbai,2019-02-28,77.31,Maharashtra
+Mumbai,2019-03-01,77.42,Maharashtra
+Mumbai,2019-03-04,77.77,Maharashtra
+Mumbai,2019-03-05,77.84,Maharashtra
+Mumbai,2019-03-11,78.06,Maharashtra
+Mumbai,2019-03-12,78.01,Maharashtra
+Mumbai,2019-03-14,78.08,Maharashtra
+Mumbai,2019-03-15,78.15,Maharashtra
+Mumbai,2019-03-18,78.38,Maharashtra
+Mumbai,2019-03-21,78.31,Maharashtra
+Mumbai,2019-03-22,78.36,Maharashtra
+Mumbai,2019-03-23,78.41,Maharashtra
+Mumbai,2019-03-24,78.46,Maharashtra
+Mumbai,2019-03-28,78.41,Maharashtra
+Mumbai,2019-04-01,78.48,Maharashtra
+Mumbai,2019-04-05,78.53,Maharashtra
+Mumbai,2019-04-08,78.47,Maharashtra
+Mumbai,2019-04-09,78.42,Maharashtra
+Mumbai,2019-04-12,78.48,Maharashtra
+Mumbai,2019-04-15,78.6,Maharashtra
+Mumbai,2019-04-16,78.55,Maharashtra
+Mumbai,2019-04-20,78.62,Maharashtra
+Mumbai,2019-04-22,78.57,Maharashtra
+Mumbai,2019-04-25,78.64,Maharashtra
+Mumbai,2019-04-27,78.7,Maharashtra
+Mumbai,2019-04-30,78.75,Maharashtra
+Mumbai,2019-05-02,78.69,Maharashtra
+Mumbai,2019-05-04,78.7,Maharashtra
+Mumbai,2019-05-05,78.64,Maharashtra
+Mumbai,2019-05-06,78.57,Maharashtra
+Mumbai,2019-05-09,78.41,Maharashtra
+Mumbai,2019-05-10,78.2,Maharashtra
+Mumbai,2019-05-11,77.73,Maharashtra
+Mumbai,2019-05-12,77.31,Maharashtra
+Mumbai,2019-05-13,77.01,Maharashtra
+Mumbai,2019-05-14,76.77,Maharashtra
+Mumbai,2019-05-17,76.69,Maharashtra
+Mumbai,2019-05-18,76.62,Maharashtra
+Mumbai,2019-05-20,76.71,Maharashtra
+Mumbai,2019-05-21,76.76,Maharashtra
+Mumbai,2019-05-23,76.84,Maharashtra
+Mumbai,2019-05-24,76.98,Maharashtra
+Mumbai,2019-05-25,77.11,Maharashtra
+Mumbai,2019-05-26,77.25,Maharashtra
+Mumbai,2019-05-27,77.35,Maharashtra
+Mumbai,2019-05-28,77.44,Maharashtra
+Mumbai,2019-05-30,77.38,Maharashtra
+Mumbai,2019-05-31,77.31,Maharashtra
+Mumbai,2019-06-01,77.28,Maharashtra
+Mumbai,2019-06-02,77.16,Maharashtra
+Mumbai,2019-06-03,76.96,Maharashtra
+Mumbai,2019-06-04,76.89,Maharashtra
+Mumbai,2019-06-06,76.73,Maharashtra
+Mumbai,2019-06-07,76.6,Maharashtra
+Mumbai,2019-06-10,76.1,Maharashtra
+Mumbai,2019-06-13,76.02,Maharashtra
+Mumbai,2019-06-14,75.85,Maharashtra
+Mumbai,2019-06-15,75.66,Maharashtra
+Mumbai,2019-06-16,75.6,Maharashtra
+Mumbai,2019-06-24,75.72,Maharashtra
+Mumbai,2019-06-27,75.79,Maharashtra
+Mumbai,2019-06-28,75.84,Maharashtra
+Mumbai,2019-06-29,75.95,Maharashtra
+Mumbai,2019-06-30,76.04,Maharashtra
+Mumbai,2019-07-01,76.13,Maharashtra
+Mumbai,2019-07-02,76.2,Maharashtra
+Mumbai,2019-07-06,78.62,Maharashtra
+Mumbai,2019-07-09,78.57,Maharashtra
+Mumbai,2019-07-13,78.66,Maharashtra
+Mumbai,2019-07-14,78.75,Maharashtra
+Mumbai,2019-07-15,78.87,Maharashtra
+Mumbai,2019-07-16,78.93,Maharashtra
+Mumbai,2019-07-18,79.01,Maharashtra
+Mumbai,2019-07-23,79.07,Maharashtra
+Mumbai,2019-07-25,79.01,Maharashtra
+Mumbai,2019-07-26,78.95,Maharashtra
+Mumbai,2019-07-27,78.9,Maharashtra
+Mumbai,2019-07-28,78.81,Maharashtra
+Mumbai,2019-07-29,78.66,Maharashtra
+Mumbai,2019-07-30,78.53,Maharashtra
+Mumbai,2019-08-01,78.47,Maharashtra
+Mumbai,2019-08-02,78.31,Maharashtra
+Mumbai,2019-08-03,78.24,Maharashtra
+Mumbai,2019-08-04,78.14,Maharashtra
+Mumbai,2019-08-05,77.99,Maharashtra
+Mumbai,2019-08-06,77.9,Maharashtra
+Mumbai,2019-08-08,77.85,Maharashtra
+Mumbai,2019-08-09,77.71,Maharashtra
+Mumbai,2019-08-11,77.62,Maharashtra
+Mumbai,2019-08-18,77.54,Maharashtra
+Mumbai,2019-08-19,77.47,Maharashtra
+Mumbai,2019-08-24,77.55,Maharashtra
+Mumbai,2019-08-25,77.62,Maharashtra
+Mumbai,2019-08-26,77.7,Maharashtra
+Mumbai,2019-08-27,77.7,Maharashtra
+Mumbai,2019-08-29,77.64,Maharashtra
+Mumbai,2019-09-05,77.61,Maharashtra
+Mumbai,2019-09-06,77.52,Maharashtra
+Mumbai,2019-09-07,77.43,Maharashtra
+Mumbai,2019-09-08,77.37,Maharashtra
+Mumbai,2019-09-10,77.42,Maharashtra
+Mumbai,2019-09-12,77.48,Maharashtra
+Mumbai,2019-09-13,77.55,Maharashtra
+Mumbai,2019-09-14,77.63,Maharashtra
+Mumbai,2019-09-15,77.69,Maharashtra
+Mumbai,2019-09-17,77.83,Maharashtra
+Mumbai,2019-09-18,78.07,Maharashtra
+Mumbai,2019-09-19,78.36,Maharashtra
+Mumbai,2019-09-20,78.71,Maharashtra
+Mumbai,2019-09-21,78.99,Maharashtra
+Mumbai,2019-09-22,79.26,Maharashtra
+Mumbai,2019-09-23,79.55,Maharashtra
+Mumbai,2019-09-24,79.77,Maharashtra
+Mumbai,2019-09-26,79.83,Maharashtra
+Mumbai,2019-09-27,79.97,Maharashtra
+Mumbai,2019-09-30,80.05,Maharashtra
+Mumbai,2019-10-01,80.27,Maharashtra
+Mumbai,2019-10-03,80.17,Maharashtra
+Mumbai,2019-10-04,79.99,Maharashtra
+Mumbai,2019-10-05,79.7,Maharashtra
+Mumbai,2019-10-07,79.43,Maharashtra
+Mumbai,2019-10-08,79.26,Maharashtra
+Mumbai,2019-10-10,79.21,Maharashtra
+Mumbai,2019-10-11,79.09,Maharashtra
+Mumbai,2019-10-12,78.99,Maharashtra
+Mumbai,2019-10-15,78.94,Maharashtra
+Mumbai,2019-10-22,78.89,Maharashtra
+Mumbai,2019-10-24,78.84,Maharashtra
+Mumbai,2019-10-25,78.73,Maharashtra
+Mumbai,2019-10-26,78.65,Maharashtra
+Mumbai,2019-10-29,78.59,Maharashtra
+Mumbai,2019-11-01,78.48,Maharashtra
+Mumbai,2019-11-02,78.4,Maharashtra
+Mumbai,2019-11-03,78.35,Maharashtra
+Mumbai,2019-11-04,78.27,Maharashtra
+Mumbai,2019-11-05,78.22,Maharashtra
+Mumbai,2019-11-08,78.32,Maharashtra
+Mumbai,2019-11-09,78.47,Maharashtra
+Mumbai,2019-11-10,78.67,Maharashtra
+Mumbai,2019-11-11,78.81,Maharashtra
+Mumbai,2019-11-13,78.91,Maharashtra
+Mumbai,2019-11-14,79.06,Maharashtra
+Mumbai,2019-11-15,79.24,Maharashtra
+Mumbai,2019-11-16,79.38,Maharashtra
+Mumbai,2019-11-17,79.5,Maharashtra
+Mumbai,2019-11-18,79.66,Maharashtra
+Mumbai,2019-11-19,79.8,Maharashtra
+Mumbai,2019-11-22,79.95,Maharashtra
+Mumbai,2019-11-23,80.04,Maharashtra
+Mumbai,2019-11-24,80.14,Maharashtra
+Mumbai,2019-11-25,80.26,Maharashtra
+Mumbai,2019-11-26,80.36,Maharashtra
+Mumbai,2019-11-29,80.41,Maharashtra
+Mumbai,2019-11-30,80.463,Maharashtra
+Mumbai,2019-12-01,80.58,Maharashtra
+Mumbai,2019-12-07,80.49,Maharashtra
+Mumbai,2019-12-08,80.58,Maharashtra
+Mumbai,2019-12-09,80.63,Maharashtra
+Mumbai,2019-12-12,80.58,Maharashtra
+Mumbai,2019-12-13,80.52,Maharashtra
+Mumbai,2019-12-14,80.48,Maharashtra
+Mumbai,2019-12-15,80.38,Maharashtra
+Mumbai,2019-12-16,80.33,Maharashtra
+Mumbai,2019-12-17,80.28,Maharashtra
+Mumbai,2019-12-19,80.27,Maharashtra
+Mumbai,2019-12-26,80.32,Maharashtra
+Mumbai,2019-12-27,80.38,Maharashtra
+Mumbai,2019-12-29,80.51,Maharashtra
+Mumbai,2019-12-30,80.67,Maharashtra
+Mumbai,2019-12-31,80.77,Maharashtra
+Mumbai,2020-01-02,80.9,Maharashtra
+Mumbai,2020-01-03,81.0,Maharashtra
+Mumbai,2020-01-04,81.1,Maharashtra
+Mumbai,2020-01-05,81.19,Maharashtra
+Mumbai,2020-01-06,81.34,Maharashtra
+Mumbai,2020-01-07,81.49,Maharashtra
+Mumbai,2020-01-08,81.39,Maharashtra
+Mumbai,2020-01-09,81.45,Maharashtra
+Mumbai,2020-01-10,81.6,Maharashtra
+Mumbai,2020-01-11,81.65,Maharashtra
+Mumbai,2020-01-12,81.55,Maharashtra
+Mumbai,2020-01-13,81.44,Maharashtra
+Mumbai,2020-01-14,81.34,Maharashtra
+Mumbai,2020-01-16,81.2,Maharashtra
+Mumbai,2020-01-17,81.06,Maharashtra
+Mumbai,2020-01-18,80.91,Maharashtra
+Mumbai,2020-01-19,80.74,Maharashtra
+Mumbai,2020-01-20,80.63,Maharashtra
+Mumbai,2020-01-21,80.47,Maharashtra
+Mumbai,2020-01-22,80.47,Maharashtra
+Mumbai,2020-01-23,80.29,Maharashtra
+Mumbai,2020-01-24,80.07,Maharashtra
+Mumbai,2020-01-25,79.82,Maharashtra
+Mumbai,2020-01-26,79.52,Maharashtra
+Mumbai,2020-01-27,79.38,Maharashtra
+Mumbai,2020-01-28,79.27,Maharashtra
+Mumbai,2020-01-29,79.27,Maharashtra
+Mumbai,2020-01-30,79.03,Maharashtra
+Mumbai,2020-01-31,78.94,Maharashtra
+Mumbai,2020-02-01,78.8,Maharashtra
+Mumbai,2020-02-02,78.7,Maharashtra
+Mumbai,2020-02-03,78.66,Maharashtra
+Mumbai,2020-02-04,78.61,Maharashtra
+Mumbai,2020-02-05,78.61,Maharashtra
+Mumbai,2020-02-06,78.51,Maharashtra
+Mumbai,2020-02-07,78.3,Maharashtra
+Mumbai,2020-02-08,78.07,Maharashtra
+Mumbai,2020-02-09,77.85,Maharashtra
+Mumbai,2020-02-10,77.72,Maharashtra
+Mumbai,2020-02-11,77.57,Maharashtra
+Mumbai,2020-02-12,77.57,Maharashtra
+Mumbai,2020-02-13,77.57,Maharashtra
+Mumbai,2020-02-14,77.57,Maharashtra
+Mumbai,2020-02-15,77.57,Maharashtra
+Mumbai,2020-02-17,77.57,Maharashtra
+Mumbai,2020-02-18,77.52,Maharashtra
+Mumbai,2020-02-19,77.52,Maharashtra
+Mumbai,2020-02-20,77.52,Maharashtra
+Mumbai,2020-02-21,77.52,Maharashtra
+Mumbai,2020-02-24,77.64,Maharashtra
+Mumbai,2020-02-25,77.64,Maharashtra
+Mumbai,2020-02-26,77.64,Maharashtra
+Mumbai,2020-02-27,77.59,Maharashtra
+Mumbai,2020-02-28,77.59,Maharashtra
+Mumbai,2020-02-29,77.52,Maharashtra
+Mumbai,2020-03-01,77.38,Maharashtra
+Mumbai,2020-03-02,77.16,Maharashtra
+Mumbai,2020-03-03,77.11,Maharashtra
+Mumbai,2020-03-04,77.11,Maharashtra
+Mumbai,2020-03-05,76.96,Maharashtra
+Mumbai,2020-03-06,76.81,Maharashtra
+Mumbai,2020-03-07,76.69,Maharashtra
+Mumbai,2020-03-08,76.51,Maharashtra
+Mumbai,2020-03-09,76.27,Maharashtra
+Mumbai,2020-03-10,75.97,Maharashtra
+Mumbai,2020-03-11,75.97,Maharashtra
+Mumbai,2020-03-12,75.82,Maharashtra
+Mumbai,2020-03-13,75.68,Maharashtra
+Mumbai,2020-03-14,75.55,Maharashtra
+Mumbai,2020-03-15,75.44,Maharashtra
+Mumbai,2020-03-16,75.28,Maharashtra
+Mumbai,2020-03-17,75.28,Maharashtra
+Mumbai,2020-03-18,75.28,Maharashtra
+Mumbai,2020-03-19,75.28,Maharashtra
+Mumbai,2020-03-20,75.28,Maharashtra
+Mumbai,2020-03-21,75.28,Maharashtra
+Mumbai,2020-03-22,75.28,Maharashtra
+Mumbai,2020-03-23,75.28,Maharashtra
+Mumbai,2020-03-24,75.28,Maharashtra
+Mumbai,2020-03-25,75.28,Maharashtra
+Mumbai,2020-03-26,75.28,Maharashtra
+Mumbai,2020-03-27,75.28,Maharashtra
+Mumbai,2020-03-28,75.28,Maharashtra
+Mumbai,2020-03-29,75.28,Maharashtra
+Mumbai,2020-03-30,75.28,Maharashtra
+Mumbai,2020-03-31,75.28,Maharashtra
+Mumbai,2020-04-01,75.28,Maharashtra
+Mumbai,2020-04-02,75.28,Maharashtra
+Mumbai,2020-04-03,75.28,Maharashtra
+Mumbai,2020-04-04,75.28,Maharashtra
+Mumbai,2020-04-05,75.28,Maharashtra
+Mumbai,2020-04-06,76.29,Maharashtra
+Mumbai,2020-04-07,76.29,Maharashtra
+Mumbai,2020-04-08,76.29,Maharashtra
+Mumbai,2020-04-09,76.29,Maharashtra
+Mumbai,2020-04-10,76.29,Maharashtra
+Mumbai,2020-04-11,76.29,Maharashtra
+Mumbai,2020-04-12,76.29,Maharashtra
+Mumbai,2020-04-13,76.29,Maharashtra
+Mumbai,2020-04-14,76.29,Maharashtra
+Mumbai,2020-04-15,76.29,Maharashtra
+Mumbai,2020-04-16,76.29,Maharashtra
+Mumbai,2020-04-17,76.29,Maharashtra
+Mumbai,2020-04-18,76.29,Maharashtra
+Mumbai,2020-04-20,76.29,Maharashtra
+Mumbai,2020-04-21,76.29,Maharashtra
+Mumbai,2020-04-22,76.29,Maharashtra
+Mumbai,2020-04-23,76.29,Maharashtra
+Mumbai,2020-04-24,76.29,Maharashtra
+Mumbai,2020-04-25,76.29,Maharashtra
+Mumbai,2020-04-26,76.29,Maharashtra
+Mumbai,2020-04-27,76.29,Maharashtra
+Mumbai,2020-04-28,76.29,Maharashtra
+Mumbai,2020-04-29,76.29,Maharashtra
+Mumbai,2020-04-30,76.29,Maharashtra
+Mumbai,2020-05-01,76.29,Maharashtra
+Mumbai,2020-05-02,76.29,Maharashtra
+Mumbai,2020-05-03,76.29,Maharashtra
+Mumbai,2020-05-04,76.29,Maharashtra
+Mumbai,2020-05-05,76.29,Maharashtra
+Mumbai,2020-05-06,76.29,Maharashtra
+Mumbai,2020-05-07,76.29,Maharashtra
+Mumbai,2020-05-08,76.29,Maharashtra
+Mumbai,2020-05-09,76.29,Maharashtra
+Mumbai,2020-05-10,76.29,Maharashtra
+Mumbai,2020-05-11,76.29,Maharashtra
+Mumbai,2020-05-12,76.29,Maharashtra
+Mumbai,2020-05-13,76.29,Maharashtra
+Mumbai,2020-05-14,76.29,Maharashtra
+Mumbai,2020-05-15,76.29,Maharashtra
+Mumbai,2020-05-16,76.29,Maharashtra
+Mumbai,2020-05-17,76.29,Maharashtra
+Mumbai,2020-05-18,76.29,Maharashtra
+Mumbai,2020-05-19,76.29,Maharashtra
+Mumbai,2020-05-20,76.29,Maharashtra
+Mumbai,2020-05-21,76.29,Maharashtra
+Mumbai,2020-05-22,76.29,Maharashtra
+Mumbai,2020-05-23,76.29,Maharashtra
+Mumbai,2020-05-24,76.29,Maharashtra
+Mumbai,2020-05-25,76.29,Maharashtra
+Mumbai,2020-05-26,76.29,Maharashtra
+Mumbai,2020-05-27,76.29,Maharashtra
+Mumbai,2020-05-28,76.29,Maharashtra
+Mumbai,2020-05-29,76.29,Maharashtra
+Mumbai,2020-05-30,76.29,Maharashtra
+Mumbai,2020-05-31,76.29,Maharashtra
+Mumbai,2020-06-01,78.3,Maharashtra
+Mumbai,2020-06-02,78.3,Maharashtra
+Mumbai,2020-06-03,78.3,Maharashtra
+Mumbai,2020-06-04,78.3,Maharashtra
+Mumbai,2020-06-05,78.3,Maharashtra
+Mumbai,2020-06-06,78.3,Maharashtra
+Mumbai,2020-06-07,78.9,Maharashtra
+Mumbai,2020-06-08,79.5,Maharashtra
+Mumbai,2020-06-09,80.04,Maharashtra
+Mumbai,2020-06-10,80.44,Maharashtra
+Mumbai,2020-06-11,81.04,Maharashtra
+Mumbai,2020-06-12,81.64,Maharashtra
+Mumbai,2020-06-13,82.24,Maharashtra
+Mumbai,2020-06-14,82.84,Maharashtra
+Mumbai,2020-06-15,83.15,Maharashtra
+Mumbai,2020-06-16,83.6,Maharashtra
+Mumbai,2020-06-17,84.13,Maharashtra
+Mumbai,2020-06-18,84.65,Maharashtra
+Mumbai,2020-06-19,85.19,Maharashtra
+Mumbai,2020-06-20,85.68,Maharashtra
+Mumbai,2020-06-21,86.02,Maharashtra
+Mumbai,2020-06-22,86.34,Maharashtra
+Mumbai,2020-06-23,86.52,Maharashtra
+Mumbai,2020-06-24,86.52,Maharashtra
+Mumbai,2020-06-25,86.68,Maharashtra
+Mumbai,2020-06-26,86.89,Maharashtra
+Mumbai,2020-06-27,87.12,Maharashtra
+Mumbai,2020-06-28,87.12,Maharashtra
+Mumbai,2020-06-29,87.17,Maharashtra
+Mumbai,2020-06-30,87.17,Maharashtra
+Mumbai,2020-07-01,87.17,Maharashtra
+Mumbai,2020-07-02,87.17,Maharashtra
+Mumbai,2020-07-03,87.17,Maharashtra
+Mumbai,2020-07-04,87.17,Maharashtra
+Mumbai,2020-07-05,87.17,Maharashtra
+Mumbai,2020-07-06,87.17,Maharashtra
+Mumbai,2020-07-07,87.17,Maharashtra
+Mumbai,2020-07-08,87.17,Maharashtra
+Mumbai,2020-07-09,87.17,Maharashtra
+Mumbai,2020-07-10,87.17,Maharashtra
+Mumbai,2020-07-11,87.17,Maharashtra
+Mumbai,2020-07-12,87.17,Maharashtra
+Mumbai,2020-07-13,87.17,Maharashtra
+Mumbai,2020-07-15,87.17,Maharashtra
+Mumbai,2020-07-16,87.17,Maharashtra
+Mumbai,2020-07-17,87.17,Maharashtra
+Mumbai,2020-07-18,87.17,Maharashtra
+Mumbai,2020-07-19,87.17,Maharashtra
+Mumbai,2020-07-20,87.17,Maharashtra
+Mumbai,2020-07-21,87.17,Maharashtra
+Mumbai,2020-07-22,87.17,Maharashtra
+Mumbai,2020-07-23,87.17,Maharashtra
+Mumbai,2020-07-24,87.17,Maharashtra
+Mumbai,2020-07-25,87.17,Maharashtra
+Mumbai,2020-07-26,87.17,Maharashtra
+Mumbai,2020-07-27,87.17,Maharashtra
+Mumbai,2020-07-28,87.17,Maharashtra
+Mumbai,2020-07-29,87.17,Maharashtra
+Mumbai,2020-07-30,87.17,Maharashtra
+Mumbai,2020-07-31,87.17,Maharashtra
+Mumbai,2020-08-01,87.17,Maharashtra
+Mumbai,2020-08-02,87.17,Maharashtra
+Mumbai,2020-08-03,87.17,Maharashtra
+Mumbai,2020-08-04,87.17,Maharashtra
+Mumbai,2020-08-05,87.17,Maharashtra
+Mumbai,2020-08-06,87.17,Maharashtra
+Mumbai,2020-08-07,87.17,Maharashtra
+Mumbai,2020-08-08,87.17,Maharashtra
+Mumbai,2020-08-09,87.17,Maharashtra
+Mumbai,2020-08-10,87.17,Maharashtra
+Mumbai,2020-08-11,87.17,Maharashtra
+Mumbai,2020-08-12,87.17,Maharashtra
+Mumbai,2020-08-13,87.17,Maharashtra
+Mumbai,2020-08-14,87.17,Maharashtra
+Mumbai,2020-08-15,87.17,Maharashtra
+Mumbai,2020-08-16,87.33,Maharashtra
+Mumbai,2020-08-17,87.48,Maharashtra
+Mumbai,2020-08-18,87.64,Maharashtra
+Mumbai,2020-08-19,87.64,Maharashtra
+Mumbai,2020-08-20,87.74,Maharashtra
+Mumbai,2020-08-21,87.92,Maharashtra
+Mumbai,2020-08-22,88.08,Maharashtra
+Mumbai,2020-08-23,88.21,Maharashtra
+Mumbai,2020-08-24,88.34,Maharashtra
+Mumbai,2020-08-25,88.44,Maharashtra
+Mumbai,2020-08-26,88.44,Maharashtra
+Mumbai,2020-08-27,88.54,Maharashtra
+Mumbai,2020-08-28,88.64,Maharashtra
+Mumbai,2020-08-29,88.64,Maharashtra
+Mumbai,2020-08-30,88.73,Maharashtra
+Mumbai,2020-08-31,88.73,Maharashtra
+Mumbai,2020-09-01,88.78,Maharashtra
+Mumbai,2020-09-02,88.78,Maharashtra
+Mumbai,2020-09-03,88.78,Maharashtra
+Mumbai,2020-09-04,88.78,Maharashtra
+Mumbai,2020-09-05,88.78,Maharashtra
+Mumbai,2020-09-06,88.78,Maharashtra
+Mumbai,2020-09-07,88.78,Maharashtra
+Mumbai,2020-09-08,88.78,Maharashtra
+Mumbai,2020-09-09,88.78,Maharashtra
+Mumbai,2020-09-10,88.7,Maharashtra
+Mumbai,2020-09-11,88.7,Maharashtra
+Mumbai,2020-09-12,88.57,Maharashtra
+Mumbai,2020-09-13,88.57,Maharashtra
+Mumbai,2020-09-14,88.44,Maharashtra
+Mumbai,2020-09-15,88.27,Maharashtra
+Mumbai,2020-09-16,88.27,Maharashtra
+Mumbai,2020-09-17,88.13,Maharashtra
+Mumbai,2020-09-18,87.87,Maharashtra
+Mumbai,2020-09-19,87.87,Maharashtra
+Mumbai,2020-09-20,87.87,Maharashtra
+Mumbai,2020-09-21,87.87,Maharashtra
+Mumbai,2020-09-22,87.8,Maharashtra
+Mumbai,2020-09-23,87.8,Maharashtra
+Mumbai,2020-09-24,87.8,Maharashtra
+Mumbai,2020-09-25,87.8,Maharashtra
+Mumbai,2020-09-26,87.8,Maharashtra
+Mumbai,2020-09-27,87.8,Maharashtra
+Mumbai,2020-09-28,87.8,Maharashtra
+Mumbai,2020-09-29,87.8,Maharashtra
+Mumbai,2020-09-30,87.8,Maharashtra
+Mumbai,2020-10-01,87.8,Maharashtra
+Mumbai,2020-10-02,87.8,Maharashtra
+Mumbai,2020-10-03,87.8,Maharashtra
+Mumbai,2020-10-04,87.8,Maharashtra
+Mumbai,2020-10-05,87.8,Maharashtra
+Mumbai,2020-10-06,87.8,Maharashtra
+Mumbai,2020-10-07,87.8,Maharashtra
+Mumbai,2020-10-08,87.8,Maharashtra
+Mumbai,2020-10-09,87.8,Maharashtra
+Mumbai,2020-10-10,87.8,Maharashtra
+Mumbai,2020-10-11,87.8,Maharashtra
+Mumbai,2020-10-12,87.8,Maharashtra
+Mumbai,2020-10-13,87.8,Maharashtra
+Mumbai,2020-10-14,87.8,Maharashtra
+Mumbai,2020-10-15,87.8,Maharashtra
+Mumbai,2020-10-16,87.8,Maharashtra
+Mumbai,2020-10-17,87.8,Maharashtra
+Mumbai,2020-10-18,87.8,Maharashtra
+Mumbai,2020-10-19,87.8,Maharashtra
+Mumbai,2020-10-20,87.8,Maharashtra
+Mumbai,2020-10-21,87.8,Maharashtra
+Mumbai,2020-10-22,87.8,Maharashtra
+Mumbai,2020-10-23,87.8,Maharashtra
+Mumbai,2020-10-24,87.8,Maharashtra
+Mumbai,2020-10-25,87.8,Maharashtra
+Mumbai,2020-10-26,87.8,Maharashtra
+Mumbai,2020-10-27,87.8,Maharashtra
+Mumbai,2020-10-28,87.8,Maharashtra
+Mumbai,2020-10-29,87.8,Maharashtra
+Mumbai,2020-10-30,87.8,Maharashtra
+Mumbai,2020-10-31,87.8,Maharashtra
+Mumbai,2020-11-01,87.8,Maharashtra
+Mumbai,2020-11-02,87.8,Maharashtra
+Mumbai,2020-11-03,87.8,Maharashtra
+Mumbai,2020-11-04,87.8,Maharashtra
+Mumbai,2020-11-05,87.8,Maharashtra
+Mumbai,2020-11-06,87.8,Maharashtra
+Mumbai,2020-11-07,87.8,Maharashtra
+Mumbai,2020-11-08,87.8,Maharashtra
+Mumbai,2020-11-09,87.8,Maharashtra
+Mumbai,2020-11-10,87.8,Maharashtra
+Mumbai,2020-11-11,87.8,Maharashtra
+Mumbai,2020-11-12,87.8,Maharashtra
+Mumbai,2020-11-13,87.8,Maharashtra
+Mumbai,2020-11-14,87.8,Maharashtra
+Mumbai,2020-11-15,87.8,Maharashtra
+Mumbai,2020-11-16,87.8,Maharashtra
+Mumbai,2020-11-17,87.8,Maharashtra
+Mumbai,2020-11-18,87.8,Maharashtra
+Mumbai,2020-11-19,87.8,Maharashtra
+Mumbai,2020-11-20,87.95,Maharashtra
+Mumbai,2020-11-21,88.08,Maharashtra
+Mumbai,2020-11-22,88.13,Maharashtra
+Mumbai,2020-11-23,88.19,Maharashtra
+Mumbai,2020-11-24,88.25,Maharashtra
+Mumbai,2020-11-25,88.25,Maharashtra
+Mumbai,2020-11-26,88.36,Maharashtra
+Mumbai,2020-11-27,88.54,Maharashtra
+Mumbai,2020-11-28,88.77,Maharashtra
+Mumbai,2020-11-29,88.98,Maharashtra
+Mumbai,2020-11-30,88.98,Maharashtra
+Mumbai,2020-12-01,88.98,Maharashtra
+Mumbai,2020-12-02,89.12,Maharashtra
+Mumbai,2020-12-03,89.29,Maharashtra
+Mumbai,2020-12-04,89.48,Maharashtra
+Mumbai,2020-12-05,89.74,Maharashtra
+Mumbai,2020-12-06,90.01,Maharashtra
+Mumbai,2020-12-07,90.3,Maharashtra
+Mumbai,2020-12-08,90.3,Maharashtra
+Mumbai,2020-12-09,90.3,Maharashtra
+Mumbai,2020-12-10,90.3,Maharashtra
+Mumbai,2020-12-11,90.3,Maharashtra
+Mumbai,2020-12-12,90.3,Maharashtra
+Mumbai,2020-12-13,90.3,Maharashtra
+Mumbai,2020-12-14,90.3,Maharashtra
+Mumbai,2020-12-15,90.3,Maharashtra
+Mumbai,2020-12-16,90.3,Maharashtra
+Mumbai,2020-12-17,90.3,Maharashtra
+Mumbai,2020-12-18,90.3,Maharashtra
+Mumbai,2020-12-19,90.3,Maharashtra
+Mumbai,2020-12-20,90.3,Maharashtra
+Mumbai,2020-12-21,90.3,Maharashtra
+Mumbai,2020-12-22,90.3,Maharashtra
+Mumbai,2020-12-23,90.3,Maharashtra
+Mumbai,2020-12-24,90.3,Maharashtra
+Mumbai,2020-12-25,90.3,Maharashtra
+Mumbai,2020-12-26,90.3,Maharashtra
+Mumbai,2020-12-27,90.3,Maharashtra
+Mumbai,2020-12-28,90.3,Maharashtra
+Mumbai,2020-12-29,90.3,Maharashtra
+Mumbai,2020-12-30,90.3,Maharashtra
+Mumbai,2020-12-31,90.3,Maharashtra
