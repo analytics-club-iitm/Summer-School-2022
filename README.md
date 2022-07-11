@@ -11,7 +11,8 @@ To join the Microsoft Teams, use the [Invite Link](https://teams.microsoft.com/l
 
 | Task | Description | Link | Deadline |
 | :--- | :---------- | :--- | :------- |
-| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 11th 2022, 12 Noon |
+| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 11th 2022, 11:59 PM |
+| 2    | Data Science Hackathon | [Task 2](/Task_2/), [Kaggle](https://www.kaggle.com/competitions/summer-school-2022-task-2) | July 18th 2022, 11:59 PM |
 
 ## Sessions
 
