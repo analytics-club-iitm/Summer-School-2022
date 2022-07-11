@@ -1,4 +1,4 @@
-## Intro to Machine Learning:
+## Visualization using Matplotlib, Introduction to Machine Learning
 July 8th, 2022.
 The contents of this session include:
   1. [Matplotlib](https://github.com/analytics-club-iitm/Summer-School-2022/blob/main/Session_2/(1)%20Matplotlib.ipynb)
