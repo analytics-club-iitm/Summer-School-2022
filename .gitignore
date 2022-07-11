@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+Task_2/data/outputs.csv
+
 
 # Distribution / packaging
 .Python
@@ -127,3 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
