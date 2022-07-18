@@ -23,7 +23,7 @@ To join the Microsoft Teams, use the [Invite Link](https://teams.microsoft.com/l
 | 3       | July 11th 2022 | Understanding Machine Learning Models (Part 1)      | kth Nearest Neighbours, Simple Vector Machines, Naive Bayes, Performance Metrics | [Session 3](/Session_3/) | [Recording](https://youtu.be/MUgzZa_O-QI) |
 | 4       | July 13th 2022 | Understanding Machine Learning Models (Part 2)      | Tree-based Models, Ensemble Methods, Recommendation Systems | [Session 4](/Session_4/) | [Recording](https://youtu.be/pEhDPfVi27E) |
 | 5       | July 15th 2022 | Introduction to Deep Learning (Part 1)              | Neural Networks, McCulloch Pitts Neuron, Thresholding Logic, Perceptron Learning Algorithm and Convergence, Multilayer Perceptrons | [Session 5](/Session_5/) | [Recording](https://youtu.be/xoD65hPjAZQ) |
-| 6       | July 18th 2022 | Introduction to Deep Learning (Part 2)              | Back-Propagation and Gradient Descent and other varients | [Session 6](/Session_6/) | To be updated |
+| 6       | July 18th 2022 | Introduction to Deep Learning (Part 2)              | Back-Propagation and Gradient Descent and other varients | [Session 6](/Session_6/) | [Recording](https://youtu.be/jlVSew3NF2o) |
 | 7       | July 20th 2022 | Strategies for training Neural Networks and Introduction to OpenCV | Regularisation, Normalization, OpenCV     | To be updated        | To be updated |
 | 8       | July 22nd 2022 | State-of-the-art Models, Brief on Natural Language Processing and Reinforcement Learning | AlexNet, VGGNet, GoogLeNet, ResNet, NLP Models | To be updated        | To be updated |
 
