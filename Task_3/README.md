@@ -1,4 +1,4 @@
-## Task 2
+## Task 3
 ## Deep Learning Challenge
 
 A [dataset](https://storage.googleapis.com/wandb_datasets/nature_12K.zip) consists of 12000 images split into two parts - 10000 train and 2000 validation samples. The images belong to 10 classes. You can download the dataset [here](https://storage.googleapis.com/wandb_datasets/nature_12K.zip).
