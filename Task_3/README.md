@@ -16,7 +16,7 @@ The classes being
 - Mollusca
 - Reptilia
 
-The task is to train a Convolutional Neural Network to predict which class the object in each image belongs to. You may make use of the sample code provided to start with.
+The task is to train a Convolutional Neural Network to predict which class the object in each image belongs to. You may make use of the [sample code](https://colab.research.google.com/github/analytics-club-iitm/Summer-School-2022/blob/main/Task_3/notebook/Task%203%20Notebook.ipynb) provided to start with.
 
 ### Instructions
 
