@@ -25,4 +25,4 @@ A [dataset](/Task_2/data/train_data.csv) consists of data describing used cars. 
 
 - The competition is hosted on [Kaggle](https://www.kaggle.com/competitions/summer-school-2022-task-2). You can use your personal email to register yourselves and participate in the hackathon.
 
-- You may work individually or in teams.
+- You may work individually or in teams. You are requested to update your team details in this [form](https://forms.gle/asJG4XbQRo8rbytV9).
