@@ -1,5 +1,5 @@
 ## Task 2
-## Data Science Challenge
+## Data Science Hackathon
 
 A [dataset](/Task_2/data/train_data.csv) consists of data describing used cars. The task is predicting the price of the car described by 14 metrics, which are as follows:
 
